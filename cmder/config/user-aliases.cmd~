@@ -1,0 +1,23 @@
+;= @echo off
+;= rem Call DOSKEY and use this file as the macrofile
+;= %SystemRoot%\system32\doskey /listsize=1000 /macrofile=%0%
+;= rem In batch mode, jump to the end of the file
+;= goto:eof
+;= Add aliases below here
+e.=explorer .
+gl=git log --oneline --all --graph --decorate  $*
+ls=ls --show-control-chars -F --color $*
+pwd=cd
+clear=cls
+history=cat "%CMDER_ROOT%\config\.history"
+unalias=alias /d $1
+vi = vim $*
+v = vim $*
+hs = http-server $*
+ndm = nodemon $*
+bde = manage-bde $*
+sd = shutdown $*
+cmderr=cd /d "%CMDER_ROOT%"
+sl = "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" $1 -new_console
+slc = "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" $1 -new_console:s50V
+vs = "%VSCODE%\bin\code.cmd" $1 -new_console  
