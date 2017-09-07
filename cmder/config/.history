@@ -3114,3 +3114,14 @@ git remote add origin https://github.com/frizadiga/hiuEnvirontment.git
 git remote -v
 git add .
 git commit -m "init"
+git remote -v
+git add .
+git commit -m "init"
+git add . & git status
+git commit -m "update"
+g\
+ls -al ~/.ssh
+eval $(ssh-agent -s)
+clip < ~/.ssh/id_rsa.pub
+clip < ls -al ~/.ssh/id_rsa.pub
+git push -u origin master
