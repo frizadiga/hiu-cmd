@@ -3096,3 +3096,21 @@ hiuproperty-sails
 cmderr
 cd bin
 ls
+cd /d %hiuapps%/hiuproperty/hiuproperty-sails
+git pull
+start-hiu-property-sails
+refreshenv
+start-hiuproperty-sails
+hiuproperty-sails
+cmderr
+cd bin
+ls
+ping google.com
+e.
+cd..
+git init
+ping hiuwave.com
+git remote add origin https://github.com/frizadiga/hiuEnvirontment.git
+git remote -v
+git add .
+git commit -m "init"
