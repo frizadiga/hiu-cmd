@@ -3125,3 +3125,7 @@ eval $(ssh-agent -s)
 clip < ~/.ssh/id_rsa.pub
 clip < ls -al ~/.ssh/id_rsa.pub
 git push -u origin master
+cd bin
+ls
+ping hiuwave.com
+ping google.com
