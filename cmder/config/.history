@@ -3129,3 +3129,78 @@ cd bin
 ls
 ping hiuwave.com
 ping google.com
+start-hiuproperty-sails
+hiuproperty-sails
+cmderr
+cd bin
+ls
+cd /d %hiuapps%/hiuproperty/hiuproperty-sails
+start-hiu-property-sails
+start-hiuproperty-sails
+hiuproperty-sails
+cmderr
+cd bin
+ls
+e.
+cd..
+git init
+git remote add origin https://github.com/frizadiga/hiuEnvirontment.git
+git remote -v
+git add .
+git commit -m "init"
+git commit -m "init"
+g\
+ls -al ~/.ssh
+eval $(ssh-agent -s)
+clip < ~/.ssh/id_rsa.pub
+clip < ls -al ~/.ssh/id_rsa.pub
+git remote set-url origin git@github.com:frizadiga/hiuEnvirontment.git
+git remote -v
+git pull
+git pull origin master
+git pull origin master --allow-unrelated-history
+git checkout master
+git merge origin/master --allow-unrelated-histories
+git push -u origin master
+git add . & git status
+sl
+git add .
+git add . & git status -v
+ping google.com
+git commit -m "update"
+git push
+ping hiuwave.com
+ping hiuwave.com & ping hiuwave.com
+ping hiuwave.com & ping google.com
+netsh wlan dis godspeed
+netsh wlan dis Godspeed
+netsh wlan dis 'Godspeed'
+ping google.com & ping hiuwave.com
+npm install -g quasar-cli
+quasar list
+refreshenv
+quasar -v
+npm install -g quasar-cli
+quasar list
+quasar -v
+refreshenv
+rsx
+bde a: -unlock -password
+refreshenv
+quasar -v
+npm install -g quasar-cli
+quasar list
+quasar -v
+sd -s
+sd -a
+refreshenv
+bde a: -unlock -password
+rsx
+hiucmd
+cmderr
+e.
+cd hiuenvironment
+cd hiuenvirontment
+cd..
+ren hiuEnvirontment hiuEnvironment
+exit
