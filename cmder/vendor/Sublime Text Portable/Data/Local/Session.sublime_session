@@ -1,37 +1,13 @@
 {
 	"folder_history":
 	[
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-react",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-vue",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails-api",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-quasar",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-electron",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-express",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiu-c",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuCLI",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuElectron",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuReactNative",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-cordova",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.github.io",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps",
-		"/A/hiuData/hiuCmd",
-		"/A/hiuData/hiuWEB/AppJS/react/hiu-react",
-		"/C/Users/frizadiga",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuwave.com/hiuwave.com-express",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuWave.com",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiusig-sails"
 	],
 	"last_version": 3126,
-	"last_window_id": 56,
+	"last_window_id": 57,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 768.0,
+		"new_window_height": 732.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -1545,7 +1521,7 @@
 			{
 			}
 		},
-		"new_window_width": 1112.0
+		"new_window_width": 1072.0
 	},
 	"windows":
 	[
@@ -2537,7 +2513,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,848,1628,21,2756",
+			"position": "0,0,1,-1,-1,-1,-1,854,1641,63,2729",
 			"replace":
 			{
 				"height": 102.0
@@ -3101,7 +3077,7 @@
 	{
 		"recent_workspaces":
 		[
-			"/D/hiuSoft/Application/hiuEnvirontment/cmder/vendor/Sublime Text Portable/1.sublime-workspace"
+			"/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/1.sublime-workspace"
 		]
 	}
 }
