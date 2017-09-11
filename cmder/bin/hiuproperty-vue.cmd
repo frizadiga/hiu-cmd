@@ -1,1 +1,1 @@
-cd /d %hiuapps%/hiuproperty/hiuproperty-vue & npn run dev
+cd /d %hiuapps%/hiuproperty/hiuproperty-vue & npm run dev

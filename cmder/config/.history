@@ -3205,3 +3205,6 @@ cd..
 ren hiuEnvirontment hiuEnvironment
 exit
 exit
+refreshenv
+github
+hiuproperty-vue
