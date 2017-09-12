@@ -3208,3 +3208,27 @@ exit
 refreshenv
 github
 hiuproperty-vue
+exit
+cmderr
+cd hiuenvironment
+cd hiuenvirontment
+ren hiuEnvirontment hiuEnvironment
+exit
+exit
+bde a: -unlock -password
+cd a: & start.
+e.
+git add . & git status
+git commit -m "add new batch"
+git push
+git add . & git status & git commit -m "fix batch task" & git push
+sl
+cmderac
+cd /d %hiuapps%
+cd hiugs & ls
+git clone https://github.com/nodejs/node.git
+cd..
+cd node
+ls
+ndm asuncAwait.js
+ndm asyncAwait.js
