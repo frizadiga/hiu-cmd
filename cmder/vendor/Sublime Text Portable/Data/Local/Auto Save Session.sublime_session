@@ -1,9 +1,10 @@
 {
 	"folder_history":
 	[
+		"/A/hiuData/hiuWEB/AppJS/vue/f7-vue"
 	],
 	"last_version": 3126,
-	"last_window_id": 57,
+	"last_window_id": 58,
 	"log_indexing": false,
 	"settings":
 	{
@@ -623,6 +624,7 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/dev.env.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/test/tomomi.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/static/w3.css",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/static/css/w3.css",
@@ -749,8 +751,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/BookingsController.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-dp.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Bookings.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/bookings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/node_modules/sails-generate-views/templates/layout.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/bookings.ejs"
 			],
 			"find":
 			{
@@ -2047,20 +2048,38 @@
 			"buffers":
 			[
 				{
-					"file": "/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/src/components/tomomi.vue",
+					"file": "/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
 					"settings":
 					{
-						"buffer_size": 688,
+						"buffer_size": 1081,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/A/hiuData/hiuWEB/AppJS/node/asyncAwait.js",
+					"file": "/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/app.vue",
 					"settings":
 					{
-						"buffer_size": 473,
+						"buffer_size": 6579,
 						"encoding": "UTF-8",
-						"line_ending": "Unix"
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/routes.js",
+					"settings":
+					{
+						"buffer_size": 291,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/A/hiuData/hiuWEB/AppJS/vue/f7-vue/index.html",
+					"settings":
+					{
+						"buffer_size": 499,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
 					}
 				}
 			],
@@ -2072,7 +2091,7 @@
 			"command_palette":
 			{
 				"height": 270.0,
-				"last_filter": "insta",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -2140,7 +2159,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 410.0
+				"width": 370.0
 			},
 			"console":
 			{
@@ -2160,13 +2179,14 @@
 			},
 			"expanded_folders":
 			[
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/src",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/src/components",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/src/router"
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/css",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages"
 			],
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/node/asyncAwait.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/dev.env.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/test/tomomi.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/static/w3.css",
@@ -2293,8 +2313,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/helpers.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/BookingsController.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-dp.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Bookings.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/bookings.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Bookings.js"
 			],
 			"find":
 			{
@@ -2321,6 +2340,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"Framework7",
 					"Homepage",
 					"ello",
 					"w3-hover-white",
@@ -2447,8 +2467,7 @@
 					"bottom",
 					"\n  ",
 					")!",
-					"important",
-					"light"
+					"important"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2505,11 +2524,75 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/src/components/tomomi.vue",
-							"semi_transient": true,
+							"file": "/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 688,
+								"buffer_size": 1081,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1009,
+										1009
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 270.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/app.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6579,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2658,
+										2658
+									],
+									[
+										3137,
+										3137
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 918.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/routes.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 291,
 								"regions":
 								{
 								},
@@ -2522,36 +2605,6 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 54.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/A/hiuData/hiuWEB/AppJS/node/asyncAwait.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 473,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										250,
-										250
-									]
-								],
-								"settings":
-								{
 									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
@@ -2560,7 +2613,35 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/A/hiuData/hiuWEB/AppJS/vue/f7-vue/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 499,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										333,
+										333
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
 							"type": "text"
 						}
 					]
@@ -2602,7 +2683,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,825,1622,34,2710",
+			"position": "0,0,1,-1,-1,-1,-1,822,1649,31,2737",
 			"project": "1.sublime-project",
 			"replace":
 			{
