@@ -1,15 +1,16 @@
 {
 	"folder_history":
 	[
+		"/D/hiuSoft/Application/hiuEnvironment",
 		"/A/hiuData/hiuWEB/AppJS/vue/f7-vue",
 		"/A/hiuData/hiuWEB/AppJS/vue/q-pwa"
 	],
 	"last_version": 3143,
-	"last_window_id": 58,
+	"last_window_id": 60,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 748.0,
+		"new_window_height": 716.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -760,22 +761,13 @@
 			],
 			"find":
 			{
-				"height": 64.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
 				"height": 150.0,
 				"where_history":
 				[
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api"
 				]
 			},
 			"find_state":
@@ -783,134 +775,6 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"f7-popup",
-					"\n.",
-					"></",
-					"drawer",
-					" <q-toolbar slot=\"header\">\n        <q-btn flat>\n          <q-icon name=\"menu\" />\n        </q-btn>\n        <q-toolbar-title>\n          {{ topTitle }}\n        </q-toolbar-title>\n        <q-btn flat>\n          <q-icon name=\"more_vert\" />\n        </q-btn>\n      </q-toolbar>",
-					"h4",
-					"quasar",
-					"myinfiniteVar",
-					"Framework7",
-					"Homepage",
-					"ello",
-					"w3-hover-white",
-					"height:70vh",
-					"w3-sepia",
-					"height:70vh;",
-					"id=\"main-pic\"",
-					"height:70vh;",
-					"/img/rumah2q-logo.png",
-					"rumah2q-logo",
-					"roperty-logo",
-					"rumah2q-logo",
-					"openTab",
-					"height:100%",
-					"80vh",
-					"green",
-					"teal",
-					"blue",
-					"red",
-					"jual",
-					"dijual",
-					"w3-red",
-					"</li>",
-					"<li>",
-					"li",
-					"id=\"map\"",
-					"t, 'maps",
-					"map",
-					"ss=\"tablink",
-					"cityName",
-					"dataListings",
-					"openCity",
-					"tabInstantView",
-					"city\"",
-					"city",
-					"dataListings",
-					"grey",
-					"text",
-					"w3-button",
-					"id01",
-					"sort",
-					"jual",
-					"a id=",
-					"data.",
-					"customer",
-					"modal-detail-booking",
-					"ooking",
-					"dataUsers",
-					"Booking",
-					"idPaymentDetail",
-					"basename",
-					"value=\"\"",
-					"selectToBank",
-					"select-to-bank",
-					"function",
-					"function(req,res){",
-					"Banks",
-					"back",
-					"''%>\"",
-					"delete-user",
-					"deleteUser",
-					"BANK",
-					"no",
-					"user",
-					"Users",
-					"ser",
-					"Users",
-					"user",
-					"  ",
-					"w3-light-grey w3-bottombar w3-hover-light-grey w3-hover-text-blue-grey w3-padding w3-border-green",
-					"w3-hover-text-blue-grey w3-",
-					"t-grey w3-bottombar w3-hover-light-grey",
-					"mbar w3-hover",
-					"=\"w3-leftbar",
-					"Xtab",
-					"div",
-					"onclick",
-					"ubah",
-					"%=",
-					"||",
-					")",
-					"-",
-					"ansi?",
-					"%=",
-					":",
-					"%=",
-					"||",
-					"dataKuitansi.",
-					"si)",
-					")",
-					"||",
-					"%=",
-					"dataKuitansi",
-					"%>",
-					"||",
-					"% ||",
-					"</td>",
-					"Proof",
-					"proof",
-					"Proof",
-					"Bukti",
-					"dpProof",
-					"phoneDetail",
-					"emailDetail",
-					"dataPaymentDetail",
-					"displayDetailPayment",
-					"detailPayment",
-					"setDataPayment",
-					"dataPayments",
-					"modalDetailPayment",
-					"Pembayaran",
-					"modal-detail-payment",
-					"deleteBooking",
-					"modalDeleteBooking",
-					"delete",
-					"modalDeleteBooking",
-					"DELETE",
-					"deleteBooking",
-					"formNavbarSearch"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -918,40 +782,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"/img/hiuProperty-logo.png",
-					"hiuProperty-logo",
-					"filter-options-listings",
-					"layout-dashboards",
-					"/dashboards/",
-					"dashboards/",
-					"/dashboards",
-					".listing",
-					".beds",
-					".baths",
-					"baths",
-					"floors",
-					"floors.",
-					"/listings-",
-					"/listings'",
-					"/listings?",
-					"/listings\"",
-					"/listings/",
-					"Listings",
-					"listings",
-					"Listings",
-					"dataProperties",
-					"owner",
-					"agent",
-					"class=\"",
-					"w3-text-grey",
-					"modal-confirm-delete-message",
-					"modal-image",
-					"",
-					"dataAgent",
-					"dataAgents",
-					"<p><b>Villa View Seminyak Beach</b></p>",
-					"w3-card",
-					"sideBarLeft"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -975,7 +805,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 102.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1527,7 +1357,7 @@
 			{
 			}
 		},
-		"new_window_width": 1056.0
+		"new_window_width": 1048.0
 	},
 	"windows":
 	[
@@ -2053,12 +1883,66 @@
 			"buffers":
 			[
 				{
-					"file": "/A/hiuData/hiuWEB/AppJS/vue/f7-vue/package.json",
+					"file": "user-aliases.cmd",
 					"settings":
 					{
-						"buffer_size": 2088,
-						"encoding": "UTF-8",
+						"buffer_size": 1314,
 						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/http-server.cmd",
+					"settings":
+					{
+						"buffer_size": 14,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": "http-server %0"
+					}
+				},
+				{
+					"file": "cmderr.cmd",
+					"settings":
+					{
+						"buffer_size": 20,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cpcd.cmd",
+					"settings":
+					{
+						"buffer_size": 14,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/tidur.cmd",
+					"settings":
+					{
+						"buffer_size": 47,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/envir.cmd",
+					"settings":
+					{
+						"buffer_size": 65,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/xampp-control.cmd",
+					"settings":
+					{
+						"buffer_size": 43,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
 					}
 				}
 			],
@@ -2162,7 +2046,10 @@
 			},
 			"expanded_folders":
 			[
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue"
+				"/D/hiuSoft/Application/hiuEnvironment",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/config"
 			],
 			"file_history":
 			[
@@ -2297,22 +2184,13 @@
 			],
 			"find":
 			{
-				"height": 64.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
 				"height": 150.0,
 				"where_history":
 				[
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
-					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api"
 				]
 			},
 			"find_state":
@@ -2320,134 +2198,6 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"f7-popup",
-					"\n.",
-					"></",
-					"drawer",
-					" <q-toolbar slot=\"header\">\n        <q-btn flat>\n          <q-icon name=\"menu\" />\n        </q-btn>\n        <q-toolbar-title>\n          {{ topTitle }}\n        </q-toolbar-title>\n        <q-btn flat>\n          <q-icon name=\"more_vert\" />\n        </q-btn>\n      </q-toolbar>",
-					"h4",
-					"quasar",
-					"myinfiniteVar",
-					"Framework7",
-					"Homepage",
-					"ello",
-					"w3-hover-white",
-					"height:70vh",
-					"w3-sepia",
-					"height:70vh;",
-					"id=\"main-pic\"",
-					"height:70vh;",
-					"/img/rumah2q-logo.png",
-					"rumah2q-logo",
-					"roperty-logo",
-					"rumah2q-logo",
-					"openTab",
-					"height:100%",
-					"80vh",
-					"green",
-					"teal",
-					"blue",
-					"red",
-					"jual",
-					"dijual",
-					"w3-red",
-					"</li>",
-					"<li>",
-					"li",
-					"id=\"map\"",
-					"t, 'maps",
-					"map",
-					"ss=\"tablink",
-					"cityName",
-					"dataListings",
-					"openCity",
-					"tabInstantView",
-					"city\"",
-					"city",
-					"dataListings",
-					"grey",
-					"text",
-					"w3-button",
-					"id01",
-					"sort",
-					"jual",
-					"a id=",
-					"data.",
-					"customer",
-					"modal-detail-booking",
-					"ooking",
-					"dataUsers",
-					"Booking",
-					"idPaymentDetail",
-					"basename",
-					"value=\"\"",
-					"selectToBank",
-					"select-to-bank",
-					"function",
-					"function(req,res){",
-					"Banks",
-					"back",
-					"''%>\"",
-					"delete-user",
-					"deleteUser",
-					"BANK",
-					"no",
-					"user",
-					"Users",
-					"ser",
-					"Users",
-					"user",
-					"  ",
-					"w3-light-grey w3-bottombar w3-hover-light-grey w3-hover-text-blue-grey w3-padding w3-border-green",
-					"w3-hover-text-blue-grey w3-",
-					"t-grey w3-bottombar w3-hover-light-grey",
-					"mbar w3-hover",
-					"=\"w3-leftbar",
-					"Xtab",
-					"div",
-					"onclick",
-					"ubah",
-					"%=",
-					"||",
-					")",
-					"-",
-					"ansi?",
-					"%=",
-					":",
-					"%=",
-					"||",
-					"dataKuitansi.",
-					"si)",
-					")",
-					"||",
-					"%=",
-					"dataKuitansi",
-					"%>",
-					"||",
-					"% ||",
-					"</td>",
-					"Proof",
-					"proof",
-					"Proof",
-					"Bukti",
-					"dpProof",
-					"phoneDetail",
-					"emailDetail",
-					"dataPaymentDetail",
-					"displayDetailPayment",
-					"detailPayment",
-					"setDataPayment",
-					"dataPayments",
-					"modalDetailPayment",
-					"Pembayaran",
-					"modal-detail-payment",
-					"deleteBooking",
-					"modalDeleteBooking",
-					"delete",
-					"modalDeleteBooking",
-					"DELETE",
-					"deleteBooking",
-					"formNavbarSearch"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2455,40 +2205,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"/img/hiuProperty-logo.png",
-					"hiuProperty-logo",
-					"filter-options-listings",
-					"layout-dashboards",
-					"/dashboards/",
-					"dashboards/",
-					"/dashboards",
-					".listing",
-					".beds",
-					".baths",
-					"baths",
-					"floors",
-					"floors.",
-					"/listings-",
-					"/listings'",
-					"/listings?",
-					"/listings\"",
-					"/listings/",
-					"Listings",
-					"listings",
-					"Listings",
-					"dataProperties",
-					"owner",
-					"agent",
-					"class=\"",
-					"w3-text-grey",
-					"modal-confirm-delete-message",
-					"modal-image",
-					"",
-					"dataAgent",
-					"dataAgents",
-					"<p><b>Villa View Seminyak Beach</b></p>",
-					"w3-card",
-					"sideBarLeft"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -2496,46 +2212,207 @@
 				"whole_word": true,
 				"wrap": false
 			},
-			"folders":
-			[
-				{
-					"path": "A:\\hiuData\\hiuWEB\\AppJS\\vue\\f7-vue"
-				}
-			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/A/hiuData/hiuWEB/AppJS/vue/f7-vue/package.json",
-							"semi_transient": false,
+							"file": "user-aliases.cmd",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 2088,
+								"buffer_size": 1314,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										574,
-										574
+										160,
+										160
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 270.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/http-server.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14,
+										14
+									]
+								],
+								"settings":
+								{
+									"auto_name": "http-server %0",
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "cmderr.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 20,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cpcd.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/tidur.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 47,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										47,
+										47
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/envir.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 65,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										65,
+										65
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/xampp-control.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 43,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										43,
+										43
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
 							"type": "text"
 						}
 					]
@@ -2577,11 +2454,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,856,1620,49,2692",
-			"project": "",
+			"position": "0,0,1,-1,-1,-1,-1,806,2021,31,3085",
+			"project": "hiuEnvironment.sublime-project",
 			"replace":
 			{
-				"height": 102.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -3136,14 +3013,15 @@
 			"template_settings":
 			{
 			},
-			"window_id": 55,
-			"workspace_name": ""
+			"window_id": 60,
+			"workspace_name": "/D/hiuSoft/Application/hiuEnvironment/cmder/config/hiuEnvironment.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/D/hiuSoft/Application/hiuEnvironment/cmder/config/hiuEnvironment.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/vue/vue-mobile.sublime-workspace",
 			"/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/1.sublime-workspace"
 		]
