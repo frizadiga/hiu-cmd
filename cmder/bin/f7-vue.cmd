@@ -1,1 +1,1 @@
-cd /d %appjs%/vue/f7-vue & npm run dev
+cd /d %appjs%/playground/f7-vue & npm run dev

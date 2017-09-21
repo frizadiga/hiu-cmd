@@ -1,1 +1,1 @@
-http-server %0
+http-server %*

@@ -3244,3 +3244,29 @@ refreshenv
 cmder
 sl
 cmderr
+cd-appjs
+cd-appjs
+f7-vue
+exit
+exit
+f7-vue
+exit
+exit
+cd..
+git add .
+git commit -m & git push
+git commit -m "update" & git push
+chr
+envir
+sl
+android
+bde-a
+http-server -p 7777
+cmder
+refreshenv
+cmderr
+npm i -g json-server
+hs -p 7777
+git add. & git status
+git add . & git status
+git
