@@ -3340,3 +3340,5 @@ cd conemu
 ls
 attach
 sl
+exit
+exit

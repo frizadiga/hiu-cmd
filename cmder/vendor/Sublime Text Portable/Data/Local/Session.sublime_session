@@ -14,7 +14,7 @@
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 670.0,
+		"new_window_height": 716.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -638,7 +638,7 @@
 			},
 			"file_history":
 			[
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/%1",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-profile.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-old.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/express/lib/response.js",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/config/index.js",
@@ -994,10 +994,6 @@
 				"selected_items":
 				[
 					[
-						"user",
-						"config\\user-profile.cmd"
-					],
-					[
 						"app.",
 						"f7-vue\\src\\app.vue"
 					],
@@ -1024,6 +1020,10 @@
 					[
 						"cd-app",
 						"hiuEnvironment\\cmder\\bin\\cd-appjs.cmd"
+					],
+					[
+						"user",
+						"hiuEnvironment\\cmder\\config\\user-aliases.cmd"
 					],
 					[
 						"main.js",
@@ -1529,14 +1529,14 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 206.0,
+			"side_bar_visible": false,
+			"side_bar_width": 200.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 620.0
+		"new_window_width": 797.0
 	},
 	"windows":
 	[
@@ -2163,7 +2163,7 @@
 			},
 			"file_history":
 			[
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/%1",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-profile.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-old.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/express/lib/response.js",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/config/index.js",
@@ -2529,7 +2529,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,802,1726,73,2362",
+			"position": "0,0,1,-1,-1,-1,-1,816,1628,41,2441",
 			"replace":
 			{
 				"height": 102.0
@@ -2541,10 +2541,6 @@
 				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"user",
-						"config\\user-profile.cmd"
-					],
 					[
 						"app.",
 						"f7-vue\\src\\app.vue"
@@ -2572,6 +2568,10 @@
 					[
 						"cd-app",
 						"hiuEnvironment\\cmder\\bin\\cd-appjs.cmd"
+					],
+					[
+						"user",
+						"hiuEnvironment\\cmder\\config\\user-aliases.cmd"
 					],
 					[
 						"main.js",
@@ -3080,8 +3080,8 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 206.0,
+			"side_bar_visible": false,
+			"side_bar_width": 200.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
