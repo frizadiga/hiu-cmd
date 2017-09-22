@@ -4,3 +4,4 @@
 :: call "%GIT_INSTALL_ROOT%/cmd/start-ssh-agent.cmd"
 :: set "PATH=%CMDER_ROOT%\vendor\whatever;%PATH%"
 
+call "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console

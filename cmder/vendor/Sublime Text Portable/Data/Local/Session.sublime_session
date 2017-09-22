@@ -1,22 +1,30 @@
 {
 	"folder_history":
 	[
+		"/D/hiuSoft/Application/hiuEnvironment/cmder",
+		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api",
+		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue",
+		"/A/hiuData/hiuWEB/AppJS/playground/f7-vue",
 		"/D/hiuSoft/Application/hiuEnvironment",
 		"/A/hiuData/hiuWEB/AppJS/vue/f7-vue",
 		"/A/hiuData/hiuWEB/AppJS/vue/q-pwa"
 	],
 	"last_version": 3143,
-	"last_window_id": 60,
+	"last_window_id": 68,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 716.0,
+		"new_window_height": 670.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"card",
+						"cardContent"
+					],
 					[
 						"pa",
 						"padding-bottom"
@@ -524,10 +532,6 @@
 					[
 						"w3-bar",
 						"w3-bar-item"
-					],
-					[
-						"mi",
-						"min-price"
 					]
 				]
 			},
@@ -537,13 +541,25 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "emmet",
+				"height": 203.0,
+				"last_filter": "boxy",
 				"selected_items":
 				[
 					[
-						"emmet",
+						"boxy",
+						"Boxy Theme: Activation"
+					],
+					[
+						"ena",
 						"Emmet: Expand Abbreviation"
+					],
+					[
+						"vue",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"emmet",
+						"Set Syntax: Emmet"
 					],
 					[
 						"insta",
@@ -554,15 +570,7 @@
 						"Package Control: List Packages"
 					],
 					[
-						"vue",
-						"Set Syntax: Vue Component"
-					],
-					[
 						"",
-						"Boxy Theme: Configuration"
-					],
-					[
-						"boxy",
 						"Boxy Theme: Configuration"
 					],
 					[
@@ -610,7 +618,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 410.0
+				"width": 428.0
 			},
 			"console":
 			{
@@ -630,14 +638,27 @@
 			},
 			"file_history":
 			[
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/%1",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-old.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/express/lib/response.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/config/index.js",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-appjs.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-hiuproperty.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-aliases.cmd",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/index.js",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-vue.cmd",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/routes.js",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hs.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bde.cmd",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/router.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/mainPage.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/templates/layout.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/App.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/main.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/Hello.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/app.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/about.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/form.vue",
@@ -744,30 +765,26 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-confirm.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-dp-confirm.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/bookings-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-booking.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/globals.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/user-signup.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/user-form.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Banks.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/BanksController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-pay-dp.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-pay-repayment.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-pay-paid-off.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/bank-form.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-confirm-delete-bank.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/policies.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/users-manage.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-booking.ejs"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 173.0
 			},
 			"find_in_files":
 			{
 				"height": 150.0,
 				"where_history":
 				[
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails\\views",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api"
 				]
 			},
 			"find_state":
@@ -775,6 +792,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"     <img src=\"static/hiuwave-logo.png\" style=\"width:20%;margin:auto;display:block;\" alt=\"\">\n            <div v-for=\"i in count\" class=\"card\">\n              <div class=\"card-header\">{{i}} {{cardTitle}}</div>\n              <div class=\"card-content-inner\">\n                {{cardContent}}\n              </div>\n\n            </div>",
+					"f7-popup",
+					"\n.",
+					"></",
+					"drawer",
+					" <q-toolbar slot=\"header\">\n        <q-btn flat>\n          <q-icon name=\"menu\" />\n        </q-btn>\n        <q-toolbar-title>\n          {{ topTitle }}\n        </q-toolbar-title>\n        <q-btn flat>\n          <q-icon name=\"more_vert\" />\n        </q-btn>\n      </q-toolbar>",
+					"h4",
+					"quasar",
+					"myinfiniteVar",
+					"Framework7",
+					"Homepage",
+					"ello",
+					"w3-hover-white",
+					"height:70vh",
+					"w3-sepia",
+					"height:70vh;",
+					"id=\"main-pic\"",
+					"height:70vh;",
+					"/img/rumah2q-logo.png",
+					"rumah2q-logo",
+					"roperty-logo",
+					"rumah2q-logo",
+					"openTab",
+					"height:100%",
+					"80vh",
+					"green",
+					"teal",
+					"blue",
+					"red",
+					"jual",
+					"dijual",
+					"w3-red",
+					"</li>",
+					"<li>",
+					"li",
+					"id=\"map\"",
+					"t, 'maps",
+					"map",
+					"ss=\"tablink",
+					"cityName",
+					"dataListings",
+					"openCity",
+					"tabInstantView",
+					"city\"",
+					"city",
+					"dataListings",
+					"grey",
+					"text",
+					"w3-button",
+					"id01",
+					"sort",
+					"jual",
+					"a id=",
+					"data.",
+					"customer",
+					"modal-detail-booking",
+					"ooking",
+					"dataUsers",
+					"Booking",
+					"idPaymentDetail",
+					"basename",
+					"value=\"\"",
+					"selectToBank",
+					"select-to-bank",
+					"function",
+					"function(req,res){",
+					"Banks",
+					"back",
+					"''%>\"",
+					"delete-user",
+					"deleteUser",
+					"BANK",
+					"no",
+					"user",
+					"Users",
+					"ser",
+					"Users",
+					"user",
+					"  ",
+					"w3-light-grey w3-bottombar w3-hover-light-grey w3-hover-text-blue-grey w3-padding w3-border-green",
+					"w3-hover-text-blue-grey w3-",
+					"t-grey w3-bottombar w3-hover-light-grey",
+					"mbar w3-hover",
+					"=\"w3-leftbar",
+					"Xtab",
+					"div",
+					"onclick",
+					"ubah",
+					"%=",
+					"||",
+					")",
+					"-",
+					"ansi?",
+					"%=",
+					":",
+					"%=",
+					"||",
+					"dataKuitansi.",
+					"si)",
+					")",
+					"||",
+					"%=",
+					"dataKuitansi",
+					"%>",
+					"||",
+					"% ||",
+					"</td>",
+					"Proof",
+					"proof",
+					"Proof",
+					"Bukti",
+					"dpProof",
+					"phoneDetail",
+					"emailDetail",
+					"dataPaymentDetail",
+					"displayDetailPayment",
+					"detailPayment",
+					"setDataPayment",
+					"dataPayments",
+					"modalDetailPayment",
+					"Pembayaran",
+					"modal-detail-payment",
+					"deleteBooking",
+					"modalDeleteBooking",
+					"delete",
+					"modalDeleteBooking",
+					"DELETE",
+					"deleteBooking"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -782,6 +927,40 @@
 				"regex": false,
 				"replace_history":
 				[
+					"/img/hiuProperty-logo.png",
+					"hiuProperty-logo",
+					"filter-options-listings",
+					"layout-dashboards",
+					"/dashboards/",
+					"dashboards/",
+					"/dashboards",
+					".listing",
+					".beds",
+					".baths",
+					"baths",
+					"floors",
+					"floors.",
+					"/listings-",
+					"/listings'",
+					"/listings?",
+					"/listings\"",
+					"/listings/",
+					"Listings",
+					"listings",
+					"Listings",
+					"dataProperties",
+					"owner",
+					"agent",
+					"class=\"",
+					"w3-text-grey",
+					"modal-confirm-delete-message",
+					"modal-image",
+					"",
+					"dataAgent",
+					"dataAgents",
+					"<p><b>Villa View Seminyak Beach</b></p>",
+					"w3-card",
+					"sideBarLeft"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -805,7 +984,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 102.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -814,6 +993,42 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"user",
+						"config\\user-profile.cmd"
+					],
+					[
+						"app.",
+						"f7-vue\\src\\app.vue"
+					],
+					[
+						"routes",
+						"f7-vue\\src\\routes.js"
+					],
+					[
+						"main",
+						"f7-vue\\src\\main.js"
+					],
+					[
+						"about",
+						"f7-vue\\src\\pages\\about.vue"
+					],
+					[
+						"responses",
+						"f7-vue\\node_modules\\express\\lib\\response.js"
+					],
+					[
+						"packa",
+						"f7-vue\\package.json"
+					],
+					[
+						"cd-app",
+						"hiuEnvironment\\cmder\\bin\\cd-appjs.cmd"
+					],
+					[
+						"main.js",
+						"f7-vue\\src\\main.js"
+					],
 					[
 						"tomomi",
 						"hiuProperty-sails\\views\\test\\tomomi.ejs"
@@ -867,16 +1082,8 @@
 						"hiuProperty-sails\\config\\connections.js"
 					],
 					[
-						"main.js",
-						"vue-pwa-boilerplate\\src\\main.js"
-					],
-					[
 						"indexejs",
 						"views\\pages\\index.ejs"
-					],
-					[
-						"routes",
-						"config\\routes.js"
 					],
 					[
 						"listing",
@@ -943,10 +1150,6 @@
 						"assets\\css\\w3-4.css"
 					],
 					[
-						"about",
-						"views\\pages\\about-us.ejs"
-					],
-					[
 						"listingsj",
 						"api\\models\\Listings.js"
 					],
@@ -977,10 +1180,6 @@
 					[
 						"listingco",
 						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"packa",
-						"package.json"
 					],
 					[
 						"lay",
@@ -1113,10 +1312,6 @@
 					[
 						"usercon",
 						"api\\controllers\\UsersController.js"
-					],
-					[
-						"user",
-						"views\\dashboards\\user-form.ejs"
 					],
 					[
 						"sign",
@@ -1309,22 +1504,6 @@
 					[
 						"index",
 						"views\\pages\\index.ejs"
-					],
-					[
-						"index.ej",
-						"views\\pages\\index.ejs"
-					],
-					[
-						"listingform",
-						"views\\dashboards\\listing-form.ejs"
-					],
-					[
-						"documentco",
-						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"listing-form",
-						"views\\dashboards\\listing-form.ejs"
 					]
 				],
 				"width": 0.0
@@ -1351,13 +1530,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 179.0,
+			"side_bar_width": 206.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1048.0
+		"new_window_width": 620.0
 	},
 	"windows":
 	[
@@ -1366,6 +1545,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"card",
+						"cardContent"
+					],
 					[
 						"pa",
 						"padding-bottom"
@@ -1873,10 +2056,6 @@
 					[
 						"w3-bar",
 						"w3-bar-item"
-					],
-					[
-						"mi",
-						"min-price"
 					]
 				]
 			},
@@ -1887,13 +2066,25 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "emmet",
+				"height": 203.0,
+				"last_filter": "boxy",
 				"selected_items":
 				[
 					[
-						"emmet",
+						"boxy",
+						"Boxy Theme: Activation"
+					],
+					[
+						"ena",
 						"Emmet: Expand Abbreviation"
+					],
+					[
+						"vue",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"emmet",
+						"Set Syntax: Emmet"
 					],
 					[
 						"insta",
@@ -1904,15 +2095,7 @@
 						"Package Control: List Packages"
 					],
 					[
-						"vue",
-						"Set Syntax: Vue Component"
-					],
-					[
 						"",
-						"Boxy Theme: Configuration"
-					],
-					[
-						"boxy",
 						"Boxy Theme: Configuration"
 					],
 					[
@@ -1960,7 +2143,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 410.0
+				"width": 428.0
 			},
 			"console":
 			{
@@ -1980,14 +2163,27 @@
 			},
 			"file_history":
 			[
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/%1",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-old.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/express/lib/response.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/config/index.js",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-appjs.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-hiuproperty.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-aliases.cmd",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/index.js",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-vue.cmd",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/routes.js",
+				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hs.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bde.cmd",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/router.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/mainPage.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/templates/layout.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/App.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/main.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/Hello.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/app.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/about.vue",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/form.vue",
@@ -2094,30 +2290,26 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-confirm.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-dp-confirm.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/bookings-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-booking.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/globals.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/user-signup.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/user-form.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Banks.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/BanksController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-pay-dp.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-pay-repayment.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-pay-paid-off.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/bank-form.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-confirm-delete-bank.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/policies.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/users-manage.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-booking.ejs"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 173.0
 			},
 			"find_in_files":
 			{
 				"height": 150.0,
 				"where_history":
 				[
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails\\views",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api,A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\views",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails",
+					"A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuSIG\\hiuSIG-sails\\api"
 				]
 			},
 			"find_state":
@@ -2125,6 +2317,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"     <img src=\"static/hiuwave-logo.png\" style=\"width:20%;margin:auto;display:block;\" alt=\"\">\n            <div v-for=\"i in count\" class=\"card\">\n              <div class=\"card-header\">{{i}} {{cardTitle}}</div>\n              <div class=\"card-content-inner\">\n                {{cardContent}}\n              </div>\n\n            </div>",
+					"f7-popup",
+					"\n.",
+					"></",
+					"drawer",
+					" <q-toolbar slot=\"header\">\n        <q-btn flat>\n          <q-icon name=\"menu\" />\n        </q-btn>\n        <q-toolbar-title>\n          {{ topTitle }}\n        </q-toolbar-title>\n        <q-btn flat>\n          <q-icon name=\"more_vert\" />\n        </q-btn>\n      </q-toolbar>",
+					"h4",
+					"quasar",
+					"myinfiniteVar",
+					"Framework7",
+					"Homepage",
+					"ello",
+					"w3-hover-white",
+					"height:70vh",
+					"w3-sepia",
+					"height:70vh;",
+					"id=\"main-pic\"",
+					"height:70vh;",
+					"/img/rumah2q-logo.png",
+					"rumah2q-logo",
+					"roperty-logo",
+					"rumah2q-logo",
+					"openTab",
+					"height:100%",
+					"80vh",
+					"green",
+					"teal",
+					"blue",
+					"red",
+					"jual",
+					"dijual",
+					"w3-red",
+					"</li>",
+					"<li>",
+					"li",
+					"id=\"map\"",
+					"t, 'maps",
+					"map",
+					"ss=\"tablink",
+					"cityName",
+					"dataListings",
+					"openCity",
+					"tabInstantView",
+					"city\"",
+					"city",
+					"dataListings",
+					"grey",
+					"text",
+					"w3-button",
+					"id01",
+					"sort",
+					"jual",
+					"a id=",
+					"data.",
+					"customer",
+					"modal-detail-booking",
+					"ooking",
+					"dataUsers",
+					"Booking",
+					"idPaymentDetail",
+					"basename",
+					"value=\"\"",
+					"selectToBank",
+					"select-to-bank",
+					"function",
+					"function(req,res){",
+					"Banks",
+					"back",
+					"''%>\"",
+					"delete-user",
+					"deleteUser",
+					"BANK",
+					"no",
+					"user",
+					"Users",
+					"ser",
+					"Users",
+					"user",
+					"  ",
+					"w3-light-grey w3-bottombar w3-hover-light-grey w3-hover-text-blue-grey w3-padding w3-border-green",
+					"w3-hover-text-blue-grey w3-",
+					"t-grey w3-bottombar w3-hover-light-grey",
+					"mbar w3-hover",
+					"=\"w3-leftbar",
+					"Xtab",
+					"div",
+					"onclick",
+					"ubah",
+					"%=",
+					"||",
+					")",
+					"-",
+					"ansi?",
+					"%=",
+					":",
+					"%=",
+					"||",
+					"dataKuitansi.",
+					"si)",
+					")",
+					"||",
+					"%=",
+					"dataKuitansi",
+					"%>",
+					"||",
+					"% ||",
+					"</td>",
+					"Proof",
+					"proof",
+					"Proof",
+					"Bukti",
+					"dpProof",
+					"phoneDetail",
+					"emailDetail",
+					"dataPaymentDetail",
+					"displayDetailPayment",
+					"detailPayment",
+					"setDataPayment",
+					"dataPayments",
+					"modalDetailPayment",
+					"Pembayaran",
+					"modal-detail-payment",
+					"deleteBooking",
+					"modalDeleteBooking",
+					"delete",
+					"modalDeleteBooking",
+					"DELETE",
+					"deleteBooking"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2132,6 +2452,40 @@
 				"regex": false,
 				"replace_history":
 				[
+					"/img/hiuProperty-logo.png",
+					"hiuProperty-logo",
+					"filter-options-listings",
+					"layout-dashboards",
+					"/dashboards/",
+					"dashboards/",
+					"/dashboards",
+					".listing",
+					".beds",
+					".baths",
+					"baths",
+					"floors",
+					"floors.",
+					"/listings-",
+					"/listings'",
+					"/listings?",
+					"/listings\"",
+					"/listings/",
+					"Listings",
+					"listings",
+					"Listings",
+					"dataProperties",
+					"owner",
+					"agent",
+					"class=\"",
+					"w3-text-grey",
+					"modal-confirm-delete-message",
+					"modal-image",
+					"",
+					"dataAgent",
+					"dataAgents",
+					"<p><b>Villa View Seminyak Beach</b></p>",
+					"w3-card",
+					"sideBarLeft"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -2175,10 +2529,10 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,806,2021,31,3085",
+			"position": "0,0,1,-1,-1,-1,-1,802,1726,73,2362",
 			"replace":
 			{
-				"height": 48.0
+				"height": 102.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2187,6 +2541,42 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"user",
+						"config\\user-profile.cmd"
+					],
+					[
+						"app.",
+						"f7-vue\\src\\app.vue"
+					],
+					[
+						"routes",
+						"f7-vue\\src\\routes.js"
+					],
+					[
+						"main",
+						"f7-vue\\src\\main.js"
+					],
+					[
+						"about",
+						"f7-vue\\src\\pages\\about.vue"
+					],
+					[
+						"responses",
+						"f7-vue\\node_modules\\express\\lib\\response.js"
+					],
+					[
+						"packa",
+						"f7-vue\\package.json"
+					],
+					[
+						"cd-app",
+						"hiuEnvironment\\cmder\\bin\\cd-appjs.cmd"
+					],
+					[
+						"main.js",
+						"f7-vue\\src\\main.js"
+					],
 					[
 						"tomomi",
 						"hiuProperty-sails\\views\\test\\tomomi.ejs"
@@ -2240,16 +2630,8 @@
 						"hiuProperty-sails\\config\\connections.js"
 					],
 					[
-						"main.js",
-						"vue-pwa-boilerplate\\src\\main.js"
-					],
-					[
 						"indexejs",
 						"views\\pages\\index.ejs"
-					],
-					[
-						"routes",
-						"config\\routes.js"
 					],
 					[
 						"listing",
@@ -2316,10 +2698,6 @@
 						"assets\\css\\w3-4.css"
 					],
 					[
-						"about",
-						"views\\pages\\about-us.ejs"
-					],
-					[
 						"listingsj",
 						"api\\models\\Listings.js"
 					],
@@ -2350,10 +2728,6 @@
 					[
 						"listingco",
 						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"packa",
-						"package.json"
 					],
 					[
 						"lay",
@@ -2486,10 +2860,6 @@
 					[
 						"usercon",
 						"api\\controllers\\UsersController.js"
-					],
-					[
-						"user",
-						"views\\dashboards\\user-form.ejs"
 					],
 					[
 						"sign",
@@ -2682,22 +3052,6 @@
 					[
 						"index",
 						"views\\pages\\index.ejs"
-					],
-					[
-						"index.ej",
-						"views\\pages\\index.ejs"
-					],
-					[
-						"listingform",
-						"views\\dashboards\\listing-form.ejs"
-					],
-					[
-						"documentco",
-						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"listing-form",
-						"views\\dashboards\\listing-form.ejs"
 					]
 				],
 				"width": 0.0
@@ -2727,7 +3081,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 179.0,
+			"side_bar_width": 206.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -2739,8 +3093,9 @@
 	{
 		"recent_workspaces":
 		[
-			"/D/hiuSoft/Application/hiuEnvironment/cmder/config/hiuEnvironment.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/vue/vue-mobile.sublime-workspace",
+			"/D/hiuSoft/Application/hiuEnvironment/cmder/config/hiuEnvironment.sublime-workspace",
 			"/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/1.sublime-workspace"
 		]
 	}

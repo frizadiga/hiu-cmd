@@ -41,5 +41,5 @@
 	"theme_tab_separator": true,
 	"theme_tab_size_xs": true,
 	"theme_tab_width_auto": true,
-	"translate_tabs_to_spaces": false
+	"translate_tabs_to_spaces": true
 }

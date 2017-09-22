@@ -1,5 +1,8 @@
 [
-	{ "keys": ["super+shift+o"], "command": "prompt_add_folder" }
+	{ "keys": ["super+shift+o"], "command": "prompt_add_folder" },
+  { "keys": ["ctrl+tab"], "command": "noop" },
+  { "keys": ["ctrl+shift+tab"], "command": "noop"},
+
 
 
 ]

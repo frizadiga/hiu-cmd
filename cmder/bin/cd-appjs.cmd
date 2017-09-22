@@ -1,1 +1,1 @@
-cd /d %appjs%
+cd /d %appjs% %*

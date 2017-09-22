@@ -3270,3 +3270,73 @@ hs -p 7777
 git add. & git status
 git add . & git status
 git
+exit
+sl
+exit
+git
+a:
+bde-a
+ping google.com
+sl
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe"
+f
+exit
+sl
+exit
+c:
+%cmder_start%
+cmder /?
+cmder /single
+exit
+c:
+ConEmuC.exe /ATTACH /NOCMD
+& powershell "-new_console:C:`"C:\path with spaces\favicon.ico`""
+& powershell "-new_console:C
+powershell "-new_console:C
+e.
+start.
+sh.exe --login -i -new_console:P:"Palette"
+cmd  -new_console:P:"Palette"
+cmd  -new_console:P
+cmd  -new_console:N
+cmd  -new_console:sv
+cmder
+cmder /?
+cmder /SINGLE
+cmder "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+cmder /SINGLE "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -new_console
+sl
+"D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe" -cur_console:foih -cur_console:t:\Application\hiuEnvironment\cmder
+exit
+cmder /SINGLE "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -new_console
+"D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe" -cur_console:foih -cur_console:t:\Application\hiuEnvironment\cmder
+> -cur_console:f -cur_console:d:D:\hiuSoft\Application\hiuEnvironment\cmder "D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe"
+cmder -cur_console:f -cur_console:d:D:\hiuSoft\Application\hiuEnvironment\cmder "D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe"
+start %CMDER_ROOT%\vendor\conemu-maximus5\ConEmu.exe /icon "%CMDER_ROOT%\cmder.exe" /title Cmder /loadcfgfile "%CMDER_ROOT%\config\ConEmu.xml" /cmd cmd /k "%CMDER_ROOT%\vendor\init.bat cd %CD% && %~1"
+cmder /start cmd
+cmder /START cmd
+cmder /START cmd.exe
+cmder /START "echo hello cmder"
+cmder /START "cmd.exe"
+cmder /START "echo test"
+cmder /START "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+cmder /START "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -new_console
+cmder /START "D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe" -new_console
+cmder /START "D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\Sublime Text Portable\sublime_text.exe"
+cmder /START "D:\hiuSoft\Application\hiuEnvironment\cmder\vendor\"
+ConEmu64.exe -Single -run {Shells::cmd}
+ConEmu64.exe -Single -run {Shells::cmd /k echo test}
+cmder
+cmd /k "%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console
+cd vendor
+init
+init.bat
+cd conemu-maximus5
+cd conemu
+ls
+attach
+sl
