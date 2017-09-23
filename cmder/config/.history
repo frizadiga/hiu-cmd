@@ -3342,3 +3342,71 @@ attach
 sl
 exit
 exit
+exit
+exit
+cd..
+git add . 
+git commit -m "update"
+git push
+a:
+bde a:
+bde-a
+sl
+C:\Windows\System32\rundll32.exe sysdm.cpl
+C:\Windows\System32\rundll32.exe
+C:\Windows\System32\rundll32.exe sysdm.cpl,0
+envir
+sysdm.cpl
+start.
+f7-vue
+exit
+node
+exit
+f7-vue
+f7-vue & cmd -cur_console:s
+npm run dev
+cls
+git add . & git status -v
+git commit -m "change name"
+npm i
+C:\Windows\System32\rundll32.exe sysdm.cpl
+C:\Windows\System32\rundll32.exe
+C:\Windows\System32\rundll32.exe sysdm.cpl,0
+envir
+sysdm.cpl
+start.
+f7-vue
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuProperty\hiuProperty-api
+git status
+echo on
+echo off
+ cd /d A:\hiuData\hiuWEB\AppJS\playground\f7-vue
+ cd /d A:\hiuData\hiuWEB\AppJS\playground\f7-vue
+cls
+npm update
+git add. & git status
+refreshenv
+git add . & git status
+f7-vue
+cd..
+cd -hiuapps/hiuproperty
+cd hiuproperty-api
+ccd
+cpcd
+ndm app
+exit
+f7-vue & cmd -cur_console:s
+npm run dev
+cls
+git commit -m "change name"
+npm ?
+npm help
+npm help npm
+npm up framework7-vue
+npm outdated
+npm i
+git add . & git status -v
+git commit -m "change dependency version" & git push
+cpcd & cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuProperty\hiuProperty-api
+npm update
+exit

@@ -10,11 +10,11 @@
 		"/A/hiuData/hiuWEB/AppJS/vue/q-pwa"
 	],
 	"last_version": 3143,
-	"last_window_id": 69,
+	"last_window_id": 71,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 716.0,
+		"new_window_height": 684.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -541,8 +541,8 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 203.0,
-				"last_filter": "boxy",
+				"height": 357.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -618,7 +618,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 428.0
+				"width": 430.0
 			},
 			"console":
 			{
@@ -638,6 +638,8 @@
 			},
 			"file_history":
 			[
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/chrome.cmd",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-profile.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-old.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/express/lib/response.js",
@@ -763,9 +765,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-agent-confirm.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-repayment-confirm.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-dp-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/bookings-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-booking.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-dp-confirm.ejs"
 			],
 			"find":
 			{
@@ -792,6 +792,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"Info",
 					"     <img src=\"static/hiuwave-logo.png\" style=\"width:20%;margin:auto;display:block;\" alt=\"\">\n            <div v-for=\"i in count\" class=\"card\">\n              <div class=\"card-header\">{{i}} {{cardTitle}}</div>\n              <div class=\"card-content-inner\">\n                {{cardContent}}\n              </div>\n\n            </div>",
 					"f7-popup",
 					"\n.",
@@ -918,8 +919,7 @@
 					"modalDeleteBooking",
 					"delete",
 					"modalDeleteBooking",
-					"DELETE",
-					"deleteBooking"
+					"DELETE"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -994,8 +994,20 @@
 				"selected_items":
 				[
 					[
+						"app",
+						"f7-vue\\src\\app.vue"
+					],
+					[
+						"package",
+						"f7-vue\\package.json"
+					],
+					[
 						"main",
 						"f7-vue\\src\\main.js"
+					],
+					[
+						"sl.cmd",
+						"cmder\\bin\\sl.cmd"
 					],
 					[
 						"app.",
@@ -1478,10 +1490,6 @@
 						"views\\partials\\top-navbar-items.ejs"
 					],
 					[
-						"app",
-						"assets\\css\\app.css"
-					],
-					[
 						"filterlist",
 						"views\\partials\\filter-options-listings.ejs"
 					],
@@ -1496,14 +1504,6 @@
 					[
 						"reportt",
 						"views\\dashboards\\documents\\report-transactions.ejs"
-					],
-					[
-						"nav",
-						"views\\partials\\navbar-search.ejs"
-					],
-					[
-						"index",
-						"views\\pages\\index.ejs"
 					]
 				],
 				"width": 0.0
@@ -1529,14 +1529,14 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 200.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 780.0
+		"new_window_width": 776.0
 	},
 	"windows":
 	[
@@ -2066,8 +2066,8 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 203.0,
-				"last_filter": "boxy",
+				"height": 357.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -2143,7 +2143,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 428.0
+				"width": 430.0
 			},
 			"console":
 			{
@@ -2163,6 +2163,8 @@
 			},
 			"file_history":
 			[
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/chrome.cmd",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-profile.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-old.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/express/lib/response.js",
@@ -2288,9 +2290,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-agent-confirm.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-repayment-confirm.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-dp-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/bookings-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-booking.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-dp-confirm.ejs"
 			],
 			"find":
 			{
@@ -2317,6 +2317,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"Info",
 					"     <img src=\"static/hiuwave-logo.png\" style=\"width:20%;margin:auto;display:block;\" alt=\"\">\n            <div v-for=\"i in count\" class=\"card\">\n              <div class=\"card-header\">{{i}} {{cardTitle}}</div>\n              <div class=\"card-content-inner\">\n                {{cardContent}}\n              </div>\n\n            </div>",
 					"f7-popup",
 					"\n.",
@@ -2443,8 +2444,7 @@
 					"modalDeleteBooking",
 					"delete",
 					"modalDeleteBooking",
-					"DELETE",
-					"deleteBooking"
+					"DELETE"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2529,7 +2529,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,849,1792,74,2588",
+			"position": "0,0,1,-1,-1,-1,-1,827,1678,84,2470",
 			"replace":
 			{
 				"height": 102.0
@@ -2542,8 +2542,20 @@
 				"selected_items":
 				[
 					[
+						"app",
+						"f7-vue\\src\\app.vue"
+					],
+					[
+						"package",
+						"f7-vue\\package.json"
+					],
+					[
 						"main",
 						"f7-vue\\src\\main.js"
+					],
+					[
+						"sl.cmd",
+						"cmder\\bin\\sl.cmd"
 					],
 					[
 						"app.",
@@ -3026,10 +3038,6 @@
 						"views\\partials\\top-navbar-items.ejs"
 					],
 					[
-						"app",
-						"assets\\css\\app.css"
-					],
-					[
 						"filterlist",
 						"views\\partials\\filter-options-listings.ejs"
 					],
@@ -3044,14 +3052,6 @@
 					[
 						"reportt",
 						"views\\dashboards\\documents\\report-transactions.ejs"
-					],
-					[
-						"nav",
-						"views\\partials\\navbar-search.ejs"
-					],
-					[
-						"index",
-						"views\\pages\\index.ejs"
 					]
 				],
 				"width": 0.0
@@ -3080,13 +3080,13 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 200.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 60
+			"window_id": 71
 		}
 	],
 	"workspaces":
