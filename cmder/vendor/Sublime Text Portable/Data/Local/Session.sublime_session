@@ -10,7 +10,7 @@
 		"/A/hiuData/hiuWEB/AppJS/vue/q-pwa"
 	],
 	"last_version": 3143,
-	"last_window_id": 68,
+	"last_window_id": 69,
 	"log_indexing": false,
 	"settings":
 	{
@@ -994,16 +994,16 @@
 				"selected_items":
 				[
 					[
+						"main",
+						"f7-vue\\src\\main.js"
+					],
+					[
 						"app.",
 						"f7-vue\\src\\app.vue"
 					],
 					[
 						"routes",
 						"f7-vue\\src\\routes.js"
-					],
-					[
-						"main",
-						"f7-vue\\src\\main.js"
 					],
 					[
 						"about",
@@ -1526,7 +1526,7 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": false,
@@ -1536,7 +1536,7 @@
 			{
 			}
 		},
-		"new_window_width": 797.0
+		"new_window_width": 780.0
 	},
 	"windows":
 	[
@@ -2529,7 +2529,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,816,1628,41,2441",
+			"position": "0,0,1,-1,-1,-1,-1,827,1823,52,2619",
 			"replace":
 			{
 				"height": 102.0
@@ -2542,16 +2542,16 @@
 				"selected_items":
 				[
 					[
+						"main",
+						"f7-vue\\src\\main.js"
+					],
+					[
 						"app.",
 						"f7-vue\\src\\app.vue"
 					],
 					[
 						"routes",
 						"f7-vue\\src\\routes.js"
-					],
-					[
-						"main",
-						"f7-vue\\src\\main.js"
 					],
 					[
 						"about",
@@ -3077,7 +3077,7 @@
 			"settings":
 			{
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": false,
