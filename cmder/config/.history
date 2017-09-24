@@ -3490,3 +3490,30 @@ cd-hiuproperty
 cd hiuproperty-api & ndm app
 cd-hiuproperty
 cd hiuproperty-api
+cd hiuproperty-api & ndm app
+cd-hiuproperty
+cd hiuproperty-api
+cd playground 
+cd f7-vue
+cd..
+git clone https://github.com/electron/electron-quick-start
+ren electron-quick-start hiu-me
+cd hiu-me
+sl .
+npm i & npm start
+npm i --verbose
+rm -rf node_modules
+ls
+chrome
+cd-appjs
+cd playground
+ls
+cd my-project
+cpcd
+exit
+exit
+exit
+sl
+bde-a
+f7-vue
+cd..

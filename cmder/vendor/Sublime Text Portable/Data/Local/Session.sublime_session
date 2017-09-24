@@ -1,6 +1,8 @@
 {
 	"folder_history":
 	[
+		"/A/hiuData/hiuWEB/AppJS/playground/my-project",
+		"/A/hiuData/hiuWEB/AppJS/playground/hiu-me",
 		"/D/hiuSoft/Application/hiuEnvironment/cmder",
 		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api",
 		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue",
@@ -14,13 +16,17 @@
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 716.0,
+		"new_window_height": 761.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"mar",
+						"margin"
+					],
 					[
 						"card",
 						"cardContent"
@@ -44,10 +50,6 @@
 					[
 						"Q",
 						"QIcon"
-					],
-					[
-						"mar",
-						"margin-top"
 					],
 					[
 						"foo",
@@ -618,7 +620,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 430.0
+				"width": 376.0
 			},
 			"console":
 			{
@@ -638,6 +640,11 @@
 			},
 			"file_history":
 			[
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
+				"/A/hiuData/hiuWEB/AppJS/playground/my-project/src/main/index.dev.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me/index.html",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/chrome.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-profile.cmd",
@@ -760,12 +767,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/agents-confirm.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-payment.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-confirm-repayment.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ReportsController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Users.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-agent-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-repayment-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-dp-confirm.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ReportsController.js"
 			],
 			"find":
 			{
@@ -994,16 +996,28 @@
 				"selected_items":
 				[
 					[
+						"app.css",
+						"f7-vue\\src\\css\\app.css"
+					],
+					[
 						"app",
 						"f7-vue\\src\\app.vue"
 					],
 					[
-						"package",
-						"f7-vue\\package.json"
+						"appchr",
+						"cmder\\bin\\appchr.cmd"
+					],
+					[
+						"index",
+						"hiu-me\\index.html"
 					],
 					[
 						"main",
 						"f7-vue\\src\\main.js"
+					],
+					[
+						"package",
+						"f7-vue\\package.json"
 					],
 					[
 						"sl.cmd",
@@ -1152,10 +1166,6 @@
 					[
 						"notfound",
 						"api\\responses\\searchNotFound.js"
-					],
-					[
-						"app.css",
-						"assets\\css\\app.css"
 					],
 					[
 						"w3",
@@ -1496,14 +1506,6 @@
 					[
 						"floa",
 						"views\\partials\\floating-search-card.ejs"
-					],
-					[
-						"logo-",
-						"views\\partials\\top-logo-badge.ejs"
-					],
-					[
-						"reportt",
-						"views\\dashboards\\documents\\report-transactions.ejs"
 					]
 				],
 				"width": 0.0
@@ -1529,14 +1531,14 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 200.0,
+			"side_bar_visible": false,
+			"side_bar_width": 196.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 780.0
+		"new_window_width": 877.0
 	},
 	"windows":
 	[
@@ -1545,6 +1547,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"mar",
+						"margin"
+					],
 					[
 						"card",
 						"cardContent"
@@ -1568,10 +1574,6 @@
 					[
 						"Q",
 						"QIcon"
-					],
-					[
-						"mar",
-						"margin-top"
 					],
 					[
 						"foo",
@@ -2143,7 +2145,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 430.0
+				"width": 376.0
 			},
 			"console":
 			{
@@ -2163,6 +2165,11 @@
 			},
 			"file_history":
 			[
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
+				"/A/hiuData/hiuWEB/AppJS/playground/my-project/src/main/index.dev.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me/index.html",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/chrome.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-profile.cmd",
@@ -2285,12 +2292,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/agents-confirm.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-payment.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-confirm-repayment.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ReportsController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Users.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-agent-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-repayment-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-dp-confirm.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ReportsController.js"
 			],
 			"find":
 			{
@@ -2510,6 +2512,12 @@
 						0,
 						1,
 						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
 					]
 				],
 				"cols":
@@ -2520,6 +2528,7 @@
 				"rows":
 				[
 					0.0,
+					0.92774566474,
 					1.0
 				]
 			},
@@ -2529,7 +2538,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,805,1694,30,2490",
+			"position": "0,0,1,-1,-1,-1,-1,849,1629,29,2522",
 			"replace":
 			{
 				"height": 102.0
@@ -2542,16 +2551,28 @@
 				"selected_items":
 				[
 					[
+						"app.css",
+						"f7-vue\\src\\css\\app.css"
+					],
+					[
 						"app",
 						"f7-vue\\src\\app.vue"
 					],
 					[
-						"package",
-						"f7-vue\\package.json"
+						"appchr",
+						"cmder\\bin\\appchr.cmd"
+					],
+					[
+						"index",
+						"hiu-me\\index.html"
 					],
 					[
 						"main",
 						"f7-vue\\src\\main.js"
+					],
+					[
+						"package",
+						"f7-vue\\package.json"
 					],
 					[
 						"sl.cmd",
@@ -2700,10 +2721,6 @@
 					[
 						"notfound",
 						"api\\responses\\searchNotFound.js"
-					],
-					[
-						"app.css",
-						"assets\\css\\app.css"
 					],
 					[
 						"w3",
@@ -3044,14 +3061,6 @@
 					[
 						"floa",
 						"views\\partials\\floating-search-card.ejs"
-					],
-					[
-						"logo-",
-						"views\\partials\\top-logo-badge.ejs"
-					],
-					[
-						"reportt",
-						"views\\dashboards\\documents\\report-transactions.ejs"
 					]
 				],
 				"width": 0.0
@@ -3080,8 +3089,8 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 200.0,
+			"side_bar_visible": false,
+			"side_bar_width": 196.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
