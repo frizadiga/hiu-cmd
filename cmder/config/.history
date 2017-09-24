@@ -3410,3 +3410,83 @@ git commit -m "change dependency version" & git push
 cpcd & cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuProperty\hiuProperty-api
 npm update
 exit
+git add . & git status
+git status
+git status -v
+git commit -m "update deps"
+git push
+ndm app
+git commit -m "update"
+a:
+bde a:
+bde-a
+C:\Windows\System32\rundll32.exe sysdm.cpl
+C:\Windows\System32\rundll32.exe
+C:\Windows\System32\rundll32.exe sysdm.cpl,0
+envir
+sysdm.cpl
+start.
+f7-vue
+sd -h
+node
+echo ogg
+echo off
+@echo off
+f
+clear
+ping google.com
+A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuProperty\hiuProperty-api
+cls
+choco info
+choco info nodejs
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" 
+     --profile-directory="Default"
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --profile-directory="Default" --app="data:text/html,<html><body><script>window.moveTo(580,240);window.resizeTo(800,600);window.location='http://www.test.de';</script></body></html>"
+appchr
+appchr localhost:1700
+chrome.exe --headless --disable-gpu --screenshot --window-size=1280,1696 https://www.chromestatus.com/
+chrome --headless --disable-gpu --screenshot --window-size=1280,1696 https://www.chromestatus.com/
+chrome --window-size=1280,1696 https://www.chromestatus.com/
+appchr http://localhost:1700
+appchr http://hiuwave.com
+cd..
+git add . & git status
+git commit -m "add chrome app command"
+git push
+sl
+appchr https://framework7.io/kitchen-sink-material/
+cd-hiuproperty 
+cd hiuproperty-api
+ run dev
+sd -h
+sd -h
+sl
+node
+chrome. --kiosk http://hiuwave.com
+chrome.cmd --kiosk http://hiuwave.com
+appchr http://hiuwave.com
+chrome.cmd --kiosk=http://hiuwave.com
+chrome.cmd --kiosk="http://hiuwave.com"
+chrome --kiosk
+chrome --kiosk hiuwave.com
+chrome -kiosk hiuwave.com
+chrome --app hiuwave.com
+chrome --app= hiuwave.com
+chrome --app="hiuwave.com"
+chrome --app="http://hiuwave.com"
+chrome --kiosk="http://hiuwave.com"
+chrome "http://hiuwave.com"
+chrome "http://hiuwave.com" --kiosk
+cmder
+ run dev
+sd -h
+cd..
+cd playground
+cd f7-vue
+cmder
+git status
+f7-vue
+cd-hiuproperty
+cd hiuproperty-api & ndm app
+cd-hiuproperty
+cd hiuproperty-api

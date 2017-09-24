@@ -642,20 +642,20 @@
 					<value name="Cmd5" type="string" data="* -cur_console:d:D:\hiuSoft\Application\hiuEnvirontment\cmder &quot;C:\Program Files (x86)\Microsoft VS Code\code.exe&quot;"/>
 					<value name="Cmd6" type="string" data="-cur_console:bns2T50H -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvirontment\cmder\icons\cmder.ico &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot; /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 6"/>
 				</key>
-				<key name="Task17" modified="2017-09-23 18:56:38" build="161206">
+				<key name="Task17" modified="2017-09-24 12:59:54" build="161206">
 					<value name="Name" type="string" data="{minimalist}"/>
 					<value name="Flags" type="dword" data="00000000"/>
-					<value name="Hotkey" type="dword" data="00000000"/>
+					<value name="Hotkey" type="dword" data="0010114d"/>
 					<value name="GuiArgs" type="string" data=" /icon &quot;%CMDER_ROOT%\icons\cmder.ico&quot;"/>
-					<value name="Cmd1" type="string" data="-cur_console:bn -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvirontment\cmder\icons\cmder.ico -cur_console:P:^&lt;Monokai^&gt; &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot;  /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 1"/>
-					<value name="Cmd2" type="string" data="&gt;* -cur_console:fs1T49V -cur_console:d:D:\hiuSoft\Application\hiuEnvironment\cmder -cur_console:C:D:\hiuSoft\Application\hiuEnvirontment\cmder\icons\cmder.ico -cur_console:P:^&lt;Monokai^&gt; &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot; /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 2"/>
+					<value name="Cmd1" type="string" data="-cur_console:bn -cur_console:d:C:\Users\frizadiga -cur_console:P:^&lt;Monokai^&gt; &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot;  /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 1"/>
+					<value name="Cmd2" type="string" data="&gt;* -cur_console:fs1T49V -cur_console:d:D:\hiuSoft\Application\hiuEnvironment\cmder -cur_console:P:^&lt;Monokai^&gt; &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot; /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 2"/>
 					<value name="Cmd3" type="string" data="-cur_console:ns1T50H -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvirontment\cmder\icons\cmder.ico &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot;  /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 3"/>
 					<value name="Active" type="long" data="2"/>
 					<value name="Count" type="long" data="2"/>
 					<value name="Cmd4" type="string" data="-cur_console:ns1T85V -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvirontment\cmder\icons\cmder.ico &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot;  /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 4"/>
 					<value name="Cmd5" type="string" data="-cur_console:ns2T50H -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvirontment\cmder\icons\cmder.ico &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot; /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 5"/>
 				</key>
-				<key name="Task18" modified="2017-09-23 18:56:38" build="161206">
+				<key name="Task18" modified="2017-09-24 12:59:54" build="161206">
 					<value name="Name" type="string" data="{SublimeText3}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00101154"/>
@@ -664,7 +664,7 @@
 					<value name="Active" type="long" data="1"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-				<key name="Task19" modified="2017-09-23 18:56:38" build="161206">
+				<key name="Task19" modified="2017-09-24 12:59:54" build="161206">
 					<value name="Name" type="string" data="{ST3}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -675,11 +675,11 @@
 				</key>
 			</key>
 
-			<key name="Apps" modified="2017-09-23 18:56:38" build="161206">
+			<key name="Apps" modified="2017-09-24 12:59:54" build="161206">
 				<value name="Count" type="long" data="0"/>
 			</key>
-			<key name="Colors" modified="2017-09-23 18:56:38" build="161206">
-				<key name="Palette1" modified="2017-09-23 18:56:38" build="161206">
+			<key name="Colors" modified="2017-09-24 12:59:54" build="161206">
+				<key name="Palette1" modified="2017-09-24 12:59:54" build="161206">
 					<value name="Name" type="string" data="Monokai"/>
 					<value name="ExtendColors" type="hex" data="00"/>
 					<value name="ExtendColorIdx" type="hex" data="0e"/>
