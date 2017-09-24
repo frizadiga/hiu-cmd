@@ -16,7 +16,7 @@
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 761.0,
+		"new_window_height": 770.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -1531,14 +1531,14 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 196.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 877.0
+		"new_window_width": 845.0
 	},
 	"windows":
 	[
@@ -2538,7 +2538,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,849,1629,29,2522",
+			"position": "0,0,1,-1,-1,-1,-1,852,1628,23,2489",
 			"replace":
 			{
 				"height": 102.0
@@ -3089,7 +3089,7 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 196.0,
 			"status_bar_visible": true,
 			"template_settings":

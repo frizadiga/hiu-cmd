@@ -3517,3 +3517,12 @@ sl
 bde-a
 f7-vue
 cd..
+cd..
+git add .
+git add -A
+git status
+git commit -m "update"
+git push
+sl
+node
+cd-appjs
