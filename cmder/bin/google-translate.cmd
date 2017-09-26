@@ -1,1 +1,1 @@
-chrome --profile-directory="Default" --app="data:text/html,<html><body><script>window.resizeTo(835,815);window.location='http://translate.google.com';</script></body></html>"
+chrome --profile-directory="Default" --app="data:text/html,<html><body><script>window.resizeTo(800,500);window.location='http://translate.google.com';</script></body></html>"

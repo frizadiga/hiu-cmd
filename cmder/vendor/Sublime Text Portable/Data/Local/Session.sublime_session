@@ -997,6 +997,10 @@
 				"selected_items":
 				[
 					[
+						"goog",
+						"cmder\\bin\\google-translate.cmd"
+					],
+					[
 						"appchr",
 						"cmder\\bin\\appchr.cmd"
 					],
@@ -1503,10 +1507,6 @@
 					[
 						"doc",
 						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"paymentre",
-						"views\\dashboards\\payments-repayment-confirm.ejs"
 					]
 				],
 				"width": 0.0
@@ -1532,7 +1532,7 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 192.0,
 			"status_bar_visible": true,
 			"template_settings":
@@ -2513,12 +2513,6 @@
 						0,
 						1,
 						1
-					],
-					[
-						0,
-						1,
-						1,
-						2
 					]
 				],
 				"cols":
@@ -2529,7 +2523,6 @@
 				"rows":
 				[
 					0.0,
-					0.681638044914,
 					1.0
 				]
 			},
@@ -2539,7 +2532,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,822,1658,2,2503",
+			"position": "0,0,1,-1,-1,-1,-1,822,1625,2,2470",
 			"replace":
 			{
 				"height": 102.0
@@ -2551,6 +2544,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"goog",
+						"cmder\\bin\\google-translate.cmd"
+					],
 					[
 						"appchr",
 						"cmder\\bin\\appchr.cmd"
@@ -3058,10 +3055,6 @@
 					[
 						"doc",
 						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"paymentre",
-						"views\\dashboards\\payments-repayment-confirm.ejs"
 					]
 				],
 				"width": 0.0
@@ -3090,7 +3083,7 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 192.0,
 			"status_bar_visible": true,
 			"template_settings":
