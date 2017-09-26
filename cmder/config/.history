@@ -3547,3 +3547,25 @@ cd playground
 cd my-project
 npm run dev
 cd..
+git add .
+git status
+git commit -m "update"
+git push
+chrome
+cd playground
+cd my-project
+npm run dev
+cd..
+cd-appjs
+cd-hiuapps
+cd -hiuapps
+md hiu-window-size
+cd hiu-window-size
+ls
+npm init
+git init
+git remote add origin git@github.com:frizadiga/hiu-window-size.git git push -u origin master
+git remote add origin git@github.com:frizadiga/hiu-window-size.git & git push -u origin master
+git remote add origin git@github.com:frizadiga/hiu-window-size.git
+git push -u origin master
+git remote -v
