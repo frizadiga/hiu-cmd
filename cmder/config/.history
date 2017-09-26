@@ -3535,3 +3535,15 @@ node
 cmder
 node
 cmder
+exit
+f7-vue
+cd /d A:\hiuData\hiuWEB\AppJS\playground\my-project
+cd..
+git add . & git commit -m "update"
+git push
+sl
+cd-appjs
+cd playground
+cd my-project
+npm run dev
+cd..

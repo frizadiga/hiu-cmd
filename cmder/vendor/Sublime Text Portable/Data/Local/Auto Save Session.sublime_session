@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue",
 		"/A/hiuData/hiuWEB/AppJS/playground/my-project",
 		"/A/hiuData/hiuWEB/AppJS/playground/hiu-me",
 		"/D/hiuSoft/Application/hiuEnvironment/cmder",
@@ -12,7 +13,7 @@
 		"/A/hiuData/hiuWEB/AppJS/vue/q-pwa"
 	],
 	"last_version": 3143,
-	"last_window_id": 71,
+	"last_window_id": 73,
 	"log_indexing": false,
 	"settings":
 	{
@@ -24,16 +25,72 @@
 				"selected_items":
 				[
 					[
+						"a",
+						"author"
+					],
+					[
+						"p",
+						"placeholder\tAttr"
+					],
+					[
+						"conten",
+						"contentSRC"
+					],
+					[
+						"con",
+						"contentSRC"
+					],
+					[
+						"conte",
+						"content"
+					],
+					[
+						"input",
+						"input-src"
+					],
+					[
+						"ch",
+						"changeView"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"co",
+						"contentSRC"
+					],
+					[
+						"pos",
+						"pos-f\tposition: fixed;"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
 						"mar",
-						"margin"
+						"margin-top"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"pa",
+						"padding-left"
 					],
 					[
 						"card",
 						"cardContent"
-					],
-					[
-						"pa",
-						"padding-bottom"
 					],
 					[
 						"fo",
@@ -92,10 +149,6 @@
 						"background-attachment"
 					],
 					[
-						"ba",
-						"background-image"
-					],
-					[
 						"font-s",
 						"font-size"
 					],
@@ -112,24 +165,12 @@
 						"floating-search-card"
 					],
 					[
-						"padd",
-						"padding-bottom"
-					],
-					[
-						"pad",
-						"padding-top"
-					],
-					[
 						"PIC",
 						"pictures"
 					],
 					[
 						"border-r",
 						"border-right"
-					],
-					[
-						"a",
-						"auto"
 					],
 					[
 						"tab",
@@ -448,10 +489,6 @@
 						"onkeyup\tAttr"
 					],
 					[
-						"con",
-						"contains"
-					],
-					[
 						"pri",
 						"price-paid-off"
 					],
@@ -492,48 +529,12 @@
 						"dataPayment"
 					],
 					[
-						"co",
-						"confirm-button"
-					],
-					[
 						"boo",
 						"Bookings"
 					],
 					[
 						"create",
 						"createId"
-					],
-					[
-						"la",
-						"layout-dashboards"
-					],
-					[
-						"user",
-						"userRole"
-					],
-					[
-						"adm",
-						"administrator"
-					],
-					[
-						"Pay",
-						"payments"
-					],
-					[
-						"min",
-						"min-width"
-					],
-					[
-						"tab-h",
-						"tab-search"
-					],
-					[
-						"w3-hover",
-						"w3-hover-blue-grey"
-					],
-					[
-						"w3-bar",
-						"w3-bar-item"
 					]
 				]
 			},
@@ -543,10 +544,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
+				"height": 291.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
 					[
 						"boxy",
 						"Boxy Theme: Activation"
@@ -570,10 +575,6 @@
 					[
 						"package",
 						"Package Control: List Packages"
-					],
-					[
-						"",
-						"Boxy Theme: Configuration"
 					],
 					[
 						"remo",
@@ -620,7 +621,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 376.0
+				"width": 430.0
 			},
 			"console":
 			{
@@ -640,7 +641,13 @@
 			},
 			"file_history":
 			[
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/App.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/static/w3.css",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/assets/w3.css",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/-cur_console",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hiu-me-vue.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/my-project/src/main/index.dev.js",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me/index.html",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
@@ -761,17 +768,11 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/letterhead.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/report-transactions.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/kuitansi.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/DocumentsController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/UsersController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/banks-manage.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/agents-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-payment.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-confirm-repayment.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ReportsController.js"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/DocumentsController.js"
 			],
 			"find":
 			{
-				"height": 173.0
+				"height": 54.0
 			},
 			"find_in_files":
 			{
@@ -794,6 +795,14 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"author",
+					"body",
+					"::",
+					"iframe",
+					"').",
+					";\n",
+					"body",
+					"test",
 					"Info",
 					"     <img src=\"static/hiuwave-logo.png\" style=\"width:20%;margin:auto;display:block;\" alt=\"\">\n            <div v-for=\"i in count\" class=\"card\">\n              <div class=\"card-header\">{{i}} {{cardTitle}}</div>\n              <div class=\"card-content-inner\">\n                {{cardContent}}\n              </div>\n\n            </div>",
 					"f7-popup",
@@ -913,15 +922,7 @@
 					"displayDetailPayment",
 					"detailPayment",
 					"setDataPayment",
-					"dataPayments",
-					"modalDetailPayment",
-					"Pembayaran",
-					"modal-detail-payment",
-					"deleteBooking",
-					"modalDeleteBooking",
-					"delete",
-					"modalDeleteBooking",
-					"DELETE"
+					"dataPayments"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -972,7 +973,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 54.0
 			},
 			"input":
 			{
@@ -996,6 +997,30 @@
 				"selected_items":
 				[
 					[
+						".git",
+						"hiu-me-vue\\.gitignore"
+					],
+					[
+						"package",
+						"hiu-me-vue\\package.json"
+					],
+					[
+						"indexvue",
+						"hiu-me-vue\\src\\renderer\\components\\index.vue"
+					],
+					[
+						"app.vue",
+						"hiu-me-vue\\src\\renderer\\App.vue"
+					],
+					[
+						"appchr",
+						"cmder\\bin\\appchr.cmd"
+					],
+					[
+						"",
+						"cmder\\-cur_console"
+					],
+					[
 						"land",
 						"my-project\\src\\renderer\\components\\LandingPage.vue"
 					],
@@ -1008,20 +1033,12 @@
 						"f7-vue\\src\\app.vue"
 					],
 					[
-						"appchr",
-						"cmder\\bin\\appchr.cmd"
-					],
-					[
 						"index",
 						"hiu-me\\index.html"
 					],
 					[
 						"main",
 						"f7-vue\\src\\main.js"
-					],
-					[
-						"package",
-						"f7-vue\\package.json"
 					],
 					[
 						"sl.cmd",
@@ -1490,22 +1507,6 @@
 					[
 						"modalcon",
 						"views\\partials\\modal-confirm-repayment.ejs"
-					],
-					[
-						"paymn",
-						"views\\dashboards\\payments-confirm.ejs"
-					],
-					[
-						"bookingsco",
-						"api\\controllers\\BookingsController.js"
-					],
-					[
-						"topnav",
-						"views\\partials\\top-navbar-items.ejs"
-					],
-					[
-						"filterlist",
-						"views\\partials\\filter-options-listings.ejs"
 					]
 				],
 				"width": 0.0
@@ -1531,8 +1532,8 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 196.0,
+			"side_bar_visible": false,
+			"side_bar_width": 192.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1548,16 +1549,72 @@
 				"selected_items":
 				[
 					[
+						"a",
+						"author"
+					],
+					[
+						"p",
+						"placeholder\tAttr"
+					],
+					[
+						"conten",
+						"contentSRC"
+					],
+					[
+						"con",
+						"contentSRC"
+					],
+					[
+						"conte",
+						"content"
+					],
+					[
+						"input",
+						"input-src"
+					],
+					[
+						"ch",
+						"changeView"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"co",
+						"contentSRC"
+					],
+					[
+						"pos",
+						"pos-f\tposition: fixed;"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
 						"mar",
-						"margin"
+						"margin-top"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"pa",
+						"padding-left"
 					],
 					[
 						"card",
 						"cardContent"
-					],
-					[
-						"pa",
-						"padding-bottom"
 					],
 					[
 						"fo",
@@ -1616,10 +1673,6 @@
 						"background-attachment"
 					],
 					[
-						"ba",
-						"background-image"
-					],
-					[
 						"font-s",
 						"font-size"
 					],
@@ -1636,24 +1689,12 @@
 						"floating-search-card"
 					],
 					[
-						"padd",
-						"padding-bottom"
-					],
-					[
-						"pad",
-						"padding-top"
-					],
-					[
 						"PIC",
 						"pictures"
 					],
 					[
 						"border-r",
 						"border-right"
-					],
-					[
-						"a",
-						"auto"
 					],
 					[
 						"tab",
@@ -1972,10 +2013,6 @@
 						"onkeyup\tAttr"
 					],
 					[
-						"con",
-						"contains"
-					],
-					[
 						"pri",
 						"price-paid-off"
 					],
@@ -2016,51 +2053,79 @@
 						"dataPayment"
 					],
 					[
-						"co",
-						"confirm-button"
-					],
-					[
 						"boo",
 						"Bookings"
 					],
 					[
 						"create",
 						"createId"
-					],
-					[
-						"la",
-						"layout-dashboards"
-					],
-					[
-						"user",
-						"userRole"
-					],
-					[
-						"adm",
-						"administrator"
-					],
-					[
-						"Pay",
-						"payments"
-					],
-					[
-						"min",
-						"min-width"
-					],
-					[
-						"tab-h",
-						"tab-search"
-					],
-					[
-						"w3-hover",
-						"w3-hover-blue-grey"
-					],
-					[
-						"w3-bar",
-						"w3-bar-item"
 					]
 				]
 			},
+			"buffers":
+			[
+				{
+					"file": "playground/hiu-me-vue/src/renderer/components/index.vue",
+					"settings":
+					{
+						"buffer_size": 2336,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "playground/hiu-me-vue/README.md",
+					"settings":
+					{
+						"buffer_size": 562,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "playground/f7-vue/src/app.vue",
+					"settings":
+					{
+						"buffer_size": 7154,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "playground/hiu-me-vue/src/main/index.js",
+					"settings":
+					{
+						"buffer_size": 1516,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "playground/hiu-me-vue/package.json",
+					"settings":
+					{
+						"buffer_size": 3293,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "playground/hiu-me-vue/.gitignore",
+					"settings":
+					{
+						"buffer_size": 131,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "playground/hiu-me-vue/src/index.ejs",
+					"settings":
+					{
+						"buffer_size": 1087,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
 			"build_system": "",
 			"build_system_choices":
 			[
@@ -2068,10 +2133,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
+				"height": 291.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
 					[
 						"boxy",
 						"Boxy Theme: Activation"
@@ -2095,10 +2164,6 @@
 					[
 						"package",
 						"Package Control: List Packages"
-					],
-					[
-						"",
-						"Boxy Theme: Configuration"
 					],
 					[
 						"remo",
@@ -2145,7 +2210,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 376.0
+				"width": 430.0
 			},
 			"console":
 			{
@@ -2163,9 +2228,28 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/main",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/assets",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/components",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/static"
+			],
 			"file_history":
 			[
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/App.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/static/w3.css",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/assets/w3.css",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/-cur_console",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hiu-me-vue.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/my-project/src/main/index.dev.js",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me/index.html",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
@@ -2286,17 +2370,11 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/letterhead.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/report-transactions.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/kuitansi.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/DocumentsController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/UsersController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/banks-manage.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/agents-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-detail-payment.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-confirm-repayment.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ReportsController.js"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/DocumentsController.js"
 			],
 			"find":
 			{
-				"height": 173.0
+				"height": 54.0
 			},
 			"find_in_files":
 			{
@@ -2319,6 +2397,14 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"author",
+					"body",
+					"::",
+					"iframe",
+					"').",
+					";\n",
+					"body",
+					"test",
 					"Info",
 					"     <img src=\"static/hiuwave-logo.png\" style=\"width:20%;margin:auto;display:block;\" alt=\"\">\n            <div v-for=\"i in count\" class=\"card\">\n              <div class=\"card-header\">{{i}} {{cardTitle}}</div>\n              <div class=\"card-content-inner\">\n                {{cardContent}}\n              </div>\n\n            </div>",
 					"f7-popup",
@@ -2438,15 +2524,7 @@
 					"displayDetailPayment",
 					"detailPayment",
 					"setDataPayment",
-					"dataPayments",
-					"modalDetailPayment",
-					"Pembayaran",
-					"modal-detail-payment",
-					"deleteBooking",
-					"modalDeleteBooking",
-					"delete",
-					"modalDeleteBooking",
-					"DELETE"
+					"dataPayments"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2495,9 +2573,230 @@
 				"whole_word": true,
 				"wrap": false
 			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "playground/hiu-me-vue/src/renderer/components/index.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2336,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2282,
+										2282
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1350.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "playground/hiu-me-vue/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 562,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										56,
+										56
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "playground/f7-vue/src/app.vue",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 7154,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2538.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "playground/hiu-me-vue/src/main/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1516,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										579,
+										579
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 216.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "playground/hiu-me-vue/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3293,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										70,
+										70
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "playground/hiu-me-vue/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 131,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 6,
+							"file": "playground/hiu-me-vue/src/index.ejs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1087,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										425,
+										425
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/EJS 2/EJS.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				}
+			],
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 54.0
 			},
 			"input":
 			{
@@ -2528,7 +2827,7 @@
 				"rows":
 				[
 					0.0,
-					0.92774566474,
+					0.681638044914,
 					1.0
 				]
 			},
@@ -2538,7 +2837,8 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,842,1628,22,2473",
+			"position": "0,0,1,-1,-1,-1,-1,834,1640,14,2485",
+			"project": "1.sublime-project",
 			"replace":
 			{
 				"height": 102.0
@@ -2550,6 +2850,34 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"hiumevuereadme",
+						"hiu-me-vue\\README.md"
+					],
+					[
+						".git",
+						"hiu-me-vue\\.gitignore"
+					],
+					[
+						"package",
+						"hiu-me-vue\\package.json"
+					],
+					[
+						"indexvue",
+						"hiu-me-vue\\src\\renderer\\components\\index.vue"
+					],
+					[
+						"app.vue",
+						"hiu-me-vue\\src\\renderer\\App.vue"
+					],
+					[
+						"appchr",
+						"cmder\\bin\\appchr.cmd"
+					],
+					[
+						"",
+						"cmder\\-cur_console"
+					],
 					[
 						"land",
 						"my-project\\src\\renderer\\components\\LandingPage.vue"
@@ -2563,20 +2891,12 @@
 						"f7-vue\\src\\app.vue"
 					],
 					[
-						"appchr",
-						"cmder\\bin\\appchr.cmd"
-					],
-					[
 						"index",
 						"hiu-me\\index.html"
 					],
 					[
 						"main",
 						"f7-vue\\src\\main.js"
-					],
-					[
-						"package",
-						"f7-vue\\package.json"
 					],
 					[
 						"sl.cmd",
@@ -3041,26 +3361,6 @@
 					[
 						"modalre",
 						"views\\partials\\modal-confirm-repayment.ejs"
-					],
-					[
-						"modalcon",
-						"views\\partials\\modal-confirm-repayment.ejs"
-					],
-					[
-						"paymn",
-						"views\\dashboards\\payments-confirm.ejs"
-					],
-					[
-						"bookingsco",
-						"api\\controllers\\BookingsController.js"
-					],
-					[
-						"topnav",
-						"views\\partials\\top-navbar-items.ejs"
-					],
-					[
-						"filterlist",
-						"views\\partials\\filter-options-listings.ejs"
 					]
 				],
 				"width": 0.0
@@ -3083,19 +3383,21 @@
 				],
 				"width": 0.0
 			},
+			"selected_group": 0,
 			"settings":
 			{
 			},
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 196.0,
+			"side_bar_visible": false,
+			"side_bar_width": 192.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 71
+			"window_id": 71,
+			"workspace_name": "/A/hiuData/hiuWEB/AppJS/1.sublime-workspace"
 		}
 	],
 	"workspaces":
