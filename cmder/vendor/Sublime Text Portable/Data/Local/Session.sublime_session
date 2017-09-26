@@ -25,6 +25,10 @@
 				"selected_items":
 				[
 					[
+						"ht",
+						"https"
+					],
+					[
 						"a",
 						"author"
 					],
@@ -531,10 +535,6 @@
 					[
 						"boo",
 						"Bookings"
-					],
-					[
-						"create",
-						"createId"
 					]
 				]
 			},
@@ -996,6 +996,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"goo",
+						"cmder\\bin\\google-translate.cmd"
+					],
 					[
 						"goog",
 						"cmder\\bin\\google-translate.cmd"
@@ -1503,10 +1507,6 @@
 					[
 						"userc",
 						"api\\controllers\\UsersController.js"
-					],
-					[
-						"doc",
-						"api\\controllers\\DocumentsController.js"
 					]
 				],
 				"width": 0.0
@@ -1548,6 +1548,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"ht",
+						"https"
+					],
 					[
 						"a",
 						"author"
@@ -2055,10 +2059,6 @@
 					[
 						"boo",
 						"Bookings"
-					],
-					[
-						"create",
-						"createId"
 					]
 				]
 			},
@@ -2545,6 +2545,10 @@
 				"selected_items":
 				[
 					[
+						"goo",
+						"cmder\\bin\\google-translate.cmd"
+					],
+					[
 						"goog",
 						"cmder\\bin\\google-translate.cmd"
 					],
@@ -3051,10 +3055,6 @@
 					[
 						"userc",
 						"api\\controllers\\UsersController.js"
-					],
-					[
-						"doc",
-						"api\\controllers\\DocumentsController.js"
 					]
 				],
 				"width": 0.0
