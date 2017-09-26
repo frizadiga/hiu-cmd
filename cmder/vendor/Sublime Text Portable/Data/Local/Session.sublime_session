@@ -13,7 +13,7 @@
 		"/A/hiuData/hiuWEB/AppJS/vue/q-pwa"
 	],
 	"last_version": 3143,
-	"last_window_id": 73,
+	"last_window_id": 74,
 	"log_indexing": false,
 	"settings":
 	{
@@ -641,6 +641,7 @@
 			},
 			"file_history":
 			[
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sp.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/App.vue",
@@ -767,8 +768,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/listing-form.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/letterhead.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/report-transactions.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/kuitansi.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/DocumentsController.js"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/kuitansi.ejs"
 			],
 			"find":
 			{
@@ -2166,6 +2166,7 @@
 			},
 			"file_history":
 			[
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sp.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/App.vue",
@@ -2292,8 +2293,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/listing-form.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/letterhead.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/report-transactions.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/kuitansi.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/DocumentsController.js"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/kuitansi.ejs"
 			],
 			"find":
 			{
@@ -2532,7 +2532,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,822,1625,2,2470",
+			"position": "0,0,1,-1,-1,-1,-1,839,1668,19,2513",
 			"replace":
 			{
 				"height": 102.0
@@ -3089,7 +3089,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 71
+			"window_id": 74
 		}
 	],
 	"workspaces":
