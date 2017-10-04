@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails",
 		"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue",
 		"/A/hiuData/hiuWEB/AppJS/playground/my-project",
 		"/A/hiuData/hiuWEB/AppJS/playground/hiu-me",
@@ -13,7 +14,7 @@
 		"/A/hiuData/hiuWEB/AppJS/vue/q-pwa"
 	],
 	"last_version": 3143,
-	"last_window_id": 74,
+	"last_window_id": 75,
 	"log_indexing": false,
 	"settings":
 	{
@@ -621,7 +622,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 462.0
+				"width": 430.0
 			},
 			"console":
 			{
@@ -641,6 +642,11 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package.json",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package-lock.json",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sp.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink.cmd",
@@ -694,7 +700,6 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/README.md",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/api/models/Listings.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/payments-repayment.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/modal-login.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/bookings-confirm.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/bookings.ejs",
@@ -764,11 +769,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/PaymentsController.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/layout.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/layout-plain.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-repayment.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/listing-form.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/letterhead.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/report-transactions.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/kuitansi.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-repayment.ejs"
 			],
 			"find":
 			{
@@ -997,6 +998,18 @@
 				"selected_items":
 				[
 					[
+						"package",
+						"hiuProperty-sails\\package.json"
+					],
+					[
+						"package.json",
+						"hiuProperty-sails\\package-lock.json"
+					],
+					[
+						"routes",
+						"f7-vue\\src\\routes.js"
+					],
+					[
 						"goo",
 						"cmder\\bin\\google-translate.cmd"
 					],
@@ -1019,10 +1032,6 @@
 					[
 						".git",
 						"hiu-me-vue\\.gitignore"
-					],
-					[
-						"package",
-						"hiu-me-vue\\package.json"
 					],
 					[
 						"indexvue",
@@ -1063,10 +1072,6 @@
 					[
 						"app.",
 						"f7-vue\\src\\app.vue"
-					],
-					[
-						"routes",
-						"f7-vue\\src\\routes.js"
 					],
 					[
 						"about",
@@ -1503,10 +1508,6 @@
 					[
 						"paymentdp",
 						"views\\dashboards\\payments-dp.ejs"
-					],
-					[
-						"userc",
-						"api\\controllers\\UsersController.js"
 					]
 				],
 				"width": 0.0
@@ -1533,7 +1534,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 192.0,
+			"side_bar_width": 164.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -2146,7 +2147,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 462.0
+				"width": 430.0
 			},
 			"console":
 			{
@@ -2166,6 +2167,11 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package.json",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package-lock.json",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sp.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink.cmd",
@@ -2219,7 +2225,6 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/README.md",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/api/models/Listings.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/payments-repayment.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/modal-login.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/bookings-confirm.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/bookings.ejs",
@@ -2289,11 +2294,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/PaymentsController.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/layout.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/layout-plain.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-repayment.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/listing-form.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/letterhead.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/report-transactions.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/documents/kuitansi.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-repayment.ejs"
 			],
 			"find":
 			{
@@ -2513,6 +2514,12 @@
 						0,
 						1,
 						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
 					]
 				],
 				"cols":
@@ -2523,6 +2530,7 @@
 				"rows":
 				[
 					0.0,
+					0.5,
 					1.0
 				]
 			},
@@ -2532,7 +2540,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,839,1668,19,2513",
+			"position": "0,0,1,-1,-1,-1,-1,830,1633,10,2478",
 			"replace":
 			{
 				"height": 102.0
@@ -2544,6 +2552,18 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"package",
+						"hiuProperty-sails\\package.json"
+					],
+					[
+						"package.json",
+						"hiuProperty-sails\\package-lock.json"
+					],
+					[
+						"routes",
+						"f7-vue\\src\\routes.js"
+					],
 					[
 						"goo",
 						"cmder\\bin\\google-translate.cmd"
@@ -2567,10 +2587,6 @@
 					[
 						".git",
 						"hiu-me-vue\\.gitignore"
-					],
-					[
-						"package",
-						"hiu-me-vue\\package.json"
 					],
 					[
 						"indexvue",
@@ -2611,10 +2627,6 @@
 					[
 						"app.",
 						"f7-vue\\src\\app.vue"
-					],
-					[
-						"routes",
-						"f7-vue\\src\\routes.js"
 					],
 					[
 						"about",
@@ -3051,10 +3063,6 @@
 					[
 						"paymentdp",
 						"views\\dashboards\\payments-dp.ejs"
-					],
-					[
-						"userc",
-						"api\\controllers\\UsersController.js"
 					]
 				],
 				"width": 0.0
@@ -3084,7 +3092,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 192.0,
+			"side_bar_width": 164.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

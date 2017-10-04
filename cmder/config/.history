@@ -3569,3 +3569,63 @@ git remote add origin git@github.com:frizadiga/hiu-window-size.git & git push -u
 git remote add origin git@github.com:frizadiga/hiu-window-size.git
 git push -u origin master
 git remote -v
+exit
+f7-vue
+cd /d A:\hiuData\hiuWEB\AppJS\playground\my-project
+cd..
+git add . & git commit -m "update"
+git push
+cd-appjs
+cd playground
+cd my-project
+npm run dev
+cd..
+git status
+chrome
+cd playground
+cd my-project
+npm run dev
+cd..
+cd-appjs
+cd-hiuapps
+cd -hiuapps
+md hiu-window-size
+cd hiu-window-size
+ls
+npm init
+git init
+git remote add origin git@github.com:frizadiga/hiu-window-size.git git push -u origin master
+git remote add origin git@github.com:frizadiga/hiu-window-size.git & git push -u origin master
+git remote add origin git@github.com:frizadiga/hiu-window-size.git
+git push -u origin master
+git remote -v
+sym.cpl
+symdm.cpl
+sysdm.cpl
+bde-a
+git add .
+git commit -m "update"
+git push
+sl
+google-translate
+chrome --app="hiuwave.com" --window-size="300,300"
+chrome --app="hiuwave.com"
+chrome --window-size="300,300"
+chrome --window-size=300,300
+chrome --window-size=300,300 --app="http://hiuwave.com"
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame --user-data-dir="Default"
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame --profile-directory="Default"
+google-chrome "data:text/html;charset=ISO-8859-1,<html>     <head></head><body><script language=\"javascript\">         window.open('http://perso.f-hauri.ch/~felix/svg/dustin_w_Clock_autonom.svg',              'clock','toolbar=0,location=0,status=0,menubar=0,scrollbars=1,'              +'resizable=1,width=600,height=600,top=100,left=120');</script>"
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame --user-data-dir="Default" --user-data-dir="Default"
+f7-kitchen-sink
+choco install nodejs
+choco upgrade nodejs
+choco upgrade nodejs -y
+C:\ProgramData\chocolatey\logs\chocolatey.log
+node -v
+refreshenv
+sd -h
+bde-a
+sl
+quran 1 2
