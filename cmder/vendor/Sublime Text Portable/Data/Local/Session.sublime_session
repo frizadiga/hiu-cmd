@@ -998,6 +998,14 @@
 				"selected_items":
 				[
 					[
+						"appchr",
+						"cmder\\bin\\appchr.cmd"
+					],
+					[
+						"quran",
+						"cmder\\bin\\quran.cmd"
+					],
+					[
 						"package",
 						"hiuProperty-sails\\package.json"
 					],
@@ -1016,10 +1024,6 @@
 					[
 						"goog",
 						"cmder\\bin\\google-translate.cmd"
-					],
-					[
-						"appchr",
-						"cmder\\bin\\appchr.cmd"
 					],
 					[
 						"kitche",
@@ -1504,10 +1508,6 @@
 					[
 						"payment",
 						"views\\partials\\modal-detail-payment.ejs"
-					],
-					[
-						"paymentdp",
-						"views\\dashboards\\payments-dp.ejs"
 					]
 				],
 				"width": 0.0
@@ -2553,6 +2553,14 @@
 				"selected_items":
 				[
 					[
+						"appchr",
+						"cmder\\bin\\appchr.cmd"
+					],
+					[
+						"quran",
+						"cmder\\bin\\quran.cmd"
+					],
+					[
 						"package",
 						"hiuProperty-sails\\package.json"
 					],
@@ -2571,10 +2579,6 @@
 					[
 						"goog",
 						"cmder\\bin\\google-translate.cmd"
-					],
-					[
-						"appchr",
-						"cmder\\bin\\appchr.cmd"
 					],
 					[
 						"kitche",
@@ -3059,10 +3063,6 @@
 					[
 						"payment",
 						"views\\partials\\modal-detail-payment.ejs"
-					],
-					[
-						"paymentdp",
-						"views\\dashboards\\payments-dp.ejs"
 					]
 				],
 				"width": 0.0

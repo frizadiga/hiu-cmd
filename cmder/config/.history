@@ -3632,3 +3632,8 @@ quran 1 2
 chrome
 sd -h
 chrome
+bde a: -unlock -password
+git add . & git status
+git commit -m "update"
+quran 1 7
+xampp-control
