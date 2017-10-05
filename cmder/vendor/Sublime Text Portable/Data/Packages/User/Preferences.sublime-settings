@@ -8,6 +8,7 @@
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
+	 "word_wrap": "true",
 	"ignored_packages":
 	[
 		"Vintage"
