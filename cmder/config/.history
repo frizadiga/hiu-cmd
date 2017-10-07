@@ -3637,3 +3637,5 @@ git add . & git status
 git commit -m "update"
 quran 1 7
 xampp-control
+bde-a
+xampp-control
