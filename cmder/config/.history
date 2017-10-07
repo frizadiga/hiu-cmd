@@ -3639,3 +3639,10 @@ quran 1 7
 xampp-control
 bde-a
 xampp-control
+git add . & git status
+git commit -m "update"
+git push
+quran
+a:
+bde-a
+xampp-control

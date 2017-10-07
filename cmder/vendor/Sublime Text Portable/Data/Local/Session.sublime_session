@@ -642,6 +642,12 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app.vue",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-ios.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-mat.cmd",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package.json",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
@@ -657,10 +663,7 @@
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hiu-me-vue.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/my-project/src/main/index.dev.js",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me/index.html",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/chrome.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-profile.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-old.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/express/lib/response.js",
@@ -766,10 +769,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/layout-dashboards.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/env/production.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/env/development.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/PaymentsController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/layout.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/layout-plain.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-repayment.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/PaymentsController.js"
 			],
 			"find":
 			{
@@ -998,12 +998,20 @@
 				"selected_items":
 				[
 					[
-						"appchr",
-						"cmder\\bin\\appchr.cmd"
-					],
-					[
 						"quran",
 						"cmder\\bin\\quran.cmd"
+					],
+					[
+						"app.vue",
+						"f7-vue\\src\\app.vue"
+					],
+					[
+						"f7-",
+						"cmder\\bin\\f7-kitchen-sink-mat.cmd"
+					],
+					[
+						"appchr",
+						"cmder\\bin\\appchr.cmd"
 					],
 					[
 						"package",
@@ -1040,10 +1048,6 @@
 					[
 						"indexvue",
 						"hiu-me-vue\\src\\renderer\\components\\index.vue"
-					],
-					[
-						"app.vue",
-						"hiu-me-vue\\src\\renderer\\App.vue"
 					],
 					[
 						"",
@@ -1504,10 +1508,6 @@
 					[
 						"modalpay",
 						"views\\partials\\modal-pay-repayment.ejs"
-					],
-					[
-						"payment",
-						"views\\partials\\modal-detail-payment.ejs"
 					]
 				],
 				"width": 0.0
@@ -2167,6 +2167,12 @@
 			},
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app.vue",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-ios.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-mat.cmd",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package.json",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
@@ -2182,10 +2188,7 @@
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hiu-me-vue.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/my-project/src/main/index.dev.js",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me/index.html",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/chrome.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-profile.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-old.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/express/lib/response.js",
@@ -2291,10 +2294,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/layout-dashboards.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/env/production.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/env/development.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/PaymentsController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/layout.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/layout-plain.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/dashboards/payments-repayment.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/PaymentsController.js"
 			],
 			"find":
 			{
@@ -2514,12 +2514,6 @@
 						0,
 						1,
 						1
-					],
-					[
-						0,
-						1,
-						1,
-						2
 					]
 				],
 				"cols":
@@ -2530,7 +2524,6 @@
 				"rows":
 				[
 					0.0,
-					0.5,
 					1.0
 				]
 			},
@@ -2553,12 +2546,20 @@
 				"selected_items":
 				[
 					[
-						"appchr",
-						"cmder\\bin\\appchr.cmd"
-					],
-					[
 						"quran",
 						"cmder\\bin\\quran.cmd"
+					],
+					[
+						"app.vue",
+						"f7-vue\\src\\app.vue"
+					],
+					[
+						"f7-",
+						"cmder\\bin\\f7-kitchen-sink-mat.cmd"
+					],
+					[
+						"appchr",
+						"cmder\\bin\\appchr.cmd"
 					],
 					[
 						"package",
@@ -2595,10 +2596,6 @@
 					[
 						"indexvue",
 						"hiu-me-vue\\src\\renderer\\components\\index.vue"
-					],
-					[
-						"app.vue",
-						"hiu-me-vue\\src\\renderer\\App.vue"
 					],
 					[
 						"",
@@ -3059,10 +3056,6 @@
 					[
 						"modalpay",
 						"views\\partials\\modal-pay-repayment.ejs"
-					],
-					[
-						"payment",
-						"views\\partials\\modal-detail-payment.ejs"
 					]
 				],
 				"width": 0.0
