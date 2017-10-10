@@ -3646,3 +3646,19 @@ quran
 a:
 bde-a
 xampp-control
+xampp-control
+bde-a
+xampp-control
+cd-hiuproperty/hiuproperty-api
+git add .
+git status
+git status -v
+git commit -m "change model migration policy"
+git push
+\
+cls
+cd..
+cd playground
+md f7-v2 & cd f7-v2 & git clone https://github.com/nolimits4web/Framework7/tree/v2
+ls
+git clone https://github.com/nolimits4web/Framework7/tree/v2

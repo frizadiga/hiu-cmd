@@ -26,6 +26,10 @@
 				"selected_items":
 				[
 					[
+						"li",
+						"light"
+					],
+					[
 						"ht",
 						"https"
 					],
@@ -228,10 +232,6 @@
 					[
 						"font",
 						"font-weight"
-					],
-					[
-						"li",
-						"linkCertification"
 					],
 					[
 						"lin",
@@ -642,6 +642,8 @@
 			},
 			"file_history":
 			[
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
@@ -652,7 +654,6 @@
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package-lock.json",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sp.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink.cmd",
@@ -768,8 +769,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/node_modules/caseless/test.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/layout-dashboards.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/env/production.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/env/development.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/PaymentsController.js"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/env/development.js"
 			],
 			"find":
 			{
@@ -998,6 +998,14 @@
 				"selected_items":
 				[
 					[
+						"f7-vuemain.js",
+						"f7-vue\\src\\main.js"
+					],
+					[
+						"goo",
+						"cmder\\bin\\google-translate.cmd"
+					],
+					[
 						"quran",
 						"cmder\\bin\\quran.cmd"
 					],
@@ -1024,10 +1032,6 @@
 					[
 						"routes",
 						"f7-vue\\src\\routes.js"
-					],
-					[
-						"goo",
-						"cmder\\bin\\google-translate.cmd"
 					],
 					[
 						"goog",
@@ -1504,10 +1508,6 @@
 					[
 						"repaymen",
 						"views\\dashboards\\payments-repayment-confirm.ejs"
-					],
-					[
-						"modalpay",
-						"views\\partials\\modal-pay-repayment.ejs"
 					]
 				],
 				"width": 0.0
@@ -1533,7 +1533,7 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 164.0,
 			"status_bar_visible": true,
 			"template_settings":
@@ -1549,6 +1549,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"li",
+						"light"
+					],
 					[
 						"ht",
 						"https"
@@ -1752,10 +1756,6 @@
 					[
 						"font",
 						"font-weight"
-					],
-					[
-						"li",
-						"linkCertification"
 					],
 					[
 						"lin",
@@ -2167,6 +2167,8 @@
 			},
 			"file_history":
 			[
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
+				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
@@ -2177,7 +2179,6 @@
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package-lock.json",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sp.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink.cmd",
@@ -2293,8 +2294,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/node_modules/caseless/test.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/layout-dashboards.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/env/production.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/env/development.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/PaymentsController.js"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/env/development.js"
 			],
 			"find":
 			{
@@ -2533,7 +2533,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,830,1633,10,2478",
+			"position": "0,0,1,-1,-1,-1,-1,834,1624,14,2469",
 			"replace":
 			{
 				"height": 102.0
@@ -2545,6 +2545,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"f7-vuemain.js",
+						"f7-vue\\src\\main.js"
+					],
+					[
+						"goo",
+						"cmder\\bin\\google-translate.cmd"
+					],
 					[
 						"quran",
 						"cmder\\bin\\quran.cmd"
@@ -2572,10 +2580,6 @@
 					[
 						"routes",
 						"f7-vue\\src\\routes.js"
-					],
-					[
-						"goo",
-						"cmder\\bin\\google-translate.cmd"
 					],
 					[
 						"goog",
@@ -3052,10 +3056,6 @@
 					[
 						"repaymen",
 						"views\\dashboards\\payments-repayment-confirm.ejs"
-					],
-					[
-						"modalpay",
-						"views\\partials\\modal-pay-repayment.ejs"
 					]
 				],
 				"width": 0.0
@@ -3084,7 +3084,7 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 164.0,
 			"status_bar_visible": true,
 			"template_settings":
