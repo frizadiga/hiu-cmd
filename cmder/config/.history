@@ -3662,3 +3662,98 @@ cd playground
 md f7-v2 & cd f7-v2 & git clone https://github.com/nolimits4web/Framework7/tree/v2
 ls
 git clone https://github.com/nolimits4web/Framework7/tree/v2
+chrome --app="hiuwave.com" --window-size="300,300"
+chrome --app="hiuwave.com"
+chrome --window-size="300,300"
+chrome --window-size=300,300
+chrome --window-size=300,300 --app="http://hiuwave.com"
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame --user-data-dir="Default"
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame --profile-directory="Default"
+google-chrome "data:text/html;charset=ISO-8859-1,<html>     <head></head><body><script language=\"javascript\">         window.open('http://perso.f-hauri.ch/~felix/svg/dustin_w_Clock_autonom.svg',              'clock','toolbar=0,location=0,status=0,menubar=0,scrollbars=1,'              +'resizable=1,width=600,height=600,top=100,left=120');</script>"
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame
+chrome --window-size=300,300 --app="http://hiuwave.com" --chrome-frame --user-data-dir="Default" --user-data-dir="Default"
+f7-kitchen-sink
+choco install nodejs
+choco upgrade nodejs
+choco upgrade nodejs -y
+C:\ProgramData\chocolatey\logs\chocolatey.log
+refreshenv
+sd -h
+bde-a
+quran 1 2
+chrome
+chrome
+bde a: -unlock -password
+git add . & git status
+git commit -m "update"
+quran 1 7
+xampp-control
+bde-a
+xampp-control
+quran
+a:
+bde-a
+xampp-control
+quran 1 1
+quran 2 300
+quran 2 255
+appchr http://hiupc:1700
+netsh wlan start hostednetwork
+netsh wlan show hostednetwork
+netsh wlan stop hostednetwork
+appchr http://hiuwave.com
+google-translate
+git add . & git status
+git commit -m "update"
+git push
+sl
+sd -h
+f7-kitchen-sink-mat
+appchr http://localhost:3000
+node -v
+node
+git add .
+git status
+cmder
+cd /d A:\hiuData\hiuWEB\AppJS\playground\f7-v2
+cls
+vim package.json
+npm run prod
+cd-hiuproperty/hiuproperty-api
+ndm api
+ndm app
+xampp-control
+hiu-me-vue
+xampp-control
+bde-a
+xampp-control
+cd-hiuproperty/hiuproperty-api
+git add .
+git status
+git status -v
+git commit -m "change model migration policy"
+git push
+\
+cls
+cd playground
+md f7-v2 & cd f7-v2 & git clone https://github.com/nolimits4web/Framework7/tree/v2
+git clone https://github.com/nolimits4web/Framework7/tree/v2
+git clone https://github.com/framework7io/Framework7.git
+rm -rf framework7
+git clone -b v2 https://github.com/framework7io/Framework7.git
+cd framework7
+git -v
+git --version
+git checkout v2
+git branch -a
+cd..
+rm -rf f7-v2
+git clone https://github.com/framework7io/Framework7.git -b v2 --single-branch f7-v2 
+cd f7-v2
+npm i grunt gulp -g
+npm i webpack -g
+ls
+npm i
+npm run prod
+git add .
+f7-vue
