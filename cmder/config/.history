@@ -3757,3 +3757,62 @@ npm i
 npm run prod
 git add .
 f7-vue
+f7-vue
+cd-appjs/playground
+cd f7-v2
+npm run prod & appchr http://localhost:3000
+f7-v2
+rm -rf f7-v2
+git clone https://github.com/framework7io/Framework7.git -b v2 --single-branch f7-v2 
+cd f7-v2
+npm i grunt gulp -g
+npm i webpack -g
+ls
+npm i
+npm run prod
+f7-vue
+cmder/vendor/Sublime Text Portable/Data/Index/LOG
+%cmder%/vendor/Sublime Text Portable/Data/Index/LOG
+%cmder%"/vendor/Sublime Text Portable/Data/Index/LOG"
+bde-a
+sl
+start.
+git status -v cmder/bin/hiuproperty-sails.cmd
+git status cmder/bin/hiuproperty-sails.cmd
+git status cmder/bin/hiuproperty-sails.cmd -v
+git status 
+git commit -m "update"
+git add .
+git status
+git push
+quran 
+quran 33 72
+sd -h
+google-traslation
+google-translate
+choco upgrade nodejs -y
+node -v & npm -v
+cd f7-v2
+npm i grunt gulp -g
+npm i webpack -g
+npm i
+npm run prod
+git add .
+f7-vue
+cmder
+c\mderr
+cmderr
+ls
+dir -ah
+dir
+dir /h
+dir -h
+dir /?
+cd cmder
+cd..
+dir /A
+vim .gitignore
+sp
+f7-v2
+f7-v2
+xampp-control
