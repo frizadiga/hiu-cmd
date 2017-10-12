@@ -1,0 +1,1 @@
+%hiucmd%\hiuxampp\start.bat
