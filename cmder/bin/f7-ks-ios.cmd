@@ -1,1 +1,1 @@
-appchr "https://framework7.io/kitchen-sink-ios/"
+acm "https://framework7.io/kitchen-sink-ios/"

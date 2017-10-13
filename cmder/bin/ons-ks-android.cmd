@@ -1,1 +1,1 @@
-appchr "https://onsenui.github.io/vue-onsenui-kitchensink/main.html?platform=android"
+acm "https://onsenui.github.io/vue-onsenui-kitchensink/main.html?platform=android"

@@ -1,1 +1,1 @@
-appchr "https://framework7.io/kitchen-sink-material/"
+acm "https://framework7.io/kitchen-sink-material/"
