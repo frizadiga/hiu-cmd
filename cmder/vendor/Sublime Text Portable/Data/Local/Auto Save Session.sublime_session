@@ -1,10 +1,10 @@
 {
 	"folder_history":
 	[
+		"/D/hiuSoft/Application/hiuEnvironment/cmder",
 		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails",
 		"/A/hiuData/hiuWEB/AppJS/playground/f7-v2",
 		"/D/hiuSoft/Application/hiuEnvironment",
-		"/D/hiuSoft/Application/hiuEnvironment/cmder",
 		"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue",
 		"/A/hiuData/hiuWEB/AppJS/playground/my-project",
 		"/A/hiuData/hiuWEB/AppJS/playground/hiu-me",
@@ -2067,11 +2067,30 @@
 			"buffers":
 			[
 				{
-					"file": "/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/top-logo-badge.ejs",
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ons-ks-android.cmd",
 					"settings":
 					{
-						"buffer_size": 580,
+						"buffer_size": 85,
 						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": "appchr \"https://onsenui.github.io/vue-onsenui-kitc"
+					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ons-ks-ios.cmd",
+					"settings":
+					{
+						"buffer_size": 81,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": "appchr \"https://onsenui.github.io/vue-onsenui-kitc"
+					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-ks-ios.cmd",
+					"settings":
+					{
+						"buffer_size": 48,
 						"line_ending": "Windows"
 					}
 				}
@@ -2180,11 +2199,12 @@
 			},
 			"expanded_folders":
 			[
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views"
+				"/D/hiuSoft/Application/hiuEnvironment/cmder",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin"
 			],
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/top-logo-badge.ejs",
 				"/D/hiuSoft/Application/hiuEnvironment/.gitignore",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-v2/scripts/gulpfile.js",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-v2.cmd",
@@ -2248,7 +2268,6 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/static/css/w3.css",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/layout-dashboards.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/floating-search-card.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/top-logo-badge.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/pages/listings.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/modal-instant-view.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/README.md",
@@ -2518,43 +2537,99 @@
 			"folders":
 			[
 				{
-					"path": "A:\\hiuData\\hiuWEB\\AppJS\\-hiuApps\\hiuProperty\\hiuProperty-sails"
+					"path": "D:\\hiuSoft\\Application\\hiuEnvironment\\cmder"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/top-logo-badge.ejs",
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ons-ks-android.cmd",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 580,
+								"buffer_size": 85,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										81,
-										81
+										85,
+										85
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/EJS 2/EJS.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"auto_name": "appchr \"https://onsenui.github.io/vue-onsenui-kitc",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ons-ks-ios.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 81,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										80,
+										80
+									]
+								],
+								"settings":
+								{
+									"auto_name": "appchr \"https://onsenui.github.io/vue-onsenui-kitc",
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-ks-ios.cmd",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 48,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -2596,7 +2671,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,838,1648,18,2493",
+			"position": "0,0,1,-1,-1,-1,-1,840,1657,20,2502",
 			"project": "",
 			"replace":
 			{
