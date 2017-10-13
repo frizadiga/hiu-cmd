@@ -1,1 +1,1 @@
-cd /d %appjs%/playground/f7-v2 & appchr http://localhost:3000 & npm run prod
+cd /d %appjs%/playground/f7-v2 & acm http://localhost:3000 & npm run prod
