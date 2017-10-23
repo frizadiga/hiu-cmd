@@ -28,12 +28,40 @@
 				"selected_items":
 				[
 					[
-						"lo",
-						"log"
+						"ha",
+						"cur-ha\tcursor: hand;"
 					],
 					[
-						"cons",
-						"console"
+						"animatio",
+						"animation-duration"
+					],
+					[
+						"t",
+						"true"
+					],
+					[
+						"o",
+						"openAlert"
+					],
+					[
+						"transition-d",
+						"transition-duration"
+					],
+					[
+						"tr",
+						"transition"
+					],
+					[
+						"lef",
+						"left-panel-view"
+					],
+					[
+						"le",
+						"LeftPanel"
+					],
+					[
+						"left",
+						"LeftPanel"
 					],
 					[
 						"li",
@@ -226,10 +254,6 @@
 					[
 						"w3-blue",
 						"w3-blue-grey"
-					],
-					[
-						"le",
-						"length"
 					],
 					[
 						"lis",
@@ -514,30 +538,6 @@
 					[
 						"pay-",
 						"pay-button-paid-off"
-					],
-					[
-						"va",
-						"value"
-					],
-					[
-						"pat",
-						"noPayment"
-					],
-					[
-						"fa-ce",
-						"fa-chevron-down"
-					],
-					[
-						"fa-c",
-						"fa-check-circle"
-					],
-					[
-						"w3-pa",
-						"w3-padding-16"
-					],
-					[
-						"w3-padd",
-						"w3-padding-16"
 					]
 				]
 			},
@@ -644,25 +644,11 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/AppJS/playground/ons-v2/src/components/HomePage.vue",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-v2.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/ons-v2/config/index.js",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ons-ks-ios.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ons-ks-android.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/quran.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-ks-ios.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-ks-mat.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/telegram.cmd",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7/dist/css/framework7.material.css",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7-vue/src/components/view.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-backup.vue",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/whatsapp.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/acm.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-v2/scripts/gulpfile.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/top-logo-badge.ejs",
-				"/D/hiuSoft/Application/hiuEnvironment/.gitignore",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hiuproperty-vue.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hiuproperty-sails.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hiuproperty-api.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/start-xampp.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/telegram.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
@@ -676,6 +662,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package-lock.json",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sp.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/App.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/static/w3.css",
@@ -718,6 +705,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/static/css/w3.css",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/layout-dashboards.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/floating-search-card.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/top-logo-badge.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/pages/listings.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/modal-instant-view.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/README.md",
@@ -771,7 +759,19 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/routes.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/floating-search-card.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/navbar-search.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-booking.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Listings.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/app.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/about-us.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/hiusig.sql",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/TestController.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/package.json"
 			],
 			"find":
 			{
@@ -798,6 +798,16 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"19px",
+					";*/\n",
+					"300ms",
+					"page-from",
+					".page-from-right",
+					"openAlert",
+					"right-panel",
+					"left-panel",
+					">\n",
+					"LeftPanel",
 					"author",
 					"body",
 					"::",
@@ -915,17 +925,7 @@
 					"% ||",
 					"</td>",
 					"Proof",
-					"proof",
-					"Proof",
-					"Bukti",
-					"dpProof",
-					"phoneDetail",
-					"emailDetail",
-					"dataPaymentDetail",
-					"displayDetailPayment",
-					"detailPayment",
-					"setDataPayment",
-					"dataPayments"
+					"proof"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1000,28 +1000,40 @@
 				"selected_items":
 				[
 					[
-						"goog",
-						"cmder\\bin\\google-translate.cmd"
+						"panel",
+						"f7-vue\\src\\components\\panel-left.vue"
 					],
 					[
-						"f7",
-						"cmder\\bin\\f7-v2.cmd"
+						"materialcss",
+						"f7-vue\\node_modules\\framework7\\dist\\css\\framework7.material.css"
+					],
+					[
+						"appba",
+						"f7-vue\\src\\app-backup.vue"
+					],
+					[
+						"routes",
+						"f7-vue\\src\\routes.js"
+					],
+					[
+						"main",
+						"f7-vue\\src\\main.js"
+					],
+					[
+						"f7-view.vue",
+						"f7-vue\\node_modules\\framework7-vue\\src\\components\\view.vue"
 					],
 					[
 						"app",
-						"bin\\appchr.cmd"
+						"f7-vue\\src\\app.vue"
 					],
 					[
-						"badge",
-						"views\\partials\\top-logo-badge.ejs"
+						"wa.cmd",
+						"cmder\\bin\\whatsapp.cmd"
 					],
 					[
-						"hiu",
-						"bin\\hiuproperty-vue.cmd"
-					],
-					[
-						"hiupro",
-						"bin\\hiuproperty-sails.cmd"
+						"tele",
+						"cmder\\bin\\telegram.cmd"
 					],
 					[
 						"f7-vuemain.js",
@@ -1056,8 +1068,8 @@
 						"hiuProperty-sails\\package-lock.json"
 					],
 					[
-						"routes",
-						"f7-vue\\src\\routes.js"
+						"goog",
+						"cmder\\bin\\google-translate.cmd"
 					],
 					[
 						"kitche",
@@ -1090,10 +1102,6 @@
 					[
 						"index",
 						"hiu-me\\index.html"
-					],
-					[
-						"main",
-						"f7-vue\\src\\main.js"
 					],
 					[
 						"sl.cmd",
@@ -1146,6 +1154,10 @@
 					[
 						"listings",
 						"hiuProperty-sails\\views\\pages\\listings.ejs"
+					],
+					[
+						"badge",
+						"hiuProperty-sails\\views\\partials\\top-logo-badge.ejs"
 					],
 					[
 						"floating",
@@ -1368,6 +1380,10 @@
 						"api\\controllers\\PaymentsController.js"
 					],
 					[
+						"hiu",
+						"hiusig.sql"
+					],
+					[
 						"dpconfi",
 						"views\\dashboards\\payments-dp-confirm.ejs"
 					],
@@ -1494,22 +1510,6 @@
 					[
 						"listing-fr",
 						"views\\dashboards\\listing-form.ejs"
-					],
-					[
-						"lis",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"helper",
-						"views\\partials\\helpers.ejs"
-					],
-					[
-						"modalde",
-						"views\\partials\\modal-detail-payment.ejs"
-					],
-					[
-						"payment-co",
-						"views\\dashboards\\payments-confirm.ejs"
 					]
 				],
 				"width": 0.0
@@ -1552,12 +1552,40 @@
 				"selected_items":
 				[
 					[
-						"lo",
-						"log"
+						"ha",
+						"cur-ha\tcursor: hand;"
 					],
 					[
-						"cons",
-						"console"
+						"animatio",
+						"animation-duration"
+					],
+					[
+						"t",
+						"true"
+					],
+					[
+						"o",
+						"openAlert"
+					],
+					[
+						"transition-d",
+						"transition-duration"
+					],
+					[
+						"tr",
+						"transition"
+					],
+					[
+						"lef",
+						"left-panel-view"
+					],
+					[
+						"le",
+						"LeftPanel"
+					],
+					[
+						"left",
+						"LeftPanel"
 					],
 					[
 						"li",
@@ -1750,10 +1778,6 @@
 					[
 						"w3-blue",
 						"w3-blue-grey"
-					],
-					[
-						"le",
-						"length"
 					],
 					[
 						"lis",
@@ -2038,30 +2062,6 @@
 					[
 						"pay-",
 						"pay-button-paid-off"
-					],
-					[
-						"va",
-						"value"
-					],
-					[
-						"pat",
-						"noPayment"
-					],
-					[
-						"fa-ce",
-						"fa-chevron-down"
-					],
-					[
-						"fa-c",
-						"fa-check-circle"
-					],
-					[
-						"w3-pa",
-						"w3-padding-16"
-					],
-					[
-						"w3-padd",
-						"w3-padding-16"
 					]
 				]
 			},
@@ -2169,25 +2169,11 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/AppJS/playground/ons-v2/src/components/HomePage.vue",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-v2.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/ons-v2/config/index.js",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ons-ks-ios.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ons-ks-android.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/quran.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-ks-ios.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-ks-mat.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/telegram.cmd",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7/dist/css/framework7.material.css",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7-vue/src/components/view.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-backup.vue",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/whatsapp.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/acm.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-v2/scripts/gulpfile.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/top-logo-badge.ejs",
-				"/D/hiuSoft/Application/hiuEnvironment/.gitignore",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hiuproperty-vue.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hiuproperty-sails.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hiuproperty-api.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/start-xampp.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/telegram.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
@@ -2201,6 +2187,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package-lock.json",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sp.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/App.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/static/w3.css",
@@ -2243,6 +2230,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/static/css/w3.css",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/layout-dashboards.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/floating-search-card.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/top-logo-badge.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/pages/listings.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/modal-instant-view.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/README.md",
@@ -2296,7 +2284,19 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/routes.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/floating-search-card.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/navbar-search.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-booking.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Listings.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/app.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/about-us.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/hiusig.sql",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/TestController.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/package.json"
 			],
 			"find":
 			{
@@ -2323,6 +2323,16 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"19px",
+					";*/\n",
+					"300ms",
+					"page-from",
+					".page-from-right",
+					"openAlert",
+					"right-panel",
+					"left-panel",
+					">\n",
+					"LeftPanel",
 					"author",
 					"body",
 					"::",
@@ -2440,17 +2450,7 @@
 					"% ||",
 					"</td>",
 					"Proof",
-					"proof",
-					"Proof",
-					"Bukti",
-					"dpProof",
-					"phoneDetail",
-					"emailDetail",
-					"dataPaymentDetail",
-					"displayDetailPayment",
-					"detailPayment",
-					"setDataPayment",
-					"dataPayments"
+					"proof"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2535,7 +2535,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,855,1627,35,2472",
+			"position": "0,0,1,-1,-1,-1,-1,826,1655,6,2500",
 			"replace":
 			{
 				"height": 102.0
@@ -2548,28 +2548,40 @@
 				"selected_items":
 				[
 					[
-						"goog",
-						"cmder\\bin\\google-translate.cmd"
+						"panel",
+						"f7-vue\\src\\components\\panel-left.vue"
 					],
 					[
-						"f7",
-						"cmder\\bin\\f7-v2.cmd"
+						"materialcss",
+						"f7-vue\\node_modules\\framework7\\dist\\css\\framework7.material.css"
+					],
+					[
+						"appba",
+						"f7-vue\\src\\app-backup.vue"
+					],
+					[
+						"routes",
+						"f7-vue\\src\\routes.js"
+					],
+					[
+						"main",
+						"f7-vue\\src\\main.js"
+					],
+					[
+						"f7-view.vue",
+						"f7-vue\\node_modules\\framework7-vue\\src\\components\\view.vue"
 					],
 					[
 						"app",
-						"bin\\appchr.cmd"
+						"f7-vue\\src\\app.vue"
 					],
 					[
-						"badge",
-						"views\\partials\\top-logo-badge.ejs"
+						"wa.cmd",
+						"cmder\\bin\\whatsapp.cmd"
 					],
 					[
-						"hiu",
-						"bin\\hiuproperty-vue.cmd"
-					],
-					[
-						"hiupro",
-						"bin\\hiuproperty-sails.cmd"
+						"tele",
+						"cmder\\bin\\telegram.cmd"
 					],
 					[
 						"f7-vuemain.js",
@@ -2604,8 +2616,8 @@
 						"hiuProperty-sails\\package-lock.json"
 					],
 					[
-						"routes",
-						"f7-vue\\src\\routes.js"
+						"goog",
+						"cmder\\bin\\google-translate.cmd"
 					],
 					[
 						"kitche",
@@ -2638,10 +2650,6 @@
 					[
 						"index",
 						"hiu-me\\index.html"
-					],
-					[
-						"main",
-						"f7-vue\\src\\main.js"
 					],
 					[
 						"sl.cmd",
@@ -2694,6 +2702,10 @@
 					[
 						"listings",
 						"hiuProperty-sails\\views\\pages\\listings.ejs"
+					],
+					[
+						"badge",
+						"hiuProperty-sails\\views\\partials\\top-logo-badge.ejs"
 					],
 					[
 						"floating",
@@ -2916,6 +2928,10 @@
 						"api\\controllers\\PaymentsController.js"
 					],
 					[
+						"hiu",
+						"hiusig.sql"
+					],
+					[
 						"dpconfi",
 						"views\\dashboards\\payments-dp-confirm.ejs"
 					],
@@ -3042,22 +3058,6 @@
 					[
 						"listing-fr",
 						"views\\dashboards\\listing-form.ejs"
-					],
-					[
-						"lis",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"helper",
-						"views\\partials\\helpers.ejs"
-					],
-					[
-						"modalde",
-						"views\\partials\\modal-detail-payment.ejs"
-					],
-					[
-						"payment-co",
-						"views\\dashboards\\payments-confirm.ejs"
 					]
 				],
 				"width": 0.0
