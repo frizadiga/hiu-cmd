@@ -3955,3 +3955,8 @@ git status
 git commit -m "add pwa enhancement"
 git push
 heroku
+ping google.com
+bde-a
+git add .
+git status
+git status -v
