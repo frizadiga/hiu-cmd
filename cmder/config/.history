@@ -3960,3 +3960,12 @@ bde-a
 git add .
 git status
 git status -v
+git add .
+git status
+git commit -m "update"
+git push
+git diff
+a:
+D:
+exit 1
+d:

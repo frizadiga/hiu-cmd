@@ -2069,72 +2069,20 @@
 			"buffers":
 			[
 				{
-					"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/.firebaserc",
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bing-translate.cmd",
 					"settings":
 					{
-						"buffer_size": 46,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/firebase.json",
-					"settings":
-					{
-						"buffer_size": 236,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-save.vue",
-					"settings":
-					{
-						"buffer_size": 421,
+						"buffer_size": 164,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/css/app.css",
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bt.cmd",
 					"settings":
 					{
-						"buffer_size": 1354,
+						"buffer_size": 18,
 						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app.vue",
-					"settings":
-					{
-						"buffer_size": 2005,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/panel-left.vue",
-					"settings":
-					{
-						"buffer_size": 1451,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/panel-right.vue",
-					"settings":
-					{
-						"buffer_size": 1458,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-main.vue",
-					"settings":
-					{
-						"buffer_size": 1037,
 						"line_ending": "Windows"
 					}
 				}
@@ -2244,25 +2192,25 @@
 			"expanded_folders":
 			[
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/dist",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/static"
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin"
 			],
 			"file_history":
 			[
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-main.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/panel-left.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/css/app.css",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-save.vue",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/firebase.json",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/.firebaserc",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/panel-right.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7-vue/src/components/list.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/toolbar-bottom.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/css/app.css",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/static/manifest.json",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-main.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-save.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-about.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-search.vue",
@@ -2375,11 +2323,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/agent-list.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/index.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/floating-search-card.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/navbar-search.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js"
 			],
 			"find":
 			{
@@ -2594,207 +2538,29 @@
 			"groups":
 			[
 				{
-					"selected": 6,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/.firebaserc",
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bing-translate.cmd",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 46,
+								"buffer_size": 164,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										95,
+										95
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/firebase.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 236,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										236,
-										236
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-save.vue",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 421,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										390,
-										390
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/css/app.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1354,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										194,
-										194
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app.vue",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2005,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										935,
-										1057
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 216.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/panel-left.vue",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1451,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1324,
-										1451
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 216.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/panel-right.vue",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1458,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										434,
-										434
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2804,33 +2570,31 @@
 							"type": "text"
 						},
 						{
-							"buffer": 7,
-							"file": "/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-main.vue",
+							"buffer": 1,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bt.cmd",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1037,
+								"buffer_size": 18,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										4,
+										4
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -2872,7 +2636,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,836,1603,16,2448",
+			"position": "0,0,1,-1,-1,-1,-1,825,1678,5,2523",
 			"project": "",
 			"replace":
 			{
