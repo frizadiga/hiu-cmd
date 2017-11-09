@@ -4005,3 +4005,139 @@ sd -h
 bde-a
 sl
 xampp-control
+cd-appjs/playground
+cls
+ls
+sails -v
+cd-hiuproperty
+cd hiuproperty-api
+npm i -g --save sails@^1.0.0
+npm install -g --save sails@^1.0.0
+xampp-control
+cd-appjs
+cd playground
+ls
+cd .
+sl .
+cd..
+rm -rf f7-v2
+git clone -b v2 --single-branch https://github.com/framework7io/Framework7.git
+git clone -b v2 --single-branch https://github.com/framework7io/Framework7.git f7-v2
+cd f7-v2
+npm i & npm run build:dev
+acm http:hiupc:/1800 & hs -p 1800
+git diff
+npm run build:prod
+npm run dev
+npm install -g --save sails@^1.0.0
+npm install -g --save sails@beta
+sails upgrade
+sails -v
+npm run dev
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+ndm
+exit
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuProperty\hiuProperty-sails
+c:
+a:
+ndm
+c:
+ndm
+mstsc :v hiubook
+mstsc /v hiubook
+sl
+xampp-control
+bde-a
+gt
+quran 1 1
+kbbi
+bt
+a:
+d:
+git diff
+git add .
+git status
+git commit -m "update"
+git push
+telegram
+git add . & git commit -m "update" & git push
+sd -h
+npm i -g sails@beta
+npm i -g firevase-tools json-server nativescript ngrok pm2 webpack
+npm i -g firebase-tools json-server nativescript ngrok pm2 webpack
+npm outdated -g
+refreshenv
+nvm
+nvm arc
+nvm arch
+nvm install
+nvm install 9.1.0
+nvm use 9.1.0
+node -v
+nvm install 8
+nvm install latest
+nvm install 8 latest
+nvm install lts
+nvm i
+nvm i 8.9.1
+nvm install 8.9.1
+nvm list
+nvm uninstall 9.0.0 8.0.0
+nvm uninstall 8.0.0
+nvm uninstall 9.0.0
+start C:\Users\frizadiga\AppData\Roaming\nvm\v9.0.0.
+nvm ls
+exit
+sl .
+rm -rf f7-v2
+git clone -b v2 --single-branch https://github.com/framework7io/Framework7.git
+git clone -b v2 --single-branch https://github.com/framework7io/Framework7.git f7-v2
+cd f7-v2
+npm i & npm run build:dev
+acm http:hiupc:/1800 & hs -p 1800
+git diff
+npm run build:prod
+npm run dev
+npm install -g --save sails@^1.0.0
+npm install -g --save sails@beta
+npm install @sailshq/upgrade
+npm install sails-hook-grunt@^1.0.0-0 --save
+npm install sails-hook-grunt@^2.0.0-0 --save
+npm install sails-hook-grunt --save
+npm i sails-hook-sockets --save
+npm install balderdashy/sails-hook-sockets --save
+sails upgrade
+start .
+cd f-apps
+cd..
+rd f-apps
+hiuland
+cd-apps
+cd-appjs
+cd -hiuapps
+ls
+sails -v
+md hiuLand
+cd hiuland
+sails new hiu-land-api
+rm -rf hiu-land-api
+sails new hiu-land-api --no-frontend --fast
+cd hiu-land-api
+npm i
+git init
+git config --global user.name "frizadiga" &  git config --global user.email "frizadiga@gmail.com"
+git remote add origin git@gitlab.com:frizadiga/hiu-land-api.git
+git add .
+git commit -m "init" 
+git push -u origin master
+ndm
+cpcd
+sails generate api listings users
+sails generate api listings, users
+sails generate api users
+sails generate api listings
+sails generate controller etc
+sails generate controller res
+ndm
+exit
+sl

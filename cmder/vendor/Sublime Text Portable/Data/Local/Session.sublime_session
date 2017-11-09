@@ -1,9 +1,11 @@
 {
 	"folder_history":
 	[
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails",
+		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api",
+		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api",
 		"/D/hiuSoft/Application/hiuEnvironment/cmder/bin",
 		"/A/hiuData/hiuWEB/AppJS/playground/f7-v2",
+		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails",
 		"/A/hiuData/hiuWEB/AppJS/playground/f7-vue",
 		"/A/hiuData/hiuWEB/AppJS/playground/ons-v2",
 		"/D/hiuSoft/Application/hiuEnvironment/cmder",
@@ -11,35 +13,22 @@
 		"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue",
 		"/A/hiuData/hiuWEB/AppJS/playground/my-project",
 		"/A/hiuData/hiuWEB/AppJS/playground/hiu-me",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api",
 		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue",
 		"/A/hiuData/hiuWEB/AppJS/vue/f7-vue",
 		"/A/hiuData/hiuWEB/AppJS/vue/q-pwa"
 	],
 	"last_version": 3143,
-	"last_window_id": 81,
+	"last_window_id": 84,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 761.0,
+		"new_window_height": 806.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
-					[
-						"pa",
-						"panel-navbar"
-					],
-					[
-						"pad",
-						"padding-right"
-					],
-					[
-						"text-a",
-						"text-align"
-					],
 					[
 						"ha",
 						"cur-ha\tcursor: hand;"
@@ -117,6 +106,10 @@
 						"z-index"
 					],
 					[
+						"pad",
+						"padding"
+					],
+					[
 						"co",
 						"contentSRC"
 					],
@@ -139,6 +132,10 @@
 					[
 						"padd",
 						"padding-top"
+					],
+					[
+						"pa",
+						"padding-left"
 					],
 					[
 						"card",
@@ -539,6 +536,10 @@
 					[
 						"no",
 						"no-payment-paid-off"
+					],
+					[
+						"pay-",
+						"pay-button-paid-off"
 					]
 				]
 			},
@@ -645,39 +646,24 @@
 			},
 			"file_history":
 			[
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/rsx.bat",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bt.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bing-translate.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-main.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/panel-left.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/css/app.css",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-save.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/firebase.json",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/.firebaserc",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/panel-right.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7-vue/src/components/list.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/toolbar-bottom.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/static/manifest.json",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-about.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-search.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-upload.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/main-page.vue",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7/dist/css/framework7.material.css",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7-vue/src/components/view.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-backup.vue",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/whatsapp.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/telegram.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app.vue",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-ios.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-mat.cmd",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package-lock.json",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sp.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
@@ -772,7 +758,22 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/responses/searchNotFound.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/res-search-not-found.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/search-listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/agent-list.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/agent-list.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/index.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/routes.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/floating-search-card.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/navbar-search.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-booking.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Listings.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/app.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/about-us.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/hiusig.sql"
 			],
 			"find":
 			{
@@ -799,15 +800,6 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"list",
-					"pages/",
-					">C",
-					"l>",
-					"col",
-					"Col",
-					"f7-block",
-					"><i",
-					"\">",
 					"19px",
 					";*/\n",
 					"300ms",
@@ -926,7 +918,16 @@
 					"||",
 					"dataKuitansi.",
 					"si)",
-					")"
+					")",
+					"||",
+					"%=",
+					"dataKuitansi",
+					"%>",
+					"||",
+					"% ||",
+					"</td>",
+					"Proof",
+					"proof"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1001,64 +1002,8 @@
 				"selected_items":
 				[
 					[
-						"rsx",
-						"bin\\rsx.bat"
-					],
-					[
-						"panelrig",
-						"f7-vue\\src\\components\\panel-right.vue"
-					],
-					[
-						"left",
-						"f7-vue\\src\\components\\panel-left.vue"
-					],
-					[
-						"page",
-						"f7-vue\\src\\pages\\page-main.vue"
-					],
-					[
-						"app",
-						"f7-vue\\src\\app.vue"
-					],
-					[
-						"appcss",
-						"f7-vue\\src\\css\\app.css"
-					],
-					[
-						"save",
-						"f7-vue\\src\\pages\\page-save.vue"
-					],
-					[
-						"listvue",
-						"f7-vue\\node_modules\\framework7-vue\\src\\components\\list.vue"
-					],
-					[
-						"inde",
-						"index.html"
-					],
-					[
 						"routes",
-						"src\\routes.js"
-					],
-					[
-						"mainjs",
-						"src\\main.js"
-					],
-					[
-						"list",
-						"src\\pages\\list.vue"
-					],
-					[
-						"about",
-						"src\\pages\\about.vue"
-					],
-					[
-						"main-page",
-						"src\\pages\\main-page.vue"
-					],
-					[
-						"bottom",
-						"src\\components\\toolbar-bottom.vue"
+						"hiu-land-api\\config\\routes.js"
 					],
 					[
 						"panel",
@@ -1079,6 +1024,10 @@
 					[
 						"f7-view.vue",
 						"f7-vue\\node_modules\\framework7-vue\\src\\components\\view.vue"
+					],
+					[
+						"app",
+						"f7-vue\\src\\app.vue"
 					],
 					[
 						"wa.cmd",
@@ -1163,6 +1112,10 @@
 					[
 						"app.",
 						"f7-vue\\src\\app.vue"
+					],
+					[
+						"about",
+						"f7-vue\\src\\pages\\about.vue"
 					],
 					[
 						"responses",
@@ -1511,6 +1464,54 @@
 					[
 						"islo",
 						"api\\policies\\isLogin.js"
+					],
+					[
+						"user-form",
+						"views\\dashboards\\user-form.ejs"
+					],
+					[
+						"banks",
+						"api\\controllers\\BanksController.js"
+					],
+					[
+						"dash",
+						"views\\dashboards\\dashboard.ejs"
+					],
+					[
+						"maps",
+						"views\\pages\\maps.ejs"
+					],
+					[
+						"modalpaym",
+						"views\\partials\\modal-detail-payment.ejs"
+					],
+					[
+						"paymentjs",
+						"api\\models\\Payments.js"
+					],
+					[
+						"docum",
+						"api\\controllers\\DocumentsController.js"
+					],
+					[
+						"kui",
+						"views\\dashboards\\documents\\kuitansi.ejs"
+					],
+					[
+						"userform",
+						"views\\dashboards\\user-form.ejs"
+					],
+					[
+						"userscon",
+						"api\\controllers\\UsersController.js"
+					],
+					[
+						"user-f",
+						"views\\dashboards\\user-form.ejs"
+					],
+					[
+						"listing-fr",
+						"views\\dashboards\\listing-form.ejs"
 					]
 				],
 				"width": 0.0
@@ -1537,13 +1538,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 164.0,
+			"side_bar_width": 219.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 829.0
+		"new_window_width": 957.0
 	},
 	"windows":
 	[
@@ -1552,18 +1553,6 @@
 			{
 				"selected_items":
 				[
-					[
-						"pa",
-						"panel-navbar"
-					],
-					[
-						"pad",
-						"padding-right"
-					],
-					[
-						"text-a",
-						"text-align"
-					],
 					[
 						"ha",
 						"cur-ha\tcursor: hand;"
@@ -1641,6 +1630,10 @@
 						"z-index"
 					],
 					[
+						"pad",
+						"padding"
+					],
+					[
 						"co",
 						"contentSRC"
 					],
@@ -1663,6 +1656,10 @@
 					[
 						"padd",
 						"padding-top"
+					],
+					[
+						"pa",
+						"padding-left"
 					],
 					[
 						"card",
@@ -2063,6 +2060,10 @@
 					[
 						"no",
 						"no-payment-paid-off"
+					],
+					[
+						"pay-",
+						"pay-button-paid-off"
 					]
 				]
 			},
@@ -2170,39 +2171,24 @@
 			},
 			"file_history":
 			[
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/rsx.bat",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bt.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bing-translate.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-main.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/panel-left.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/css/app.css",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-save.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/firebase.json",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/.firebaserc",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/panel-right.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7-vue/src/components/list.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/toolbar-bottom.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/static/manifest.json",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-about.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-search.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/pages/page-upload.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/components/main-page.vue",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7/dist/css/framework7.material.css",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7-vue/src/components/view.vue",
 				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-backup.vue",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/whatsapp.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/telegram.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
 				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app.vue",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-ios.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-mat.cmd",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
+				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package-lock.json",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sp.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
@@ -2297,7 +2283,22 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/responses/searchNotFound.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/res-search-not-found.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/search-listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/agent-list.ejs"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/agent-list.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/index.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/routes.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/floating-search-card.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/navbar-search.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-booking.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Listings.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/app.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/about-us.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/hiusig.sql"
 			],
 			"find":
 			{
@@ -2324,15 +2325,6 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"list",
-					"pages/",
-					">C",
-					"l>",
-					"col",
-					"Col",
-					"f7-block",
-					"><i",
-					"\">",
 					"19px",
 					";*/\n",
 					"300ms",
@@ -2451,7 +2443,16 @@
 					"||",
 					"dataKuitansi.",
 					"si)",
-					")"
+					")",
+					"||",
+					"%=",
+					"dataKuitansi",
+					"%>",
+					"||",
+					"% ||",
+					"</td>",
+					"Proof",
+					"proof"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2536,7 +2537,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,857,40,37,885",
+			"position": "0,0,1,-1,-1,-1,-1,865,1628,0,2601",
 			"replace":
 			{
 				"height": 102.0
@@ -2549,64 +2550,8 @@
 				"selected_items":
 				[
 					[
-						"rsx",
-						"bin\\rsx.bat"
-					],
-					[
-						"panelrig",
-						"f7-vue\\src\\components\\panel-right.vue"
-					],
-					[
-						"left",
-						"f7-vue\\src\\components\\panel-left.vue"
-					],
-					[
-						"page",
-						"f7-vue\\src\\pages\\page-main.vue"
-					],
-					[
-						"app",
-						"f7-vue\\src\\app.vue"
-					],
-					[
-						"appcss",
-						"f7-vue\\src\\css\\app.css"
-					],
-					[
-						"save",
-						"f7-vue\\src\\pages\\page-save.vue"
-					],
-					[
-						"listvue",
-						"f7-vue\\node_modules\\framework7-vue\\src\\components\\list.vue"
-					],
-					[
-						"inde",
-						"index.html"
-					],
-					[
 						"routes",
-						"src\\routes.js"
-					],
-					[
-						"mainjs",
-						"src\\main.js"
-					],
-					[
-						"list",
-						"src\\pages\\list.vue"
-					],
-					[
-						"about",
-						"src\\pages\\about.vue"
-					],
-					[
-						"main-page",
-						"src\\pages\\main-page.vue"
-					],
-					[
-						"bottom",
-						"src\\components\\toolbar-bottom.vue"
+						"hiu-land-api\\config\\routes.js"
 					],
 					[
 						"panel",
@@ -2627,6 +2572,10 @@
 					[
 						"f7-view.vue",
 						"f7-vue\\node_modules\\framework7-vue\\src\\components\\view.vue"
+					],
+					[
+						"app",
+						"f7-vue\\src\\app.vue"
 					],
 					[
 						"wa.cmd",
@@ -2711,6 +2660,10 @@
 					[
 						"app.",
 						"f7-vue\\src\\app.vue"
+					],
+					[
+						"about",
+						"f7-vue\\src\\pages\\about.vue"
 					],
 					[
 						"responses",
@@ -3059,6 +3012,54 @@
 					[
 						"islo",
 						"api\\policies\\isLogin.js"
+					],
+					[
+						"user-form",
+						"views\\dashboards\\user-form.ejs"
+					],
+					[
+						"banks",
+						"api\\controllers\\BanksController.js"
+					],
+					[
+						"dash",
+						"views\\dashboards\\dashboard.ejs"
+					],
+					[
+						"maps",
+						"views\\pages\\maps.ejs"
+					],
+					[
+						"modalpaym",
+						"views\\partials\\modal-detail-payment.ejs"
+					],
+					[
+						"paymentjs",
+						"api\\models\\Payments.js"
+					],
+					[
+						"docum",
+						"api\\controllers\\DocumentsController.js"
+					],
+					[
+						"kui",
+						"views\\dashboards\\documents\\kuitansi.ejs"
+					],
+					[
+						"userform",
+						"views\\dashboards\\user-form.ejs"
+					],
+					[
+						"userscon",
+						"api\\controllers\\UsersController.js"
+					],
+					[
+						"user-f",
+						"views\\dashboards\\user-form.ejs"
+					],
+					[
+						"listing-fr",
+						"views\\dashboards\\listing-form.ejs"
 					]
 				],
 				"width": 0.0
@@ -3088,7 +3089,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 164.0,
+			"side_bar_width": 219.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
