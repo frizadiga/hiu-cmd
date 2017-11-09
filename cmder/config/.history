@@ -3969,3 +3969,39 @@ a:
 D:
 exit 1
 d:
+exit 1
+bde-a
+a:
+d:
+git diff
+rsx
+bt
+sd -h
+cd-hiuproperty
+cd hiuproperty-sails
+sl .
+ccd
+cpcd
+git add .
+git status
+git commit -m "upgrade w3.css"
+git push
+exit 1
+d:
+git diff
+start-xampp
+cd/
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuProperty\hiuProperty-sails
+c:
+a:
+ndm
+c:
+a:
+ndm
+mstsc :v hiubook
+mstsc /v hiubook
+gt
+sd -h
+bde-a
+sl
+xampp-control
