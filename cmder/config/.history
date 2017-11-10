@@ -4141,3 +4141,82 @@ sails generate controller res
 ndm
 exit
 sl
+exit
+sl
+cd-appjs/playground/f7-vue
+npm run dev
+npm i
+sails new hiu-land-api
+rm -rf hiu-land-api
+sails new hiu-land-api --no-frontend --fast
+cd hiu-land-api
+npm i
+git init
+git config --global user.name "frizadiga" &  git config --global user.email "frizadiga@gmail.com"
+git remote add origin git@gitlab.com:frizadiga/hiu-land-api.git
+git commit -m "init" 
+git push -u origin master
+ndm
+cpcd
+sails generate api listings users
+sails generate api listings, users
+sails generate api users
+sails generate api listings
+sails generate controller etc
+sails generate controller res
+ndm
+exit
+sl
+git add .
+git status
+git commit -m "update"
+git push
+ping google.com -t
+cmder
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+sl .
+ping google.com
+nvm uninstall 9.1.0 & nvm uninstall 8.9.1
+c:
+nvm uninstall 9.1.0 
+start C:\Users\frizadiga\AppData\Roaming\nvm\
+nvm install 8.9.1
+nvm use 8.9.1
+node 
+node -v
+nvm install latest
+nvm use 9.1.0
+node
+nvm ls
+npm i npm
+start C:\Users\username\AppData\Roaming\npm\
+start C:\Users\frizadiga\AppData\Roaming\npm\
+npm rm
+npm -v
+npm
+npm i npm
+start C:\Users\username\AppData\Roaming\npm\
+start C:\Users\frizadiga\AppData\Roaming\npm\
+npm rm
+npm
+nvm ls
+node
+nvm uninstall 9.1.0
+nvm install 9.1.0
+npm -v
+sails generate api listings
+sails generate controller etc
+sails generate controller res
+exit
+sl
+cd-appjs/-hiuapps/hiuland/hiuland-api
+cd-appjs/-hiuapps/hiuland/hiu-land-api
+ccd
+cpcd
+ndm
+ndm app.js
+npm start
+ping google.com
+nvm
+nvm ls
+npm -v

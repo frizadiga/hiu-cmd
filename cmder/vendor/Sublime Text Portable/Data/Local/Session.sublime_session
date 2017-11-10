@@ -1,12 +1,13 @@
 {
 	"folder_history":
 	[
+		"/D/hiuSoft/Application/hiuEnvironment/cmder/bin",
+		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-pwa",
+		"/A/hiuData/hiuWEB/AppJS/playground/f7-vue",
 		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api",
 		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api",
-		"/D/hiuSoft/Application/hiuEnvironment/cmder/bin",
 		"/A/hiuData/hiuWEB/AppJS/playground/f7-v2",
 		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails",
-		"/A/hiuData/hiuWEB/AppJS/playground/f7-vue",
 		"/A/hiuData/hiuWEB/AppJS/playground/ons-v2",
 		"/D/hiuSoft/Application/hiuEnvironment/cmder",
 		"/D/hiuSoft/Application/hiuEnvironment",
@@ -22,7 +23,7 @@
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 806.0,
+		"new_window_height": 797.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -1538,13 +1539,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 219.0,
+			"side_bar_width": 164.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 957.0
+		"new_window_width": 941.0
 	},
 	"windows":
 	[
@@ -2537,7 +2538,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,865,1628,0,2601",
+			"position": "0,0,1,-1,-1,-1,-1,866,1665,10,2622",
 			"replace":
 			{
 				"height": 102.0
@@ -3089,7 +3090,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 219.0,
+			"side_bar_width": 164.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -3101,6 +3102,7 @@
 	{
 		"recent_workspaces":
 		[
+			"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/vue/vue-mobile.sublime-workspace",
 			"/D/hiuSoft/Application/hiuEnvironment/cmder/config/hiuEnvironment.sublime-workspace",
