@@ -4220,3 +4220,303 @@ ping google.com
 nvm
 nvm ls
 npm -v
+cd-appjs/playground
+cd f7-v2
+git diff
+npm run prod
+vim package.json
+hs -p 3000
+cpcd
+ndm
+ndm app.js
+npm start
+ping google.com
+nvm
+nvm ls
+npm -v
+cd-appjs/playground/f7-v2
+cma http://hiupc:3000
+cd..
+ls
+cd f7-v2-vue
+git diff
+git reset
+git reset --hard
+git pull
+npm i
+sd -h
+git diff
+git reset
+git reset --hard
+rm -rf node_modules
+npm i
+npm run dev
+hs -p 3333
+start .
+vim package.json
+npm run prod
+cd f7-vue
+git pull
+cd..
+ ls
+sd -h
+sails generate controller res
+ndm
+exit
+sl
+exit
+sl
+cd-appjs/playground/f7-vue
+npm install
+npm -v
+node build/dev-server.js
+cd..
+cd -hiuapps
+cd hiuland
+git clone git@gitlab.com:frizadiga/f7-vue.git hiu-land-pwa
+cd hiu-land-pwa
+git remote -v
+git remote add origin git@gitlab.com:frizadiga/hiu-land-pwa.git
+git remote set origin git@gitlab.com:frizadiga/hiu-land-pwa.git
+git remote set-url origin git@gitlab.com:frizadiga/hiu-land-pwa.git
+git commit -m "init"
+git push -u origin master
+npm run build
+npm i
+npm diff
+git diff
+git add .
+git status
+git status -v
+git commit -m "init fork change"
+hs
+npm run dev
+cpcd & npm run dev
+ccd
+cpcd
+ndm app.js
+npm start
+ping google.com
+nvm
+nvm -v
+nvm -ls
+nvm ls
+nvm use 9.1.0
+npm -v
+ndm
+git push -u origin master
+ndm
+cpcd
+sails generate api listings users
+sails generate api listings, users
+sails generate api users
+sails generate api listings
+sails generate controller etc
+sails generate controller res
+ndm
+exit
+sl
+cd /d A:\hiuData\hiuWEB\AppJS\playground\f7-vue
+nvm list
+nvm use 8.9.1
+gt
+ls
+cd f7-v2-vue
+npm run dev
+npm i
+cd..
+cd f7-vue
+npm -v
+node -v
+acm http://hiupc:1700
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+git status
+git add .
+git status -v
+git status 
+git commit -m "pivot project"
+git push
+kbbi
+sd -h
+sails generate controller res
+ndm
+exit
+ping google.com -t
+cmder
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+sl .
+ping google.com
+nvm uninstall 9.1.0 & nvm uninstall 8.9.1
+c:
+nvm uninstall 9.1.0 
+start C:\Users\frizadiga\AppData\Roaming\nvm\
+nvm install 8.9.1
+node 
+nvm install latest
+node
+nvm ls
+npm i npm
+start C:\Users\username\AppData\Roaming\npm\
+start C:\Users\frizadiga\AppData\Roaming\npm\
+npm rm
+npm -v
+npm
+npm i npm
+start C:\Users\username\AppData\Roaming\npm\
+start C:\Users\frizadiga\AppData\Roaming\npm\
+npm rm
+node
+nvm uninstall 9.1.0
+nvm install 9.1.0
+npm
+nvm ls
+nvm use 9.1.0
+node -v
+nvm use 8.9.1
+npm -v
+npm i -g sails@beta nodemon pm2 http-server ngrok firebase-tools
+d:
+git commit -a
+git reset 
+git add & git commit -a
+git add & git commit -a -m "update"
+git add
+cmderr
+sl
+git add .
+git status
+git commit -m "update"
+git push
+test
+xampp-control
+git diff
+npm -v
+node -v
+acm http://hiupc:1700
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+git status
+git add .
+git status -v
+git status 
+git commit -m "pivot project"
+git push
+kbbi
+sd -h
+sails generate controller res
+ndm
+exit
+ping google.com -t
+cmder
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+sl .
+ping google.com
+nvm uninstall 9.1.0 & nvm uninstall 8.9.1
+c:
+nvm uninstall 9.1.0 
+start C:\Users\frizadiga\AppData\Roaming\nvm\
+nvm install 8.9.1
+node 
+nvm install latest
+node
+nvm ls
+npm i npm
+start C:\Users\username\AppData\Roaming\npm\
+start C:\Users\frizadiga\AppData\Roaming\npm\
+npm rm
+npm -v
+npm
+npm i npm
+start C:\Users\username\AppData\Roaming\npm\
+start C:\Users\frizadiga\AppData\Roaming\npm\
+npm rm
+nvm uninstall 9.1.0
+nvm install 9.1.0
+npm
+nvm ls
+nvm use 9.1.0
+node -v
+nvm use 8.9.1
+npm -v
+npm i -g sails@beta nodemon pm2 http-server ngrok firebase-tools
+d:
+git commit -a
+git reset 
+git add & git commit -a
+git add & git commit -a -m "update"
+git add
+sl
+git add .
+git status
+git commit -m "update"
+git push
+test
+xampp-control
+git diff
+bde-a
+py
+node
+pssd
+pclip
+paste /?
+paste/?
+powershell -sta "add-type -as System.Windows.Forms; [windows.forms.clipboard]::GetText()"
+@if (@CodeSection == @Batch) @then  @echo off setlocal  set "getclip=cscript /nologo /e:JScript "%~f0""  rem // If you want to process the contents of the clipboard line-by-line, use rem // something like this to preserve blank lines: for /f "delims=" %%I in ('%getclip% ^| findstr /n "^"') do (     setlocal enabledelayedexpansion     set "line=%%I" & set "line=!line:*:=!"     echo(!line!     endlocal )  rem // If all you need is to output the clipboard text to the console without rem // any processing, then remove the "for /f" loop above and uncomment the rem // following line: :: %getclip%  goto :EOF  @end // begin JScript hybrid chimera WSH.Echo(WSH.CreateObject('htmlfile').parentWindow.clipboardData.getData('text'));
+cd cmder & cpcd
+cd /d pscd
+echo pscd
+echo pscd.cmd
+cd cmder
+cd..
+paste | cd /d
+cd /dD:\hiuSoft\Application\hiuEnvironment\cmder
+cd /d D:\hiuSoft\Application\hiuEnvironment\cmder
+a:
+print
+print "tes"
+cd /d paste 
+cd /d paste.exe 
+cmderr
+cd bin
+cd /d paste
+cd /d paste.exe
+echo paste.exe
+paste | cd
+paste | print
+paste|print
+paste|sort
+paste|sort|cd
+paste|sort|cd /d
+D:\hiuSoft\Application\hiuEnvironment\cmder
+paste|cd /d
+paste|cd /d|echo
+paste|cd /d|echo paste
+paste & cd |
+paste & cd 
+cd %paste%
+cd /f %paste%
+cd /d %paste%
+cd /d | paste
+cd | paste
+cd
+paste
+paste | command
+paste | echo
+paste || echo
+cpcd
+clip
+clip /?
+D:\hiuSoft\Application\hiuEnvironment\cmder\bin
+set _getclip=powershell "Add-Type -Assembly PresentationCore;[Windows.Clipboard]::GetText()" for /f "eol=; tokens=*" %I in ('%_getclip%') do set CLIPBOARD_TEXT=%I
+pscd
+cpcd & pscd
+cd pscd.cmd
+pscd.cmd
+cmd /p pscd.cmd
+cmd /c pscd.cmd
+cmd /c cd /d pscd.cmd
+cmd /c pscd.cmd | cd
+cmd /c pscd.cmd | cd /d %%
+cmd /c pscd.cmd | cd /d 
+cmd /c pscd.cmd | echo
+pscd | echo
+cmd /p pscd.cmd | echo

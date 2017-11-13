@@ -19,7 +19,7 @@
 		"/A/hiuData/hiuWEB/AppJS/vue/q-pwa"
 	],
 	"last_version": 3143,
-	"last_window_id": 84,
+	"last_window_id": 89,
 	"log_indexing": false,
 	"settings":
 	{
@@ -1523,6 +1523,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"A:\\hiuData\\hiuWEB\\AppJS\\vue\\vue-mobile.sublime-project"
+					]
 				],
 				"width": 380.0
 			},
@@ -2538,7 +2542,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,866,1665,10,2622",
+			"position": "0,0,1,-1,-1,-1,-1,853,1639,-3,2596",
 			"replace":
 			{
 				"height": 102.0
@@ -3071,6 +3075,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"A:\\hiuData\\hiuWEB\\AppJS\\vue\\vue-mobile.sublime-project"
+					]
 				],
 				"width": 380.0
 			},
@@ -3103,8 +3111,8 @@
 		"recent_workspaces":
 		[
 			"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/vue/vue-mobile.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
 			"/D/hiuSoft/Application/hiuEnvironment/cmder/config/hiuEnvironment.sublime-workspace",
 			"/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/1.sublime-workspace"
 		]

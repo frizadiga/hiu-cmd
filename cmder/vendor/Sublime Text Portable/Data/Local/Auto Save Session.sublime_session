@@ -551,17 +551,9 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "package",
+				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"open",
-						"View: Toggle Open Files in Side Bar"
-					],
 					[
 						"",
 						"Boxy Theme: Configuration"
@@ -585,6 +577,10 @@
 					[
 						"insta",
 						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
 					],
 					[
 						"remo",
@@ -631,7 +627,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 462.0
+				"width": 430.0
 			},
 			"console":
 			{
@@ -651,8 +647,6 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/AppJS/1.sublime-project",
-				"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
@@ -778,7 +772,9 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/app.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/about-us.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/hiusig.sql"
 			],
 			"find":
 			{
@@ -1527,6 +1523,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"A:\\hiuData\\hiuWEB\\AppJS\\vue\\vue-mobile.sublime-project"
+					]
 				],
 				"width": 380.0
 			},
@@ -1540,9 +1540,9 @@
 				"width": 0.0
 			},
 			"show_minimap": false,
-			"show_open_files": true,
+			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 164.0,
 			"status_bar_visible": true,
 			"template_settings":
@@ -2074,6 +2074,33 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pscd.cmd",
+					"settings":
+					{
+						"buffer_size": 729,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ccd.cmd",
+					"settings":
+					{
+						"buffer_size": 14,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pcd.vbs",
+					"settings":
+					{
+						"buffer_size": 127,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": "set WshShell = WScript.CreateObject(\"WScript.Shell"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -2083,17 +2110,9 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "package",
+				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"open",
-						"View: Toggle Open Files in Side Bar"
-					],
 					[
 						"",
 						"Boxy Theme: Configuration"
@@ -2117,6 +2136,10 @@
 					[
 						"insta",
 						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
 					],
 					[
 						"remo",
@@ -2163,7 +2186,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 462.0
+				"width": 430.0
 			},
 			"console":
 			{
@@ -2181,10 +2204,12 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin"
+			],
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/AppJS/1.sublime-project",
-				"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
@@ -2310,7 +2335,9 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/app.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/about-us.ejs",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/hiusig.sql"
 			],
 			"find":
 			{
@@ -2516,8 +2543,94 @@
 			"groups":
 			[
 				{
+					"selected": 2,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pscd.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 729,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										729,
+										729
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ccd.cmd",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 14,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pcd.vbs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 127,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										79,
+										79
+									]
+								],
+								"settings":
+								{
+									"auto_name": "set WshShell = WScript.CreateObject(\"WScript.Shell",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -2557,8 +2670,8 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,866,1665,10,2622",
-			"project": "",
+			"position": "0,0,1,-1,-1,-1,-1,861,1678,5,2635",
+			"project": "hiu-land.sublime-project",
 			"replace":
 			{
 				"height": 102.0
@@ -3091,6 +3204,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"A:\\hiuData\\hiuWEB\\AppJS\\vue\\vue-mobile.sublime-project"
+					]
 				],
 				"width": 380.0
 			},
@@ -3108,1507 +3225,16 @@
 			{
 			},
 			"show_minimap": false,
-			"show_open_files": true,
+			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 164.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
 			"window_id": 74,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"ha",
-						"cur-ha\tcursor: hand;"
-					],
-					[
-						"animatio",
-						"animation-duration"
-					],
-					[
-						"t",
-						"true"
-					],
-					[
-						"o",
-						"openAlert"
-					],
-					[
-						"transition-d",
-						"transition-duration"
-					],
-					[
-						"tr",
-						"transition"
-					],
-					[
-						"lef",
-						"left-panel-view"
-					],
-					[
-						"le",
-						"LeftPanel"
-					],
-					[
-						"left",
-						"LeftPanel"
-					],
-					[
-						"li",
-						"light"
-					],
-					[
-						"ht",
-						"https"
-					],
-					[
-						"a",
-						"author"
-					],
-					[
-						"p",
-						"placeholder\tAttr"
-					],
-					[
-						"conten",
-						"contentSRC"
-					],
-					[
-						"con",
-						"contentSRC"
-					],
-					[
-						"conte",
-						"content"
-					],
-					[
-						"input",
-						"input-src"
-					],
-					[
-						"ch",
-						"changeView"
-					],
-					[
-						"z",
-						"z-index"
-					],
-					[
-						"pad",
-						"padding"
-					],
-					[
-						"co",
-						"contentSRC"
-					],
-					[
-						"pos",
-						"pos-f\tposition: fixed;"
-					],
-					[
-						"back",
-						"background-color"
-					],
-					[
-						"ba",
-						"background-color"
-					],
-					[
-						"mar",
-						"margin-top"
-					],
-					[
-						"padd",
-						"padding-top"
-					],
-					[
-						"pa",
-						"padding-left"
-					],
-					[
-						"card",
-						"cardContent"
-					],
-					[
-						"fo",
-						"font-style"
-					],
-					[
-						"hiu",
-						"hiu-logo"
-					],
-					[
-						"al",
-						"All"
-					],
-					[
-						"Q",
-						"QIcon"
-					],
-					[
-						"foo",
-						"footer-main"
-					],
-					[
-						"hea",
-						"headerMain"
-					],
-					[
-						"h",
-						"Homepage"
-					],
-					[
-						"s",
-						"style\tAttr"
-					],
-					[
-						"margin",
-						"margin-right"
-					],
-					[
-						"w3-d",
-						"w3-display-container"
-					],
-					[
-						"c",
-						"colspan\tAttr"
-					],
-					[
-						"w3-dis",
-						"w3-display-middle"
-					],
-					[
-						"f",
-						"fixed"
-					],
-					[
-						"bac",
-						"background-attachment"
-					],
-					[
-						"font-s",
-						"font-size"
-					],
-					[
-						"ma",
-						"margin"
-					],
-					[
-						"flo",
-						"floatingSearchCard"
-					],
-					[
-						"for",
-						"floating-search-card"
-					],
-					[
-						"PIC",
-						"pictures"
-					],
-					[
-						"border-r",
-						"border-right"
-					],
-					[
-						"tab",
-						"tab-instant-view"
-					],
-					[
-						"op",
-						"openModal"
-					],
-					[
-						"w3-ho",
-						"w3-hover-text-blue-grey"
-					],
-					[
-						"fa",
-						"fa-info"
-					],
-					[
-						"v",
-						"void"
-					],
-					[
-						"moda",
-						"modal-instant-view"
-					],
-					[
-						"cre",
-						"createdAt"
-					],
-					[
-						"up",
-						"uploadedFiles"
-					],
-					[
-						"w3-blue",
-						"w3-blue-grey"
-					],
-					[
-						"lis",
-						"listingPictures"
-					],
-					[
-						"ca",
-						"capitalize"
-					],
-					[
-						"font",
-						"font-weight"
-					],
-					[
-						"lin",
-						"linkIdNumber"
-					],
-					[
-						"link",
-						"link-id-number"
-					],
-					[
-						"id",
-						"id-number"
-					],
-					[
-						"fon",
-						"font-weight"
-					],
-					[
-						"cer",
-						"certificationProof"
-					],
-					[
-						"ind",
-						"identityCardProof"
-					],
-					[
-						"uplo",
-						"uploadedFiles"
-					],
-					[
-						"m",
-						"minlength\tAttr"
-					],
-					[
-						"re",
-						"required\tAttr"
-					],
-					[
-						"fet",
-						"fetchListToBanks"
-					],
-					[
-						"add",
-						"addEventListener"
-					],
-					[
-						"sele",
-						"selectToBank"
-					],
-					[
-						"fe",
-						"fetchListToBanks"
-					],
-					[
-						"se",
-						"selectToBank"
-					],
-					[
-						"get",
-						"getElementById"
-					],
-					[
-						"dro",
-						"dropdownTopUser"
-					],
-					[
-						"ac",
-						"accountName"
-					],
-					[
-						"w3-te",
-						"w3-text-grey"
-					],
-					[
-						"ini",
-						"initMap"
-					],
-					[
-						"onm",
-						"onmouseover\tAttr"
-					],
-					[
-						"ad",
-						"address"
-					],
-					[
-						"fil",
-						"fileName"
-					],
-					[
-						"pic",
-						"pictures"
-					],
-					[
-						"hid",
-						"hidden"
-					],
-					[
-						"fa-user",
-						"fa-user-secret"
-					],
-					[
-						"te",
-						"textTerbilang"
-					],
-					[
-						"ter",
-						"terbilang"
-					],
-					[
-						"pr",
-						"prototype"
-					],
-					[
-						"da",
-						"dataKuitansi"
-					],
-					[
-						"data",
-						"dataReports"
-					],
-					[
-						"rep",
-						"repaymentProof"
-					],
-					[
-						"form",
-						"form-listings"
-					],
-					[
-						"par",
-						"partials"
-					],
-					[
-						"w3-a",
-						"w3-animate-bottom"
-					],
-					[
-						"in",
-						"inline"
-					],
-					[
-						"marg",
-						"margin-bottom"
-					],
-					[
-						"w3-ce",
-						"w3-cell"
-					],
-					[
-						"b",
-						"bottom"
-					],
-					[
-						"over",
-						"overflow"
-					],
-					[
-						"inli",
-						"inline-block"
-					],
-					[
-						"n",
-						"nowrap"
-					],
-					[
-						"price",
-						"priceRange"
-					],
-					[
-						"part",
-						"partials"
-					],
-					[
-						"w3-text-",
-						"w3-text-grey"
-					],
-					[
-						"dp",
-						"dpPaidOnDetail"
-					],
-					[
-						"DA",
-						"dataDetailPayment"
-					],
-					[
-						"remai",
-						"remainingPayment"
-					],
-					[
-						"to",
-						"toBank"
-					],
-					[
-						"dis",
-						"displayDetailPayment"
-					],
-					[
-						"modal",
-						"modal-detail-payment"
-					],
-					[
-						"repa",
-						"repayment-paid-on"
-					],
-					[
-						"e",
-						"email"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"ag",
-						"agentPending"
-					],
-					[
-						"age",
-						"agentPending"
-					],
-					[
-						"agents",
-						"agentsConfirm"
-					],
-					[
-						"w",
-						"width"
-					],
-					[
-						"pay",
-						"payRepayment"
-					],
-					[
-						"modal-confirm-d",
-						"modal-confirm-denied-dp"
-					],
-					[
-						"modal-confirm-ap",
-						"modal-confirm-approve-dp"
-					],
-					[
-						"pe",
-						"pelunasan"
-					],
-					[
-						"para",
-						"params"
-					],
-					[
-						"per",
-						"percentagePrice"
-					],
-					[
-						"perc",
-						"percentPrice"
-					],
-					[
-						"onkey",
-						"onkeyup\tAttr"
-					],
-					[
-						"pri",
-						"price-paid-off"
-					],
-					[
-						"no",
-						"no-payment-paid-off"
-					],
-					[
-						"pay-",
-						"pay-button-paid-off"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"contents": "[\n\t{ \"keys\": [\"ctrl+shift+n\"], \"command\": \"new_window\" },\n\t{ \"keys\": [\"ctrl+shift+w\"], \"command\": \"close_window\" },\n\t{ \"keys\": [\"ctrl+o\"], \"command\": \"prompt_open_file\" },\n\t{ \"keys\": [\"ctrl+shift+t\"], \"command\": \"reopen_last_file\" },\n\t{ \"keys\": [\"alt+o\"], \"command\": \"switch_file\", \"args\": {\"extensions\": [\"cpp\", \"cxx\", \"cc\", \"c\", \"hpp\", \"hxx\", \"hh\", \"h\", \"ipp\", \"inl\", \"m\", \"mm\"]} },\n\t{ \"keys\": [\"ctrl+n\"], \"command\": \"new_file\" },\n\t{ \"keys\": [\"ctrl+s\"], \"command\": \"save\" },\n\t{ \"keys\": [\"ctrl+shift+s\"], \"command\": \"prompt_save_as\" },\n\t{ \"keys\": [\"ctrl+f4\"], \"command\": \"close_file\" },\n\t{ \"keys\": [\"ctrl+w\"], \"command\": \"close\" },\n\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+b\"], \"command\": \"toggle_side_bar\" },\n\t{ \"keys\": [\"f11\"], \"command\": \"toggle_full_screen\" },\n\t{ \"keys\": [\"shift+f11\"], \"command\": \"toggle_distraction_free\" },\n\n\t{ \"keys\": [\"backspace\"], \"command\": \"left_delete\" },\n\t{ \"keys\": [\"shift+backspace\"], \"command\": \"left_delete\" },\n\t{ \"keys\": [\"ctrl+shift+backspace\"], \"command\": \"left_delete\" },\n\t{ \"keys\": [\"delete\"], \"command\": \"right_delete\" },\n\t{ \"keys\": [\"enter\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\n\"} },\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\n\"} },\n\n\t{ \"keys\": [\"ctrl+z\"], \"command\": \"undo\" },\n\t{ \"keys\": [\"ctrl+shift+z\"], \"command\": \"redo\" },\n\t{ \"keys\": [\"ctrl+y\"], \"command\": \"redo_or_repeat\" },\n\t{ \"keys\": [\"ctrl+u\"], \"command\": \"soft_undo\" },\n\t{ \"keys\": [\"ctrl+shift+u\"], \"command\": \"soft_redo\" },\n\n\t{ \"keys\": [\"shift+delete\"], \"command\": \"cut\" },\n\t{ \"keys\": [\"ctrl+insert\"], \"command\": \"copy\" },\n\t{ \"keys\": [\"shift+insert\"], \"command\": \"paste\" },\n\t{ \"keys\": [\"ctrl+x\"], \"command\": \"cut\" },\n\t{ \"keys\": [\"ctrl+c\"], \"command\": \"copy\" },\n\t{ \"keys\": [\"ctrl+v\"], \"command\": \"paste\" },\n\t{ \"keys\": [\"ctrl+shift+v\"], \"command\": \"paste_and_indent\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+v\"], \"command\": \"paste_from_history\" },\n\n\t{ \"keys\": [\"left\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": false} },\n\t{ \"keys\": [\"right\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true} },\n\t{ \"keys\": [\"up\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": false} },\n\t{ \"keys\": [\"down\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": true} },\n\t{ \"keys\": [\"shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true, \"extend\": true} },\n\t{ \"keys\": [\"shift+up\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"shift+down\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": true, \"extend\": true} },\n\n\t{ \"keys\": [\"ctrl+left\"], \"command\": \"move\", \"args\": {\"by\": \"words\", \"forward\": false} },\n\t{ \"keys\": [\"ctrl+right\"], \"command\": \"move\", \"args\": {\"by\": \"word_ends\", \"forward\": true} },\n\t{ \"keys\": [\"ctrl+shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"words\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"ctrl+shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"word_ends\", \"forward\": true, \"extend\": true} },\n\n\t{ \"keys\": [\"alt+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false} },\n\t{ \"keys\": [\"alt+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true} },\n\t{ \"keys\": [\"alt+shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"alt+shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true, \"extend\": true} },\n\n\t{ \"keys\": [\"ctrl+alt+up\"], \"command\": \"select_lines\", \"args\": {\"forward\": false} },\n\t{ \"keys\": [\"ctrl+alt+down\"], \"command\": \"select_lines\", \"args\": {\"forward\": true} },\n\n\t{ \"keys\": [\"pageup\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": false} },\n\t{ \"keys\": [\"pagedown\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": true} },\n\t{ \"keys\": [\"shift+pageup\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"shift+pagedown\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": true, \"extend\": true} },\n\n\t{ \"keys\": [\"home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bol\", \"extend\": false} },\n\t{ \"keys\": [\"end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eol\", \"extend\": false} },\n\t{ \"keys\": [\"shift+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bol\", \"extend\": true} },\n\t{ \"keys\": [\"shift+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eol\", \"extend\": true} },\n\t{ \"keys\": [\"ctrl+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bof\", \"extend\": false} },\n\t{ \"keys\": [\"ctrl+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eof\", \"extend\": false} },\n\t{ \"keys\": [\"ctrl+shift+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bof\", \"extend\": true} },\n\t{ \"keys\": [\"ctrl+shift+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eof\", \"extend\": true} },\n\n\n\t{ \"keys\": [\"ctrl+up\"], \"command\": \"scroll_lines\", \"args\": {\"amount\": 1.0 } },\n\t{ \"keys\": [\"ctrl+down\"], \"command\": \"scroll_lines\", \"args\": {\"amount\": -1.0 } },\n\n\t{ \"keys\": [\"ctrl+pagedown\"], \"command\": \"next_view\" },\n\t{ \"keys\": [\"ctrl+pageup\"], \"command\": \"prev_view\" },\n\n\t{ \"keys\": [\"ctrl+tab\"], \"command\": \"next_view_in_stack\" },\n\t{ \"keys\": [\"ctrl+shift+tab\"], \"command\": \"prev_view_in_stack\" },\n\n\t{ \"keys\": [\"ctrl+a\"], \"command\": \"select_all\" },\n\t{ \"keys\": [\"ctrl+shift+l\"], \"command\": \"split_selection_into_lines\" },\n\t{ \"keys\": [\"escape\"], \"command\": \"single_selection\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"num_selections\", \"operator\": \"not_equal\", \"operand\": 1 }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"clear_fields\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"has_next_field\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"clear_fields\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"has_prev_field\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"hide_panel\", \"args\": {\"cancel\": true},\n\t\t\"context\":\n\t\t[\n\t\t\t{ \"key\": \"panel_visible\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"hide_overlay\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"overlay_visible\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"hide_popup\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"popup_visible\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"hide_auto_complete\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"auto_complete_visible\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"tab\"], \"command\": \"insert_best_completion\", \"args\": {\"default\": \"\\t\", \"exact\": true} },\n\t{ \"keys\": [\"tab\"], \"command\": \"insert_best_completion\", \"args\": {\"default\": \"\\t\", \"exact\": false},\n\t\t\"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"not_regex_match\", \"operand\": \".*\\\\b[0-9]+$\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"replace_completion_with_next_completion\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"last_command\", \"operator\": \"equal\", \"operand\": \"insert_best_completion\" },\n\t\t\t{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"reindent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"indent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"text\", \"operator\": \"regex_contains\", \"operand\": \"\\n\" }\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"next_field\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"has_next_field\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"commit_completion\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"auto_complete_visible\" },\n\t\t\t{ \"key\": \"setting.auto_complete_commit_on_tab\" }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\t\"} },\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.shift_tab_unindent\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \"^[\\t ]*\" }\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"text\", \"operator\": \"regex_contains\", \"operand\": \"\\n\" }\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"prev_field\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"has_prev_field\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"ctrl+]\"], \"command\": \"indent\" },\n\t{ \"keys\": [\"ctrl+[\"], \"command\": \"unindent\" },\n\n\t{ \"keys\": [\"insert\"], \"command\": \"toggle_overwrite\" },\n\n\t{ \"keys\": [\"ctrl+l\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"line\"} },\n\t{ \"keys\": [\"ctrl+d\"], \"command\": \"find_under_expand\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+d\"], \"command\": \"find_under_expand_skip\" },\n\t{ \"keys\": [\"ctrl+shift+space\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"scope\"} },\n\t{ \"keys\": [\"ctrl+shift+m\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"brackets\"} },\n\t{ \"keys\": [\"ctrl+m\"], \"command\": \"move_to\", \"args\": {\"to\": \"brackets\"} },\n\t{ \"keys\": [\"ctrl+shift+j\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"indentation\"} },\n\t{ \"keys\": [\"ctrl+shift+a\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"tag\"} },\n\n\t{ \"keys\": [\"alt+.\"], \"command\": \"close_tag\" },\n\n\t{ \"keys\": [\"ctrl+q\"], \"command\": \"toggle_record_macro\" },\n\t{ \"keys\": [\"ctrl+shift+q\"], \"command\": \"run_macro\" },\n\n\t{ \"keys\": [\"ctrl+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line.sublime-macro\"} },\n\t{ \"keys\": [\"ctrl+shift+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line Before.sublime-macro\"} },\n\t{ \"keys\": [\"enter\"], \"command\": \"commit_completion\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"auto_complete_visible\" },\n\t\t\t{ \"key\": \"setting.auto_complete_commit_on_tab\", \"operand\": false }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"ctrl+p\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"show_files\": true} },\n\t{ \"keys\": [\"ctrl+shift+p\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"command_palette\"} },\n\t{ \"keys\": [\"ctrl+r\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \"@\"} },\n\t{ \"keys\": [\"ctrl+g\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \":\"} },\n\t{ \"keys\": [\"ctrl+;\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \"#\"} },\n\t{ \"keys\": [\"f12\"], \"command\": \"goto_definition\" },\n\t{ \"keys\": [\"ctrl+shift+r\"], \"command\": \"goto_symbol_in_project\" },\n\t{ \"keys\": [\"alt+keypad_minus\"], \"command\": \"jump_back\" },\n\t{ \"keys\": [\"alt+shift+keypad_minus\"], \"command\": \"jump_forward\" },\n\t{ \"keys\": [\"alt+-\"], \"command\": \"jump_back\" },\n\t{ \"keys\": [\"alt+shift+-\"], \"command\": \"jump_forward\" },\n\n\t{ \"keys\": [\"ctrl+i\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"incremental_find\", \"reverse\": false} },\n\t{ \"keys\": [\"ctrl+shift+i\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"incremental_find\", \"reverse\": true} },\n\t{ \"keys\": [\"ctrl+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"find\", \"reverse\": false} },\n\t{ \"keys\": [\"ctrl+h\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"replace\", \"reverse\": false} },\n\t{ \"keys\": [\"ctrl+shift+h\"], \"command\": \"replace_next\" },\n\t{ \"keys\": [\"f3\"], \"command\": \"find_next\" },\n\t{ \"keys\": [\"shift+f3\"], \"command\": \"find_prev\" },\n\t{ \"keys\": [\"ctrl+f3\"], \"command\": \"find_under\" },\n\t{ \"keys\": [\"ctrl+shift+f3\"], \"command\": \"find_under_prev\" },\n\t{ \"keys\": [\"alt+f3\"], \"command\": \"find_all_under\" },\n\t{ \"keys\": [\"ctrl+e\"], \"command\": \"slurp_find_string\" },\n\t{ \"keys\": [\"ctrl+shift+e\"], \"command\": \"slurp_replace_string\" },\n\t{ \"keys\": [\"ctrl+shift+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"find_in_files\"} },\n\t{ \"keys\": [\"f4\"], \"command\": \"next_result\" },\n\t{ \"keys\": [\"shift+f4\"], \"command\": \"prev_result\" },\n\n\t{ \"keys\": [\"f6\"], \"command\": \"toggle_setting\", \"args\": {\"setting\": \"spell_check\"} },\n\t{ \"keys\": [\"ctrl+f6\"], \"command\": \"next_misspelling\" },\n\t{ \"keys\": [\"ctrl+shift+f6\"], \"command\": \"prev_misspelling\" },\n\n\t{ \"keys\": [\"ctrl+shift+up\"], \"command\": \"swap_line_up\" },\n\t{ \"keys\": [\"ctrl+shift+down\"], \"command\": \"swap_line_down\" },\n\n\t{ \"keys\": [\"ctrl+backspace\"], \"command\": \"delete_word\", \"args\": { \"forward\": false } },\n\t{ \"keys\": [\"ctrl+shift+backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard BOL.sublime-macro\"} },\n\n\t{ \"keys\": [\"ctrl+delete\"], \"command\": \"delete_word\", \"args\": { \"forward\": true } },\n\t{ \"keys\": [\"ctrl+shift+delete\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard EOL.sublime-macro\"} },\n\n\t{ \"keys\": [\"ctrl+/\"], \"command\": \"toggle_comment\", \"args\": { \"block\": false } },\n\t{ \"keys\": [\"ctrl+shift+/\"], \"command\": \"toggle_comment\", \"args\": { \"block\": true } },\n\n\t{ \"keys\": [\"ctrl+j\"], \"command\": \"join_lines\" },\n\t{ \"keys\": [\"ctrl+shift+d\"], \"command\": \"duplicate_line\" },\n\n\t{ \"keys\": [\"ctrl+`\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"console\", \"toggle\": true} },\n\n\t{ \"keys\": [\"ctrl+space\"], \"command\": \"auto_complete\" },\n\t{ \"keys\": [\"ctrl+space\"], \"command\": \"replace_completion_with_auto_complete\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"last_command\", \"operator\": \"equal\", \"operand\": \"insert_best_completion\" },\n\t\t\t{ \"key\": \"auto_complete_visible\", \"operator\": \"equal\", \"operand\": false },\n\t\t\t{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"ctrl+alt+shift+p\"], \"command\": \"show_scope_name\" },\n\n\t{ \"keys\": [\"f7\"], \"command\": \"build\" },\n\t{ \"keys\": [\"ctrl+b\"], \"command\": \"build\" },\n\t{ \"keys\": [\"ctrl+shift+b\"], \"command\": \"build\", \"args\": {\"select\": true} },\n\t{ \"keys\": [\"ctrl+break\"], \"command\": \"cancel_build\" },\n\n\t{ \"keys\": [\"ctrl+t\"], \"command\": \"transpose\" },\n\n\t{ \"keys\": [\"f9\"], \"command\": \"sort_lines\", \"args\": {\"case_sensitive\": false} },\n\t{ \"keys\": [\"ctrl+f9\"], \"command\": \"sort_lines\", \"args\": {\"case_sensitive\": true} },\n\n\t// Auto-pair quotes\n\t{ \"keys\": [\"\\\"\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\\"$0\\\"\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|>|$)\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"not_regex_contains\", \"operand\": \"[\\\"a-zA-Z0-9_]$\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"\\\"\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\\"${0:$SELECTION}\\\"\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"\\\"\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\"\", \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\"$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\"\", \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true },\n\t\t]\n\t},\n\n\t// Auto-pair single quotes\n\t{ \"keys\": [\"'\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"'$0'\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|>|$)\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"not_regex_contains\", \"operand\": \"['a-zA-Z0-9_]$\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"'\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"'${0:$SELECTION}'\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"'\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^'\", \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"'$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^'\", \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true },\n\t\t]\n\t},\n\n\t// Auto-pair brackets\n\t{ \"keys\": [\"(\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"($0)\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|;|\\\\}|$)\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"(\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"(${0:$SELECTION})\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\")\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\)\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\($\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\)\", \"match_all\": true }\n\t\t]\n\t},\n\n\t// Auto-pair square brackets\n\t{ \"keys\": [\"[\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"[$0]\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|;|\\\\}|$)\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"[\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"[${0:$SELECTION}]\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"]\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\]\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\[$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\]\", \"match_all\": true }\n\t\t]\n\t},\n\n\t// Auto-pair curly brackets\n\t{ \"keys\": [\"{\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"{$0}\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|$)\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"{\"], \"command\": \"wrap_block\", \"args\": {\"begin\": \"{\", \"end\": \"}\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"indented_block\", \"match_all\": true },\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"{\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"{${0:$SELECTION}}\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"}\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line in Braces.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line in Braces.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"enter\"], \"command\": \"auto_indent_tag\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"punctuation.definition.tag.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \">$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^</\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"auto_indent_tag\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"punctuation.definition.tag.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \">$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^</\", \"match_all\": true },\n\t\t]\n\t},\n\n\t{\n\t\t\"keys\": [\"alt+shift+1\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 1.0],\n\t\t\t\"rows\": [0.0, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+2\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 0.5, 1.0],\n\t\t\t\"rows\": [0.0, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+3\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 0.33, 0.66, 1.0],\n\t\t\t\"rows\": [0.0, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+4\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 0.25, 0.5, 0.75, 1.0],\n\t\t\t\"rows\": [0.0, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1], [3, 0, 4, 1]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+8\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 1.0],\n\t\t\t\"rows\": [0.0, 0.5, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [0, 1, 1, 2]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+9\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 1.0],\n\t\t\t\"rows\": [0.0, 0.33, 0.66, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [0, 1, 1, 2], [0, 2, 1, 3]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+5\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 0.5, 1.0],\n\t\t\t\"rows\": [0.0, 0.5, 1.0],\n\t\t\t\"cells\":\n\t\t\t[\n\t\t\t\t[0, 0, 1, 1], [1, 0, 2, 1],\n\t\t\t\t[0, 1, 1, 2], [1, 1, 2, 2]\n\t\t\t]\n\t\t}\n\t},\n\t{ \"keys\": [\"ctrl+1\"], \"command\": \"focus_group\", \"args\": { \"group\": 0 } },\n\t{ \"keys\": [\"ctrl+2\"], \"command\": \"focus_group\", \"args\": { \"group\": 1 } },\n\t{ \"keys\": [\"ctrl+3\"], \"command\": \"focus_group\", \"args\": { \"group\": 2 } },\n\t{ \"keys\": [\"ctrl+4\"], \"command\": \"focus_group\", \"args\": { \"group\": 3 } },\n\t{ \"keys\": [\"ctrl+5\"], \"command\": \"focus_group\", \"args\": { \"group\": 4 } },\n\t{ \"keys\": [\"ctrl+6\"], \"command\": \"focus_group\", \"args\": { \"group\": 5 } },\n\t{ \"keys\": [\"ctrl+7\"], \"command\": \"focus_group\", \"args\": { \"group\": 6 } },\n\t{ \"keys\": [\"ctrl+8\"], \"command\": \"focus_group\", \"args\": { \"group\": 7 } },\n\t{ \"keys\": [\"ctrl+9\"], \"command\": \"focus_group\", \"args\": { \"group\": 8 } },\n\t{ \"keys\": [\"ctrl+shift+1\"], \"command\": \"move_to_group\", \"args\": { \"group\": 0 } },\n\t{ \"keys\": [\"ctrl+shift+2\"], \"command\": \"move_to_group\", \"args\": { \"group\": 1 } },\n\t{ \"keys\": [\"ctrl+shift+3\"], \"command\": \"move_to_group\", \"args\": { \"group\": 2 } },\n\t{ \"keys\": [\"ctrl+shift+4\"], \"command\": \"move_to_group\", \"args\": { \"group\": 3 } },\n\t{ \"keys\": [\"ctrl+shift+5\"], \"command\": \"move_to_group\", \"args\": { \"group\": 4 } },\n\t{ \"keys\": [\"ctrl+shift+6\"], \"command\": \"move_to_group\", \"args\": { \"group\": 5 } },\n\t{ \"keys\": [\"ctrl+shift+7\"], \"command\": \"move_to_group\", \"args\": { \"group\": 6 } },\n\t{ \"keys\": [\"ctrl+shift+8\"], \"command\": \"move_to_group\", \"args\": { \"group\": 7 } },\n\t{ \"keys\": [\"ctrl+shift+9\"], \"command\": \"move_to_group\", \"args\": { \"group\": 8 } },\n\t{ \"keys\": [\"ctrl+0\"], \"command\": \"focus_side_bar\" },\n\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+up\"], \"command\": \"new_pane\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+shift+up\"], \"command\": \"new_pane\", \"args\": {\"move\": false} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+down\"], \"command\": \"close_pane\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+left\"], \"command\": \"focus_neighboring_group\", \"args\": {\"forward\": false} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+right\"], \"command\": \"focus_neighboring_group\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+shift+left\"], \"command\": \"move_to_neighboring_group\", \"args\": {\"forward\": false} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+shift+right\"], \"command\": \"move_to_neighboring_group\" },\n\n\t{ \"keys\": [\"alt+1\"], \"command\": \"select_by_index\", \"args\": { \"index\": 0 } },\n\t{ \"keys\": [\"alt+2\"], \"command\": \"select_by_index\", \"args\": { \"index\": 1 } },\n\t{ \"keys\": [\"alt+3\"], \"command\": \"select_by_index\", \"args\": { \"index\": 2 } },\n\t{ \"keys\": [\"alt+4\"], \"command\": \"select_by_index\", \"args\": { \"index\": 3 } },\n\t{ \"keys\": [\"alt+5\"], \"command\": \"select_by_index\", \"args\": { \"index\": 4 } },\n\t{ \"keys\": [\"alt+6\"], \"command\": \"select_by_index\", \"args\": { \"index\": 5 } },\n\t{ \"keys\": [\"alt+7\"], \"command\": \"select_by_index\", \"args\": { \"index\": 6 } },\n\t{ \"keys\": [\"alt+8\"], \"command\": \"select_by_index\", \"args\": { \"index\": 7 } },\n\t{ \"keys\": [\"alt+9\"], \"command\": \"select_by_index\", \"args\": { \"index\": 8 } },\n\t{ \"keys\": [\"alt+0\"], \"command\": \"select_by_index\", \"args\": { \"index\": 9 } },\n\n\t{ \"keys\": [\"f2\"], \"command\": \"next_bookmark\" },\n\t{ \"keys\": [\"shift+f2\"], \"command\": \"prev_bookmark\" },\n\t{ \"keys\": [\"ctrl+f2\"], \"command\": \"toggle_bookmark\" },\n\t{ \"keys\": [\"ctrl+shift+f2\"], \"command\": \"clear_bookmarks\" },\n\t{ \"keys\": [\"alt+f2\"], \"command\": \"select_all_bookmarks\" },\n\n\t{ \"keys\": [\"ctrl+shift+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Line.sublime-macro\"} },\n\n\t{ \"keys\": [\"alt+q\"], \"command\": \"wrap_lines\" },\n\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+u\"], \"command\": \"upper_case\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+l\"], \"command\": \"lower_case\" },\n\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+space\"], \"command\": \"set_mark\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+a\"], \"command\": \"select_to_mark\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+w\"], \"command\": \"delete_to_mark\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+x\"], \"command\": \"swap_with_mark\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+y\"], \"command\": \"yank\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard EOL.sublime-macro\"} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard BOL.sublime-macro\"} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+g\"], \"command\": \"clear_bookmarks\", \"args\": {\"name\": \"mark\"} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+c\"], \"command\": \"show_at_center\" },\n\n\t{ \"keys\": [\"ctrl++\"], \"command\": \"increase_font_size\" },\n\t{ \"keys\": [\"ctrl+=\"], \"command\": \"increase_font_size\" },\n\t{ \"keys\": [\"ctrl+keypad_plus\"], \"command\": \"increase_font_size\" },\n\t{ \"keys\": [\"ctrl+-\"], \"command\": \"decrease_font_size\" },\n\t{ \"keys\": [\"ctrl+keypad_minus\"], \"command\": \"decrease_font_size\" },\n\n\t{ \"keys\": [\"ctrl+equals\"], \"command\": \"increase_font_size\" },\n\t{ \"keys\": [\"ctrl+shift+equals\"], \"command\": \"decrease_font_size\" },\n\t{ \"keys\": [\"ctrl+shift+keypad_plus\"], \"command\": \"decrease_font_size\" },\n\n\t{ \"keys\": [\"alt+shift+w\"], \"command\": \"insert_snippet\", \"args\": { \"name\": \"Packages/XML/Snippets/long-tag.sublime-snippet\" } },\n\n\t{ \"keys\": [\"ctrl+shift+[\"], \"command\": \"fold\" },\n\t{ \"keys\": [\"ctrl+shift+]\"], \"command\": \"unfold\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+1\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 1} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+2\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 2} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+3\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 3} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+4\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 4} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+5\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 5} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+6\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 6} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+7\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 7} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+8\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 8} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+9\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 9} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+0\"], \"command\": \"unfold_all\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+j\"], \"command\": \"unfold_all\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+t\"], \"command\": \"fold_tag_attributes\" },\n\n\t{ \"keys\": [\"context_menu\"], \"command\": \"context_menu\" },\n\n\t{ \"keys\": [\"alt+c\"], \"command\": \"toggle_case_sensitive\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"alt+r\"], \"command\": \"toggle_regex\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"alt+w\"], \"command\": \"toggle_whole_word\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"alt+a\"], \"command\": \"toggle_preserve_case\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\n\t// Find panel key bindings\n\t{ \"keys\": [\"enter\"], \"command\": \"find_next\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n\t\t \"context\": [{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\n\t// Replace panel key bindings\n\t{ \"keys\": [\"enter\"], \"command\": \"find_next\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n\t\t\"context\": [{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"ctrl+alt+enter\"], \"command\": \"replace_all\", \"args\": {\"close_panel\": true},\n\t\t \"context\": [{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\n\t// Incremental find panel key bindings\n\t{ \"keys\": [\"enter\"], \"command\": \"hide_panel\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n\t\t\"context\": [{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\n\t// Find in Files panel key bindings\n\t{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\",\n\t\t \"context\": [{\"key\": \"panel\", \"operand\": \"find_in_files\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"ctrl+alt+enter\"], \"command\": \"replace_all\",\n\t\t \"context\": [{\"key\": \"panel\", \"operand\": \"find_in_files\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\n\t// HTML, XML close tag\n\t{ \"keys\": [\"/\"], \"command\": \"close_tag\", \"args\": { \"insert_slash\": true }, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"(text.html, text.xml) - string - comment\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \".*<$\", \"match_all\": true },\n\t\t\t{ \"key\": \"setting.auto_close_tags\" }\n\t\t]\n\t}\n]\n",
-					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/Data/Packages/Default/Default (Windows).sublime-keymap",
-					"file_size": -1,
-					"file_write_time": -1,
-					"settings":
-					{
-						"buffer_size": 36250,
-						"line_ending": "Windows",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/Data/Packages/User/Default (Windows).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 349,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 357.0,
-				"last_filter": "package",
-				"selected_items":
-				[
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"open",
-						"View: Toggle Open Files in Side Bar"
-					],
-					[
-						"",
-						"Boxy Theme: Configuration"
-					],
-					[
-						"boxy",
-						"Boxy Theme: Activation"
-					],
-					[
-						"ena",
-						"Emmet: Expand Abbreviation"
-					],
-					[
-						"vue",
-						"Set Syntax: Vue Component"
-					],
-					[
-						"emmet",
-						"Set Syntax: Emmet"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"pack",
-						"Package Control: Remove Package"
-					],
-					[
-						"jsx",
-						"Set Syntax: JSX"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"box",
-						"Boxy Theme: Configuration"
-					],
-					[
-						"setti",
-						"Preferences: Settings"
-					],
-					[
-						"bo",
-						"Boxy Theme: Configuration"
-					],
-					[
-						"bocy",
-						"Boxy Theme: Configuration"
-					],
-					[
-						"pre",
-						"Preferences: Settings"
-					],
-					[
-						"font",
-						"Preferences: Package Control Settings – Default"
-					]
-				],
-				"width": 462.0
-			},
-			"console":
-			{
-				"height": 158.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/A/hiuData/hiuWEB/AppJS/1.sublime-project",
-				"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api/node_modules/sails/package.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api/config/models.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7/dist/css/framework7.material.css",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/framework7-vue/src/components/view.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-backup.vue",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/whatsapp.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/telegram.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/google-translate.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/index.ejs",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/package.json",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/index.html",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/main.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app.vue",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-ios.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink-mat.cmd",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package.json",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/package-lock.json",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sp.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-kitchen-sink.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/App.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/static/w3.css",
-				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue/src/renderer/assets/w3.css",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/-cur_console",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hiu-me-vue.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/my-project/src/main/index.dev.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/hiu-me/index.html",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/chrome.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-profile.cmd",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/src/app-old.vue",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/node_modules/express/lib/response.js",
-				"/A/hiuData/hiuWEB/AppJS/playground/f7-vue/config/index.js",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-appjs.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-hiuproperty.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-aliases.cmd",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/index.js",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-vue.cmd",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hs.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bde.cmd",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/router.js",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/mainPage.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/templates/layout.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/App.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/main.js",
-				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/Hello.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/app.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/about.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/pages/form.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/css/app.css",
-				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/index.html",
-				"/A/hiuData/hiuWEB/AppJS/node/asyncAwait.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/dev.env.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/test/tomomi.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/static/w3.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/static/css/w3.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/layout-dashboards.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/floating-search-card.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/top-logo-badge.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/pages/listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/modal-instant-view.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/README.md",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/api/models/Listings.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/payments-repayment.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/modal-login.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/bookings-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/bookings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/kuitansi.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/letterhead.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/reports.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/surat-pemesanan-properti.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/surat-pengajuan-ajb.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/documents/surat-perjanjian-perangkat-jual-beli.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/messages.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/payments-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/payments-dp-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/payments-dp.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/payments-repayment-confirm.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/dashboards/payments.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/pages/about-us.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/pages/user-login.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/pages/user-logout.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/pages/user-signup.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/modal-listing-pictures-main.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/config/connections.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/config/models.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/navbar.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/hiu-403.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/hiu-500.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/hiu-404.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails/views/partials/footer.ejs",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/package.json",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/components/Hello.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/components/Homepage.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/App.vue",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/assets/w3.css",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/router/index.js",
-				"/A/hiuData/hiuWEB/AppJS/vue/vue-pwa-boilerplate/src/main.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/package-lock.json",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-listing-pictures-main.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/listing-detail.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-instant-view.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/footer.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/responses/searchNotFound.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/res-search-not-found.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/search-listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/agent-list.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/pages/index.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/routes.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/controllers/ListingsController.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/floating-search-card.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/navbar-search.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-booking.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Listings.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/app.css",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/assets/css/w3-4.css"
-			],
-			"find":
-			{
-				"height": 26.0
-			},
-			"find_in_files":
-			{
-				"height": 150.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": true,
-				"find_history":
-				[
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": true,
-				"wrap": false
-			},
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/Data/Packages/Default/Default (Windows).sublime-keymap",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 36250,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										36250,
-										36250
-									]
-								],
-								"settings":
-								{
-									"edit_settings_other_view_id": 117,
-									"edit_settings_view": "base",
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 1,
-							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/Data/Packages/User/Default (Windows).sublime-keymap",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 349,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										269,
-										269
-									]
-								],
-								"settings":
-								{
-									"edit_settings_other_view_id": 116,
-									"edit_settings_view": "user",
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 46.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						0,
-						1,
-						1,
-						2
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					0.5,
-					1.0
-				]
-			},
-			"menu_visible": false,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,900,104,44,1061",
-			"project": "",
-			"replace":
-			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"routes",
-						"hiu-land-api\\config\\routes.js"
-					],
-					[
-						"panel",
-						"f7-vue\\src\\components\\panel-left.vue"
-					],
-					[
-						"materialcss",
-						"f7-vue\\node_modules\\framework7\\dist\\css\\framework7.material.css"
-					],
-					[
-						"appba",
-						"f7-vue\\src\\app-backup.vue"
-					],
-					[
-						"main",
-						"f7-vue\\src\\main.js"
-					],
-					[
-						"f7-view.vue",
-						"f7-vue\\node_modules\\framework7-vue\\src\\components\\view.vue"
-					],
-					[
-						"app",
-						"f7-vue\\src\\app.vue"
-					],
-					[
-						"wa.cmd",
-						"cmder\\bin\\whatsapp.cmd"
-					],
-					[
-						"tele",
-						"cmder\\bin\\telegram.cmd"
-					],
-					[
-						"f7-vuemain.js",
-						"f7-vue\\src\\main.js"
-					],
-					[
-						"goo",
-						"cmder\\bin\\google-translate.cmd"
-					],
-					[
-						"quran",
-						"cmder\\bin\\quran.cmd"
-					],
-					[
-						"app.vue",
-						"f7-vue\\src\\app.vue"
-					],
-					[
-						"f7-",
-						"cmder\\bin\\f7-kitchen-sink-mat.cmd"
-					],
-					[
-						"appchr",
-						"cmder\\bin\\appchr.cmd"
-					],
-					[
-						"package",
-						"hiuProperty-sails\\package.json"
-					],
-					[
-						"package.json",
-						"hiuProperty-sails\\package-lock.json"
-					],
-					[
-						"goog",
-						"cmder\\bin\\google-translate.cmd"
-					],
-					[
-						"kitche",
-						"cmder\\bin\\f7-kitchen-sink.cmd"
-					],
-					[
-						"hiumevuereadme",
-						"hiu-me-vue\\README.md"
-					],
-					[
-						".git",
-						"hiu-me-vue\\.gitignore"
-					],
-					[
-						"indexvue",
-						"hiu-me-vue\\src\\renderer\\components\\index.vue"
-					],
-					[
-						"",
-						"cmder\\-cur_console"
-					],
-					[
-						"land",
-						"my-project\\src\\renderer\\components\\LandingPage.vue"
-					],
-					[
-						"app.css",
-						"f7-vue\\src\\css\\app.css"
-					],
-					[
-						"index",
-						"hiu-me\\index.html"
-					],
-					[
-						"sl.cmd",
-						"cmder\\bin\\sl.cmd"
-					],
-					[
-						"app.",
-						"f7-vue\\src\\app.vue"
-					],
-					[
-						"about",
-						"f7-vue\\src\\pages\\about.vue"
-					],
-					[
-						"responses",
-						"f7-vue\\node_modules\\express\\lib\\response.js"
-					],
-					[
-						"packa",
-						"f7-vue\\package.json"
-					],
-					[
-						"cd-app",
-						"hiuEnvironment\\cmder\\bin\\cd-appjs.cmd"
-					],
-					[
-						"user",
-						"hiuEnvironment\\cmder\\config\\user-aliases.cmd"
-					],
-					[
-						"main.js",
-						"f7-vue\\src\\main.js"
-					],
-					[
-						"tomomi",
-						"hiuProperty-sails\\views\\test\\tomomi.ejs"
-					],
-					[
-						"layout",
-						"hiuProperty-sails\\views\\layout.ejs"
-					],
-					[
-						"hello",
-						"hiuProperty-vue\\src\\components\\Hello.vue"
-					],
-					[
-						"modal-is",
-						"hiuProperty-sails\\views\\partials\\modal-instant-view.ejs"
-					],
-					[
-						"listings",
-						"hiuProperty-sails\\views\\pages\\listings.ejs"
-					],
-					[
-						"badge",
-						"hiuProperty-sails\\views\\partials\\top-logo-badge.ejs"
-					],
-					[
-						"floating",
-						"hiuProperty-sails\\views\\partials\\floating-search-card.ejs"
-					],
-					[
-						"modal",
-						"hiuProperty-sails\\views\\partials\\modal-login.ejs"
-					],
-					[
-						"footer",
-						"hiuProperty-sails\\views\\partials\\footer.ejs"
-					],
-					[
-						"logo-bad",
-						"hiuProperty-sails\\views\\partials\\top-logo-badge.ejs"
-					],
-					[
-						"navbar",
-						"hiuProperty-sails\\views\\partials\\navbar.ejs"
-					],
-					[
-						"model",
-						"hiuProperty-sails\\config\\models.js"
-					],
-					[
-						"con",
-						"hiuProperty-sails\\config\\connections.js"
-					],
-					[
-						"indexejs",
-						"views\\pages\\index.ejs"
-					],
-					[
-						"listing",
-						"views\\pages\\listings.ejs"
-					],
-					[
-						"searchli",
-						"views\\pages\\search-listings.ejs"
-					],
-					[
-						"searchnot",
-						"views\\res-search-not-found.ejs"
-					],
-					[
-						"searc",
-						"api\\responses\\searchNotFound.js"
-					],
-					[
-						"agentlis",
-						"views\\pages\\agent-list.ejs"
-					],
-					[
-						"instant",
-						"views\\partials\\modal-instant-view.ejs"
-					],
-					[
-						"listingdeta",
-						"views\\pages\\listing-detail.ejs"
-					],
-					[
-						"modal-pic",
-						"views\\partials\\modal-listing-pictures-main.ejs"
-					],
-					[
-						"listingcon",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"filter",
-						"views\\partials\\filter-options-listings.ejs"
-					],
-					[
-						"floati",
-						"views\\partials\\floating-search-card.ejs"
-					],
-					[
-						"navba",
-						"views\\partials\\navbar-search.ejs"
-					],
-					[
-						"index.ejs",
-						"views\\pages\\index.ejs"
-					],
-					[
-						"notfound",
-						"api\\responses\\searchNotFound.js"
-					],
-					[
-						"w3",
-						"assets\\css\\w3-4.css"
-					],
-					[
-						"listingsj",
-						"api\\models\\Listings.js"
-					],
-					[
-						"hiusq",
-						"hiusig.sql"
-					],
-					[
-						"listingde",
-						"views\\pages\\listing-detail.ejs"
-					],
-					[
-						"conn",
-						"config\\connections.js"
-					],
-					[
-						"listincon",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"testcon",
-						"api\\controllers\\TestController.js"
-					],
-					[
-						"test",
-						"node_modules\\caseless\\test.js"
-					],
-					[
-						"listingco",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"lay",
-						"views\\layout-dashboards.ejs"
-					],
-					[
-						"sql",
-						"hiusig.sql"
-					],
-					[
-						"deve",
-						"config\\env\\development.js"
-					],
-					[
-						"testco",
-						"api\\controllers\\TestController.js"
-					],
-					[
-						"paymentc",
-						"api\\controllers\\PaymentsController.js"
-					],
-					[
-						"repayment",
-						"views\\dashboards\\payments-repayment.ejs"
-					],
-					[
-						"listing-d",
-						"views\\pages\\listing-detail.ejs"
-					],
-					[
-						"listingc",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"lett",
-						"views\\dashboards\\documents\\letterhead.ejs"
-					],
-					[
-						"listing-de",
-						"views\\pages\\listing-detail.ejs"
-					],
-					[
-						"report",
-						"views\\dashboards\\documents\\report-transactions.ejs"
-					],
-					[
-						"docu",
-						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"kuitansi",
-						"views\\dashboards\\documents\\kuitansi.ejs"
-					],
-					[
-						"listing-f",
-						"views\\dashboards\\listing-form.ejs"
-					],
-					[
-						"hius",
-						"hiusig.sql"
-					],
-					[
-						"users",
-						"api\\controllers\\UsersController.js"
-					],
-					[
-						"listingsco",
-						"api\\controllers\\ListingsController.js"
-					],
-					[
-						"bank",
-						"views\\dashboards\\banks-manage.ejs"
-					],
-					[
-						"agent",
-						"views\\dashboards\\agents-confirm.ejs"
-					],
-					[
-						"listingfor",
-						"views\\dashboards\\listing-form.ejs"
-					],
-					[
-						"document",
-						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"repayme",
-						"views\\dashboards\\payments-repayment-confirm.ejs"
-					],
-					[
-						"modaldetailp",
-						"views\\partials\\modal-detail-payment.ejs"
-					],
-					[
-						"paymentcont",
-						"api\\controllers\\PaymentsController.js"
-					],
-					[
-						"hiu",
-						"hiusig.sql"
-					],
-					[
-						"dpconfi",
-						"views\\dashboards\\payments-dp-confirm.ejs"
-					],
-					[
-						"paymentcon",
-						"views\\dashboards\\payments-confirm.ejs"
-					],
-					[
-						"booking",
-						"views\\dashboards\\bookings-confirm.ejs"
-					],
-					[
-						"detailboo",
-						"views\\partials\\modal-detail-booking.ejs"
-					],
-					[
-						"bookingconfirm",
-						"views\\dashboards\\bookings-confirm.ejs"
-					],
-					[
-						"agent-c",
-						"views\\dashboards\\agents-confirm.ejs"
-					],
-					[
-						"userjs",
-						"api\\models\\Users.js"
-					],
-					[
-						"usercon",
-						"api\\controllers\\UsersController.js"
-					],
-					[
-						"sign",
-						"views\\pages\\user-signup.ejs"
-					],
-					[
-						"abo",
-						"views\\pages\\about-us.ejs"
-					],
-					[
-						"modalpaid",
-						"views\\partials\\modal-pay-paid-off.ejs"
-					],
-					[
-						"modal-pa",
-						"views\\partials\\modal-pay-repayment.ejs"
-					],
-					[
-						"modal-pay",
-						"views\\partials\\modal-pay-dp.ejs"
-					],
-					[
-						"payment.",
-						"views\\dashboards\\payments.ejs"
-					],
-					[
-						"topna",
-						"views\\partials\\top-navbar-items.ejs"
-					],
-					[
-						"maps.ejs",
-						"views\\pages\\maps.ejs"
-					],
-					[
-						"modal-confirm-del",
-						"views\\partials\\modal-confirm-delete-listing.ejs"
-					],
-					[
-						"confirm-de",
-						"views\\partials\\modal-confirm-delete-user.ejs"
-					],
-					[
-						"poli",
-						"config\\policies.js"
-					],
-					[
-						"islo",
-						"api\\policies\\isLogin.js"
-					],
-					[
-						"user-form",
-						"views\\dashboards\\user-form.ejs"
-					],
-					[
-						"banks",
-						"api\\controllers\\BanksController.js"
-					],
-					[
-						"dash",
-						"views\\dashboards\\dashboard.ejs"
-					],
-					[
-						"maps",
-						"views\\pages\\maps.ejs"
-					],
-					[
-						"modalpaym",
-						"views\\partials\\modal-detail-payment.ejs"
-					],
-					[
-						"paymentjs",
-						"api\\models\\Payments.js"
-					],
-					[
-						"docum",
-						"api\\controllers\\DocumentsController.js"
-					],
-					[
-						"kui",
-						"views\\dashboards\\documents\\kuitansi.ejs"
-					],
-					[
-						"userform",
-						"views\\dashboards\\user-form.ejs"
-					],
-					[
-						"userscon",
-						"api\\controllers\\UsersController.js"
-					],
-					[
-						"user-f",
-						"views\\dashboards\\user-form.ejs"
-					],
-					[
-						"listing-fr",
-						"views\\dashboards\\listing-form.ejs"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 1,
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 164.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 89,
-			"workspace_name": ""
+			"workspace_name": "/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-workspace"
 		}
 	],
 	"workspaces":
@@ -4616,8 +3242,8 @@
 		"recent_workspaces":
 		[
 			"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/vue/vue-mobile.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
 			"/D/hiuSoft/Application/hiuEnvironment/cmder/config/hiuEnvironment.sublime-workspace",
 			"/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/1.sublime-workspace"
 		]
