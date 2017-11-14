@@ -1,13 +1,14 @@
 {
 	"folder_history":
 	[
+		"/A/hiuData/hiuWEB/AppJS/playground"
 	],
 	"last_version": 3143,
-	"last_window_id": 93,
+	"last_window_id": 95,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 807.0,
+		"new_window_height": 804.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -1509,7 +1510,7 @@
 				[
 					[
 						"",
-						"A:\\hiuData\\hiuWEB\\AppJS\\vue\\vue-mobile.sublime-project"
+						"D:\\hiuSoft\\Application\\hiuEnvironment\\cmder\\vendor\\Sublime Text Portable\\hiuEnvironment.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -1533,7 +1534,7 @@
 			{
 			}
 		},
-		"new_window_width": 976.0
+		"new_window_width": 973.0
 	},
 	"windows":
 	[
@@ -2526,7 +2527,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,879,1638,13,2630",
+			"position": "0,0,1,-1,-1,-1,-1,847,1612,-16,2601",
 			"replace":
 			{
 				"height": 102.0
@@ -3061,7 +3062,7 @@
 				[
 					[
 						"",
-						"A:\\hiuData\\hiuWEB\\AppJS\\vue\\vue-mobile.sublime-project"
+						"D:\\hiuSoft\\Application\\hiuEnvironment\\cmder\\vendor\\Sublime Text Portable\\hiuEnvironment.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -3094,7 +3095,10 @@
 	{
 		"recent_workspaces":
 		[
-			"/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/hiuEnvironment.sublime-workspace"
+			"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/playground.sublime-workspace",
+			"/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/hiuEnvironment.sublime-workspace",
+			"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace"
 		]
 	}
 }
