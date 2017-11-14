@@ -8,7 +8,6 @@
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
-	 "word_wrap": "true",
 	"ignored_packages":
 	[
 		"Vintage"
@@ -39,5 +38,6 @@
 	"theme_tab_separator": true,
 	"theme_tab_size_xs": true,
 	"theme_tab_width_auto": true,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"word_wrap": "true"
 }

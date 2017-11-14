@@ -4654,3 +4654,64 @@ choco install hyper
 d:
 a:
 hyper
+n -e console.log(9**9)
+n -e console.log(2*3)
+n -e console.log(2**3)
+n -v
+nvm ls
+git pull
+git pull origin
+git pull origin master
+☕
+cd..
+cmd /c pscd.cmd | echo
+pscd | echo
+cmd /p pscd.cmd | echo
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+cd..
+cd playground
+cd f7-v2
+git diff
+ccd
+hs -p 1778
+xampp-control
+cd-appjs/hiuland
+cd-appjs & ls
+cd -hiuapps
+cd hiuland
+ls
+cd hiu-land-pwa
+sl & cpcd &  npm run dev
+cpcd & npm run dev
+ccd & npm run dev
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console /single
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console /nosingle
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" /nosingle -new_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -new_console /nosingle
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -cur_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -new_console
+"%CMDER_ROOT%\vendor\Sublime Text Portable\sublime_text.exe" -cur_console /single
+ cmd -cur_console:n powershell -cur_console:s1TVn bash -l -i -cur_console:s1THn ssh.exe user@127.0.0.1 -cur_console:s2THn
+cls
+git diff
+start-xampp
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+hs
+n
+sl
+git status 
+git remote
+git remote -v
+title 'Your cool tab' &amp; cmd
+title 
+a:
+title hiu-land-api
+d:
+git commit -a -m "update"
+git add .
+git commit -m "update"
+git push
+git status
+netsh wlan show driver
+sd -h
