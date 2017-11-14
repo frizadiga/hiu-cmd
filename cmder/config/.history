@@ -4639,3 +4639,18 @@ cd hiu-land-pwa
 sl & cpcd &  npm run dev
 cpcd & npm run dev
 ccd & npm run dev
+cpcd & npm run dev
+ccd & npm run dev
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+cd..
+cd hiu-land-pwa
+ccd
+sl
+code .
+vsc
+choco
+choco install hyper
+d:
+a:
+hyper

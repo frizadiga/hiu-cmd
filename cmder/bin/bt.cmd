@@ -1,1 +1,1 @@
-bing-translate.cmd
+@bing-translate.cmd

@@ -1,1 +1,1 @@
-google-translate.cmd
+@google-translate.cmd
