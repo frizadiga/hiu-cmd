@@ -1,29 +1,13 @@
 {
 	"folder_history":
 	[
-		"/D/hiuSoft/Application/hiuEnvironment/cmder/bin",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-pwa",
-		"/A/hiuData/hiuWEB/AppJS/playground/f7-vue",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuLand/hiu-land-api",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-api",
-		"/A/hiuData/hiuWEB/AppJS/playground/f7-v2",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-sails",
-		"/A/hiuData/hiuWEB/AppJS/playground/ons-v2",
-		"/D/hiuSoft/Application/hiuEnvironment/cmder",
-		"/D/hiuSoft/Application/hiuEnvironment",
-		"/A/hiuData/hiuWEB/AppJS/playground/hiu-me-vue",
-		"/A/hiuData/hiuWEB/AppJS/playground/my-project",
-		"/A/hiuData/hiuWEB/AppJS/playground/hiu-me",
-		"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue",
-		"/A/hiuData/hiuWEB/AppJS/vue/f7-vue",
-		"/A/hiuData/hiuWEB/AppJS/vue/q-pwa"
 	],
 	"last_version": 3143,
-	"last_window_id": 89,
+	"last_window_id": 93,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 797.0,
+		"new_window_height": 807.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -647,8 +631,7 @@
 			},
 			"file_history":
 			[
-				"/D/nosingle",
-				"/D/single",
+				"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-project",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pscd.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pcd.vbs",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/n.cmd",
@@ -774,7 +757,8 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-booking.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Listings.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js"
 			],
 			"find":
 			{
@@ -1549,7 +1533,7 @@
 			{
 			}
 		},
-		"new_window_width": 941.0
+		"new_window_width": 976.0
 	},
 	"windows":
 	[
@@ -2176,8 +2160,7 @@
 			},
 			"file_history":
 			[
-				"/D/nosingle",
-				"/D/single",
+				"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-project",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pscd.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pcd.vbs",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/n.cmd",
@@ -2303,7 +2286,8 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-booking.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Listings.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js"
 			],
 			"find":
 			{
@@ -2542,7 +2526,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,891,1836,35,2793",
+			"position": "0,0,1,-1,-1,-1,-1,879,1638,13,2630",
 			"replace":
 			{
 				"height": 102.0
@@ -3110,11 +3094,7 @@
 	{
 		"recent_workspaces":
 		[
-			"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/vue/vue-mobile.sublime-workspace",
-			"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace",
-			"/D/hiuSoft/Application/hiuEnvironment/cmder/config/hiuEnvironment.sublime-workspace",
-			"/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/1.sublime-workspace"
+			"/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/hiuEnvironment.sublime-workspace"
 		]
 	}
 }
