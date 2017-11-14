@@ -4520,3 +4520,122 @@ cmd /c pscd.cmd | cd /d
 cmd /c pscd.cmd | echo
 pscd | echo
 cmd /p pscd.cmd | echo
+paste|sort|cd
+paste|sort|cd /d
+D:\hiuSoft\Application\hiuEnvironment\cmder
+paste|cd /d
+paste|cd /d|echo
+paste|cd /d|echo paste
+paste & cd |
+paste & cd 
+cd %paste%
+cd /f %paste%
+cd /d %paste%
+cd /d | paste
+cd | paste
+cd
+paste
+paste | command
+paste | echo
+paste || echo
+clip
+clip /?
+D:\hiuSoft\Application\hiuEnvironment\cmder\bin
+set _getclip=powershell "Add-Type -Assembly PresentationCore;[Windows.Clipboard]::GetText()" for /f "eol=; tokens=*" %I in ('%_getclip%') do set CLIPBOARD_TEXT=%I
+pscd
+cpcd & pscd
+cd pscd.cmd
+pscd.cmd
+cmd /p pscd.cmd
+cmd /c pscd.cmd
+cmd /c cd /d pscd.cmd
+cmd /c pscd.cmd | cd
+cmd /c pscd.cmd | cd /d %%
+cmd /c pscd.cmd | cd /d 
+cmd /c pscd.cmd | echo
+cmd /p pscd.cmd | echo
+pscd | echo
+cd /d pscd
+cd /d cmd /c pscd
+cd /d & cmd /c pscd
+cpcd
+cpcd & pcd
+cd D:\hiuSoft\Application\hiuEnvironment\cmder\bin
+cd /dD:\hiuSoft\Application\hiuEnvironment\cmder\bin
+cd /d D:\hiuSoft\Application\hiuEnvironment\cmder\bin
+ccd
+cd /d A:\
+cd//
+git add .
+git commit -m "update"
+git push
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+sd -h
+sl
+d:
+git diff
+git status
+cma http:hiupc:1700
+a:
+cd..
+ls
+cd hiu-window-size
+git pull
+cmd /c pscd.cmd | cd /d %%
+cmd /c pscd.cmd | cd /d 
+cmd /c pscd.cmd | echo
+pscd | echo
+cmd /p pscd.cmd | echo
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\playground\f7-v2
+cma http://hiupc:1778
+npm run build:prod
+gt
+node
+node 3+3
+node -e 3+3
+node -e console.log(3+3)
+n -e console.log('stdout')
+n -e console.log(9^9)
+n -e console.log(9**9)
+n -e console.log(2*3)
+n -e console.log(2**3)
+n -v
+nvm ls
+d:
+git add .
+git status
+git commit -m "update"
+git push
+a:
+n
+git pull
+git pull origin
+git remote -v
+git pull origin master
+☕
+cd..
+cmd /c pscd.cmd | echo
+pscd | echo
+cmd /p pscd.cmd | echo
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+cd..
+cd playground
+cd f7-v2
+git diff
+ccd
+hs -p 1778
+xampp-control
+git diff
+cd-appjs/hiuland
+cd-appjs & ls
+cd -hiuapps
+cd hiuland
+ls
+cd hiu-land-pwa
+sl & cpcd &  npm run dev
+cpcd & npm run dev
+ccd & npm run dev
