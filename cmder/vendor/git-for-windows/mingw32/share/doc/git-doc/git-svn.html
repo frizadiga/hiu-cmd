@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 1.5.4">
+<meta name="generator" content="Asciidoctor 1.5.5">
 <title>git-svn(1)</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
@@ -17,7 +17,6 @@ audio:not([controls]){display:none;height:0}
 [hidden],template{display:none}
 script{display:none!important}
 html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
-body{margin:0}
 a{background:transparent}
 a:focus{outline:thin dotted}
 a:active,a:hover{outline:0}
@@ -52,7 +51,7 @@ textarea{overflow:auto;vertical-align:top}
 table{border-collapse:collapse;border-spacing:0}
 *,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
 html,body{font-size:100%}
-body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto}
+body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto;tab-size:4;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}
 a:hover{cursor:pointer}
 img,object,embed{max-width:100%;height:auto}
 object,embed{height:100%}
@@ -64,7 +63,6 @@ img{-ms-interpolation-mode:bicubic}
 .text-center{text-align:center!important}
 .text-justify{text-align:justify!important}
 .hide{display:none}
-body{-webkit-font-smoothing:antialiased}
 img,object,svg{display:inline-block;vertical-align:middle}
 textarea{height:auto;min-height:50px}
 select{width:100%}
@@ -119,13 +117,16 @@ table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:
 table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
 table tr.even,table tr.alt,table tr:nth-of-type(even){background:#f8f8f7}
 table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{display:table-cell;line-height:1.6}
-body{tab-size:4}
 h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
 h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
 .clearfix:before,.clearfix:after,.float-group:before,.float-group:after{content:" ";display:table}
 .clearfix:after,.float-group:after{clear:both}
-*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
+*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed;word-wrap:break-word}
+*:not(pre)>code.nobreak{word-wrap:normal}
+*:not(pre)>code.nowrap{white-space:nowrap}
 pre,pre>code{line-height:1.45;color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;text-rendering:optimizeSpeed}
+em em{font-style:normal}
+strong strong{font-weight:400}
 .keyseq{color:rgba(51,51,51,.8)}
 kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background-color:#f7f7f7;border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em white inset;box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em #fff inset;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
 .keyseq kbd:first-child{margin-left:0}
@@ -554,6 +555,12 @@ your Perl&#8217;s Getopt::Long is &lt; v2.37).
 </table>
 </div>
 </dd>
+<dt class="hdlist1">--ignore-refs=&lt;regex&gt;</dt>
+<dd>
+<p>When passed to <em>init</em> or <em>clone</em> this regular expression will
+be preserved as a config key.  See <em>fetch</em> for a description
+of <code>--ignore-refs</code>.</p>
+</dd>
 <dt class="hdlist1">--ignore-paths=&lt;regex&gt;</dt>
 <dd>
 <p>When passed to <em>init</em> or <em>clone</em> this regular expression will
@@ -610,6 +617,20 @@ the same local time zone.</p>
 <dt class="hdlist1">--parent</dt>
 <dd>
 <p>Fetch only from the SVN parent of the current HEAD.</p>
+</dd>
+<dt class="hdlist1">--ignore-refs=&lt;regex&gt;</dt>
+<dd>
+<p>Ignore refs for branches or tags matching the Perl regular
+expression. A "negative look-ahead assertion" like
+<code>^refs/remotes/origin/(?!tags/wanted-tag|wanted-branch).*$</code>
+can be used to allow only certain refs.</p>
+<div class="verseblock">
+<pre class="content">config key: svn-remote.&lt;name&gt;.ignore-refs</pre>
+</div>
+<div class="paragraph">
+<p>If the ignore-refs configuration key is set, and the command-line
+option is also given, both regular expressions will be used.</p>
+</div>
 </dd>
 <dt class="hdlist1">--ignore-paths=&lt;regex&gt;</dt>
 <dd>
@@ -999,7 +1020,7 @@ history.</p>
 <dd>
 <p>You should consider using <em>dcommit</em> instead of this command.
 Commit specified commit or tree objects to SVN.  This relies on
-your imported fetch data being up-to-date.  This makes
+your imported fetch data being up to date.  This makes
 absolutely no attempts to do patching when committing to SVN, it
 simply overwrites files with those specified in the tree or
 commit.  All merging is assumed to have taken place
@@ -1038,6 +1059,28 @@ URL of the target Subversion repository.  The final argument
 (URL) may be omitted if you are working from a <em>git svn</em>-aware
 repository (that has been <code>init</code>-ed with <em>git svn</em>).
 The -r&lt;revision&gt; option is required for this.</p>
+<div class="paragraph">
+<p>The commit message is supplied either directly with the <code>-m</code> or <code>-F</code>
+option, or indirectly from the tag or commit when the second tree-ish
+denotes such an object, or it is requested by invoking an editor (see
+<code>--edit</code> option below).</p>
+</div>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">-m &lt;msg&gt;</dt>
+<dt class="hdlist1">--message=&lt;msg&gt;</dt>
+<dd>
+<p>Use the given <code>msg</code> as the commit message. This option
+disables the <code>--edit</code> option.</p>
+</dd>
+<dt class="hdlist1">-F &lt;filename&gt;</dt>
+<dt class="hdlist1">--file=&lt;filename&gt;</dt>
+<dd>
+<p>Take the commit message from the given file. This option
+disables the <code>--edit</code> option.</p>
+</dd>
+</dl>
+</div>
 </dd>
 <dt class="hdlist1"><em>info</em></dt>
 <dd>
@@ -1314,6 +1357,9 @@ creating the branch or tag.</p>
 <p>When retrieving svn commits into Git (as part of <em>fetch</em>, <em>rebase</em>, or
 <em>dcommit</em> operations), look for the first <code>From:</code> or <code>Signed-off-by:</code> line
 in the log message and use that as the author string.</p>
+<div class="verseblock">
+<pre class="content">config key: svn.useLogAuthor</pre>
+</div>
 </dd>
 <dt class="hdlist1">--add-author-from</dt>
 <dd>
@@ -1322,6 +1368,9 @@ operations), if the existing log message doesn&#8217;t already have a
 <code>From:</code> or <code>Signed-off-by:</code> line, append a <code>From:</code> line based on the
 Git commit&#8217;s author string.  If you use this, then <code>--use-log-author</code>
 will retrieve a valid author string for all commits.</p>
+<div class="verseblock">
+<pre class="content">config key: svn.addAuthorFrom</pre>
+</div>
 </dd>
 </dl>
 </div>
@@ -1900,7 +1949,7 @@ rewinds it.</p>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2016-12-01 11:44:08 W. Europe Standard Time
+Last updated 2017-10-30 09:58:44 Coordinated Universal Time
 </div>
 </div>
 </body>

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 1.5.4">
+<meta name="generator" content="Asciidoctor 1.5.5">
 <title>git(1)</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
@@ -17,7 +17,6 @@ audio:not([controls]){display:none;height:0}
 [hidden],template{display:none}
 script{display:none!important}
 html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
-body{margin:0}
 a{background:transparent}
 a:focus{outline:thin dotted}
 a:active,a:hover{outline:0}
@@ -52,7 +51,7 @@ textarea{overflow:auto;vertical-align:top}
 table{border-collapse:collapse;border-spacing:0}
 *,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
 html,body{font-size:100%}
-body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto}
+body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto;tab-size:4;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}
 a:hover{cursor:pointer}
 img,object,embed{max-width:100%;height:auto}
 object,embed{height:100%}
@@ -64,7 +63,6 @@ img{-ms-interpolation-mode:bicubic}
 .text-center{text-align:center!important}
 .text-justify{text-align:justify!important}
 .hide{display:none}
-body{-webkit-font-smoothing:antialiased}
 img,object,svg{display:inline-block;vertical-align:middle}
 textarea{height:auto;min-height:50px}
 select{width:100%}
@@ -119,13 +117,16 @@ table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:
 table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
 table tr.even,table tr.alt,table tr:nth-of-type(even){background:#f8f8f7}
 table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{display:table-cell;line-height:1.6}
-body{tab-size:4}
 h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
 h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
 .clearfix:before,.clearfix:after,.float-group:before,.float-group:after{content:" ";display:table}
 .clearfix:after,.float-group:after{clear:both}
-*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
+*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed;word-wrap:break-word}
+*:not(pre)>code.nobreak{word-wrap:normal}
+*:not(pre)>code.nowrap{white-space:nowrap}
 pre,pre>code{line-height:1.45;color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;text-rendering:optimizeSpeed}
+em em{font-style:normal}
+strong strong{font-weight:400}
 .keyseq{color:rgba(51,51,51,.8)}
 kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background-color:#f7f7f7;border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em white inset;box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em #fff inset;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
 .keyseq kbd:first-child{margin-left:0}
@@ -516,7 +517,8 @@ The &lt;name&gt; is expected in the same format as listed by
 <p>Note that omitting the <code>=</code> in <code>git -c foo.bar ...</code> is allowed and sets
 <code>foo.bar</code> to the boolean true value (just like <code>[foo]bar</code> would in a
 config file). Including the equals but with an empty value (like <code>git -c
-foo.bar= ...</code>) sets <code>foo.bar</code> to the empty string.</p>
+foo.bar= ...</code>) sets <code>foo.bar</code> to the empty string which <code>git config
+--bool</code> will convert to <code>false</code>.</p>
 </div>
 </dd>
 <dt class="hdlist1">--exec-path[=&lt;path&gt;]</dt>
@@ -615,6 +617,11 @@ magic ":(glob)"</p>
 <dd>
 <p>Add "icase" magic to all pathspec. This is equivalent to setting
 the <code>GIT_ICASE_PATHSPECS</code> environment variable to <code>1</code>.</p>
+</dd>
+<dt class="hdlist1">--no-optional-locks</dt>
+<dd>
+<p>Do not perform optional operations that require locks. This is
+equivalent to setting the <code>GIT_OPTIONAL_LOCKS</code> to <code>0</code>.</p>
 </dd>
 </dl>
 </div>
@@ -833,10 +840,6 @@ ancillary user utilities.</p>
 <dt class="hdlist1"><a href="git-reflog.html">git-reflog</a>(1)</dt>
 <dd>
 <p>Manage reflog information.</p>
-</dd>
-<dt class="hdlist1"><a href="git-relink.html">git-relink</a>(1)</dt>
-<dd>
-<p>Hardlink common objects in local repositories.</p>
 </dd>
 <dt class="hdlist1"><a href="git-remote.html">git-remote</a>(1)</dt>
 <dd>
@@ -1269,7 +1272,7 @@ users typically do not use them directly.</p>
 </dd>
 <dt class="hdlist1"><a href="git-interpret-trailers.html">git-interpret-trailers</a>(1)</dt>
 <dd>
-<p>help add structured information into commit messages.</p>
+<p>add or parse structured information in commit messages.</p>
 </dd>
 <dt class="hdlist1"><a href="git-mailinfo.html">git-mailinfo</a>(1)</dt>
 <dd>
@@ -1481,6 +1484,15 @@ archived into shared, read-only directories. This variable
 specifies a ":" separated (on Windows ";" separated) list
 of Git object directories which can be used to search for Git
 objects. New objects will not be written to these directories.</p>
+<div class="literalblock">
+<div class="content">
+<pre>Entries that begin with `"` (double-quote) will be interpreted
+as C-style quoted paths, removing leading and trailing
+double-quotes and respecting backslash escapes. E.g., the value
+`"path-with-\"-and-:-in-it":vanilla-path` has two paths:
+`path-with-"-and-:-in-it` and `vanilla-path`.</pre>
+</div>
+</div>
 </dd>
 <dt class="hdlist1"><code>GIT_DIR</code></dt>
 <dd>
@@ -1670,6 +1682,13 @@ personal <code>.ssh/config</code> file.  Please consult your ssh documentation
 for further details.</p>
 </div>
 </dd>
+<dt class="hdlist1"><code>GIT_SSH_VARIANT</code></dt>
+<dd>
+<p>If this environment variable is set, it overrides Git&#8217;s autodetection
+whether <code>GIT_SSH</code>/<code>GIT_SSH_COMMAND</code>/<code>core.sshCommand</code> refer to OpenSSH,
+plink or tortoiseplink. This variable overrides the config setting
+<code>ssh.variant</code> that serves the same purpose.</p>
+</dd>
 <dt class="hdlist1"><code>GIT_ASKPASS</code></dt>
 <dd>
 <p>If this environment variable is set, then Git commands which need to
@@ -1837,37 +1856,48 @@ cloning a repository to make a backup).</p>
 </dd>
 <dt class="hdlist1"><code>GIT_ALLOW_PROTOCOL</code></dt>
 <dd>
-<p>If set, provide a colon-separated list of protocols which are
-allowed to be used with fetch/push/clone. This is useful to
-restrict recursive submodule initialization from an untrusted
-repository. Any protocol not mentioned will be disallowed (i.e.,
-this is a whitelist, not a blacklist). If the variable is not
-set at all, all protocols are enabled.  The protocol names
-currently used by git are:</p>
-<div class="ulist">
-<ul>
-<li>
-<p><code>file</code>: any local file-based path (including <code>file://</code> URLs,
-or local paths)</p>
-</li>
-<li>
-<p><code>git</code>: the anonymous git protocol over a direct TCP
-connection (or proxy, if configured)</p>
-</li>
-<li>
-<p><code>ssh</code>: git over ssh (including <code>host:path</code> syntax,
-<code>ssh://</code>, etc).</p>
-</li>
-<li>
-<p><code>http</code>: git over http, both "smart http" and "dumb http".
-Note that this does <em>not</em> include <code>https</code>; if you want both,
-you should specify both as <code>http:https</code>.</p>
-</li>
-<li>
-<p>any external helpers are named by their protocol (e.g., use
-<code>hg</code> to allow the <code>git-remote-hg</code> helper)</p>
-</li>
-</ul>
+<p>If set to a colon-separated list of protocols, behave as if
+<code>protocol.allow</code> is set to <code>never</code>, and each of the listed
+protocols has <code>protocol.&lt;name&gt;.allow</code> set to <code>always</code>
+(overriding any existing configuration). In other words, any
+protocol not mentioned will be disallowed (i.e., this is a
+whitelist, not a blacklist). See the description of
+<code>protocol.allow</code> in <a href="git-config.html">git-config</a>(1) for more details.</p>
+</dd>
+<dt class="hdlist1"><code>GIT_PROTOCOL_FROM_USER</code></dt>
+<dd>
+<p>Set to 0 to prevent protocols used by fetch/push/clone which are
+configured to the <code>user</code> state.  This is useful to restrict recursive
+submodule initialization from an untrusted repository or for programs
+which feed potentially-untrusted URLS to git commands.  See
+<a href="git-config.html">git-config</a>(1) for more details.</p>
+</dd>
+<dt class="hdlist1"><code>GIT_OPTIONAL_LOCKS</code></dt>
+<dd>
+<p>If set to <code>0</code>, Git will complete any requested operation without
+performing any optional sub-operations that require taking a lock.
+For example, this will prevent <code>git status</code> from refreshing the
+index as a side effect. This is useful for processes running in
+the background which do not want to cause lock contention with
+other operations on the repository.  Defaults to <code>1</code>.</p>
+</dd>
+<dt class="hdlist1"><code>GIT_REDIRECT_STDIN</code></dt>
+<dt class="hdlist1"><code>GIT_REDIRECT_STDOUT</code></dt>
+<dt class="hdlist1"><code>GIT_REDIRECT_STDERR</code></dt>
+<dd>
+<p>(EXPERIMENTAL) Windows-only: allow redirecting the standard
+input/output/error handles. This is particularly useful in
+multi-threaded applications where the canonical way to pass
+standard handles via <code>CreateProcess()</code> is not an option because
+it would require the handles to be marked inheritable (and
+consequently <strong>every</strong> spawned process would inherit them, possibly
+blocking regular Git operations). The primary intended use case
+is to use named pipes for communication.</p>
+<div class="paragraph">
+<p>Two special values are supported: <code>off</code> will simply close the
+corresponding standard handle, and if <code>GIT_REDIRECT_STDERR</code> is
+<code>2&gt;&amp;1</code>, standard error will be redirected to the same handle as
+standard output.</p>
 </div>
 </dd>
 </dl>
@@ -2018,7 +2048,7 @@ subscribed to the list to send a message there.</p>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2016-12-01 11:44:08 W. Europe Standard Time
+Last updated 2017-10-30 09:58:44 Coordinated Universal Time
 </div>
 </div>
 </body>

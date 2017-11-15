@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 1.5.4">
+<meta name="generator" content="Asciidoctor 1.5.5">
 <title>git-diff-files(1)</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
@@ -17,7 +17,6 @@ audio:not([controls]){display:none;height:0}
 [hidden],template{display:none}
 script{display:none!important}
 html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
-body{margin:0}
 a{background:transparent}
 a:focus{outline:thin dotted}
 a:active,a:hover{outline:0}
@@ -52,7 +51,7 @@ textarea{overflow:auto;vertical-align:top}
 table{border-collapse:collapse;border-spacing:0}
 *,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
 html,body{font-size:100%}
-body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto}
+body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto;tab-size:4;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}
 a:hover{cursor:pointer}
 img,object,embed{max-width:100%;height:auto}
 object,embed{height:100%}
@@ -64,7 +63,6 @@ img{-ms-interpolation-mode:bicubic}
 .text-center{text-align:center!important}
 .text-justify{text-align:justify!important}
 .hide{display:none}
-body{-webkit-font-smoothing:antialiased}
 img,object,svg{display:inline-block;vertical-align:middle}
 textarea{height:auto;min-height:50px}
 select{width:100%}
@@ -119,13 +117,16 @@ table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:
 table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
 table tr.even,table tr.alt,table tr:nth-of-type(even){background:#f8f8f7}
 table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{display:table-cell;line-height:1.6}
-body{tab-size:4}
 h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
 h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
 .clearfix:before,.clearfix:after,.float-group:before,.float-group:after{content:" ";display:table}
 .clearfix:after,.float-group:after{clear:both}
-*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
+*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed;word-wrap:break-word}
+*:not(pre)>code.nobreak{word-wrap:normal}
+*:not(pre)>code.nowrap{white-space:nowrap}
 pre,pre>code{line-height:1.45;color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;text-rendering:optimizeSpeed}
+em em{font-style:normal}
+strong strong{font-weight:400}
 .keyseq{color:rgba(51,51,51,.8)}
 kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background-color:#f7f7f7;border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em white inset;box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em #fff inset;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
 .keyseq kbd:first-child{margin-left:0}
@@ -480,8 +481,6 @@ This is the default.</p>
 </dd>
 <dt class="hdlist1">--indent-heuristic</dt>
 <dt class="hdlist1">--no-indent-heuristic</dt>
-<dt class="hdlist1">--compaction-heuristic</dt>
-<dt class="hdlist1">--no-compaction-heuristic</dt>
 <dd>
 <p>These are to help debugging and tuning experimental heuristics
 (which are off by default) that shift diff hunk boundaries to
@@ -644,10 +643,9 @@ such as creations, renames and mode changes.</p>
 <p>When <code>--raw</code>, <code>--numstat</code>, <code>--name-only</code> or <code>--name-status</code> has been
 given, do not munge pathnames and use NULs as output field terminators.</p>
 <div class="paragraph">
-<p>Without this option, each pathname output will have TAB, LF, double quotes,
-and backslash characters replaced with <code>\t</code>, <code>\n</code>, <code>\"</code>, and <code>\\</code>,
-respectively, and the pathname will be enclosed in double quotes if
-any of those replacements occurred.</p>
+<p>Without this option, pathnames with "unusual" characters are quoted as
+explained for the configuration variable <code>core.quotePath</code> (see
+<a href="git-config.html">git-config</a>(1)).</p>
 </div>
 </dd>
 <dt class="hdlist1">--name-only</dt>
@@ -682,6 +680,53 @@ if the config option is unset.</p>
 <dd>
 <p>Turn off colored diff.
 It is the same as <code>--color=never</code>.</p>
+</dd>
+<dt class="hdlist1">--color-moved[=&lt;mode&gt;]</dt>
+<dd>
+<p>Moved lines of code are colored differently.
+The &lt;mode&gt; defaults to <em>no</em> if the option is not given
+and to <em>zebra</em> if the option with no mode is given.
+The mode must be one of:</p>
+<div class="openblock">
+<div class="content">
+<div class="dlist">
+<dl>
+<dt class="hdlist1">no</dt>
+<dd>
+<p>Moved lines are not highlighted.</p>
+</dd>
+<dt class="hdlist1">default</dt>
+<dd>
+<p>Is a synonym for <code>zebra</code>. This may change to a more sensible mode
+in the future.</p>
+</dd>
+<dt class="hdlist1">plain</dt>
+<dd>
+<p>Any line that is added in one location and was removed
+in another location will be colored with <em>color.diff.newMoved</em>.
+Similarly <em>color.diff.oldMoved</em> will be used for removed lines
+that are added somewhere else in the diff. This mode picks up any
+moved line, but it is not very useful in a review to determine
+if a block of code was moved without permutation.</p>
+</dd>
+<dt class="hdlist1">zebra</dt>
+<dd>
+<p>Blocks of moved text of at least 20 alphanumeric characters
+are detected greedily. The detected blocks are
+painted using either the <em>color.diff.{old,new}Moved</em> color or
+<em>color.diff.{old,new}MovedAlternative</em>. The change between
+the two colors indicates that a new block was detected.</p>
+</dd>
+<dt class="hdlist1">dimmed_zebra</dt>
+<dd>
+<p>Similar to <em>zebra</em>, but additional dimming of uninteresting parts
+of moved code is performed. The bordering lines of two adjacent
+blocks are considered interesting, the rest is uninteresting.</p>
+</dd>
+</dl>
+</div>
+</div>
+</div>
 </dd>
 <dt class="hdlist1">--word-diff[=&lt;mode&gt;]</dt>
 <dd>
@@ -773,15 +818,14 @@ with --exit-code.</p>
 </dd>
 <dt class="hdlist1">--ws-error-highlight=&lt;kind&gt;</dt>
 <dd>
-<p>Highlight whitespace errors on lines specified by &lt;kind&gt;
-in the color specified by <code>color.diff.whitespace</code>.  &lt;kind&gt;
-is a comma separated list of <code>old</code>, <code>new</code>, <code>context</code>.  When
-this option is not given, only whitespace errors in <code>new</code>
-lines are highlighted.  E.g. <code>--ws-error-highlight=new,old</code>
-highlights whitespace errors on both deleted and added lines.
-<code>all</code> can be used as a short-hand for <code>old,new,context</code>.
-The <code>diff.wsErrorHighlight</code> configuration variable can be
-used to specify the default behaviour.</p>
+<p>Highlight whitespace errors in the <code>context</code>, <code>old</code> or <code>new</code>
+lines of the diff.  Multiple values are separated by comma,
+<code>none</code> resets previous values, <code>default</code> reset the list to
+<code>new</code> and <code>all</code> is a shorthand for <code>old,new,context</code>.  When
+this option is not given, and the configuration variable
+<code>diff.wsErrorHighlight</code> is not set, only whitespace errors in
+<code>new</code> lines are highlighted. The whitespace errors are colored
+whith <code>color.diff.whitespace</code>.</p>
 </dd>
 <dt class="hdlist1">--full-index</dt>
 <dd>
@@ -866,7 +910,7 @@ projects, so use it with caution.  Giving more than one
 the diff between the preimage and <code>/dev/null</code>. The resulting patch
 is not meant to be applied with <code>patch</code> or <code>git apply</code>; this is
 solely for people who want to just concentrate on reviewing the
-text after the change. In addition, the output obviously lack
+text after the change. In addition, the output obviously lacks
 enough information to apply such a patch in reverse, even manually,
 hence the name of the option.</p>
 <div class="paragraph">
@@ -951,11 +995,53 @@ expression to match.</p>
 </dd>
 <dt class="hdlist1">-O&lt;orderfile&gt;</dt>
 <dd>
-<p>Output the patch in the order specified in the
-&lt;orderfile&gt;, which has one shell glob pattern per line.
+<p>Control the order in which files appear in the output.
 This overrides the <code>diff.orderFile</code> configuration variable
 (see <a href="git-config.html">git-config</a>(1)).  To cancel <code>diff.orderFile</code>,
 use <code>-O/dev/null</code>.</p>
+<div class="paragraph">
+<p>The output order is determined by the order of glob patterns in
+&lt;orderfile&gt;.
+All files with pathnames that match the first pattern are output
+first, all files with pathnames that match the second pattern (but not
+the first) are output next, and so on.
+All files with pathnames that do not match any pattern are output
+last, as if there was an implicit match-all pattern at the end of the
+file.
+If multiple pathnames have the same rank (they match the same pattern
+but no earlier patterns), their output order relative to each other is
+the normal order.</p>
+</div>
+<div class="paragraph">
+<p>&lt;orderfile&gt; is parsed as follows:</p>
+</div>
+<div class="openblock">
+<div class="content">
+<div class="ulist">
+<ul>
+<li>
+<p>Blank lines are ignored, so they can be used as separators for
+readability.</p>
+</li>
+<li>
+<p>Lines starting with a hash ("<code>#</code>") are ignored, so they can be used
+for comments.  Add a backslash ("<code>\</code>") to the beginning of the
+pattern if it starts with a hash.</p>
+</li>
+<li>
+<p>Each other line contains a single pattern.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Patterns have the same syntax and semantics as patterns used for
+fnmantch(3) without the FNM_PATHNAME flag, except a pathname also
+matches a pattern if removing any number of the final pathname
+components matches the pattern.  For example, the pattern "<code>foo*bar</code>"
+matches "<code>fooasdfbar</code>" and "<code>foo/bar/baz/asdf</code>" but not "<code>foobarx</code>".</p>
+</div>
 </dd>
 <dt class="hdlist1">-R</dt>
 <dd>
@@ -1001,7 +1087,9 @@ line has none.</p>
 <dt class="hdlist1">--inter-hunk-context=&lt;lines&gt;</dt>
 <dd>
 <p>Show the context between diff hunks, up to the specified number
-of lines, thereby fusing hunks that are close to each other.</p>
+of lines, thereby fusing hunks that are close to each other.
+Defaults to <code>diff.interHunkContext</code> or 0 if the config option
+is unset.</p>
 </dd>
 <dt class="hdlist1">-W</dt>
 <dt class="hdlist1">--function-context</dt>
@@ -1269,9 +1357,10 @@ and it is out of sync with the index.</p>
 </div>
 </div>
 <div class="paragraph">
-<p>When <code>-z</code> option is not used, TAB, LF, and backslash characters
-in pathnames are represented as <code>\t</code>, <code>\n</code>, and <code>\\</code>,
-respectively.</p>
+<p>Without the <code>-z</code> option, pathnames with "unusual" characters are
+quoted as explained for the configuration variable <code>core.quotePath</code>
+(see <a href="git-config.html">git-config</a>(1)).  Using <code>-z</code> the filename is output
+verbatim and the line is terminated by a NUL byte.</p>
 </div>
 </div>
 </div>
@@ -1391,10 +1480,9 @@ separate lines indicate the old and the new mode.</p>
 </div>
 </li>
 <li>
-<p>TAB, LF, double quote and backslash characters in pathnames
-are represented as <code>\t</code>, <code>\n</code>, <code>\"</code> and <code>\\</code>, respectively.
-If there is need for such substitution then the whole
-pathname is put in double quotes.</p>
+<p>Pathnames with "unusual" characters are quoted as explained for
+the configuration variable <code>core.quotePath</code> (see
+<a href="git-config.html">git-config</a>(1)).</p>
 </li>
 <li>
 <p>All the <code>file1</code> files in the output refer to files before the
@@ -1683,7 +1771,7 @@ the pathname, but if that is <code>NUL</code>, the record will show two paths.</
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2016-12-01 11:44:08 W. Europe Standard Time
+Last updated 2017-10-30 09:58:44 Coordinated Universal Time
 </div>
 </div>
 </body>

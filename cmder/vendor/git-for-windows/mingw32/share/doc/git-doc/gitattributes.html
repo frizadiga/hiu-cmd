@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 1.5.4">
+<meta name="generator" content="Asciidoctor 1.5.5">
 <title>gitattributes(5)</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
@@ -17,7 +17,6 @@ audio:not([controls]){display:none;height:0}
 [hidden],template{display:none}
 script{display:none!important}
 html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
-body{margin:0}
 a{background:transparent}
 a:focus{outline:thin dotted}
 a:active,a:hover{outline:0}
@@ -52,7 +51,7 @@ textarea{overflow:auto;vertical-align:top}
 table{border-collapse:collapse;border-spacing:0}
 *,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
 html,body{font-size:100%}
-body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto}
+body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto;tab-size:4;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}
 a:hover{cursor:pointer}
 img,object,embed{max-width:100%;height:auto}
 object,embed{height:100%}
@@ -64,7 +63,6 @@ img{-ms-interpolation-mode:bicubic}
 .text-center{text-align:center!important}
 .text-justify{text-align:justify!important}
 .hide{display:none}
-body{-webkit-font-smoothing:antialiased}
 img,object,svg{display:inline-block;vertical-align:middle}
 textarea{height:auto;min-height:50px}
 select{width:100%}
@@ -119,13 +117,16 @@ table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:
 table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
 table tr.even,table tr.alt,table tr:nth-of-type(even){background:#f8f8f7}
 table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{display:table-cell;line-height:1.6}
-body{tab-size:4}
 h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
 h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
 .clearfix:before,.clearfix:after,.float-group:before,.float-group:after{content:" ";display:table}
 .clearfix:after,.float-group:after{clear:both}
-*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
+*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed;word-wrap:break-word}
+*:not(pre)>code.nobreak{word-wrap:normal}
+*:not(pre)>code.nowrap{white-space:nowrap}
 pre,pre>code{line-height:1.45;color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;text-rendering:optimizeSpeed}
+em em{font-style:normal}
+strong strong{font-weight:400}
 .keyseq{color:rgba(51,51,51,.8)}
 kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background-color:#f7f7f7;border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em white inset;box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em #fff inset;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
 .keyseq kbd:first-child{margin-left:0}
@@ -451,9 +452,11 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </div>
 <div class="paragraph">
 <p>That is, a pattern followed by an attributes list,
-separated by whitespaces.  When the pattern matches the
-path in question, the attributes listed on the line are given to
-the path.</p>
+separated by whitespaces. Leading and trailing whitespaces are
+ignored. Lines that begin with <em>#</em> are ignored. Patterns
+that begin with a double quote are quoted in C style.
+When the pattern matches the path in question, the attributes
+listed on the line are given to the path.</p>
 </div>
 <div class="paragraph">
 <p>Each attribute can be in one of these states for a given path:</p>
@@ -526,7 +529,7 @@ Attributes for all users on a system should be placed in the
 <code>$(prefix)/etc/gitattributes</code> file.</p>
 </div>
 <div class="paragraph">
-<p>Sometimes you would need to override an setting of an attribute
+<p>Sometimes you would need to override a setting of an attribute
 for a path to <code>Unspecified</code> state.  This can be done by listing
 the name of the attribute prefixed with an exclamation point <code>!</code>.</p>
 </div>
@@ -597,7 +600,10 @@ unspecified.</p>
 <div class="paragraph">
 <p>This attribute sets a specific line-ending style to be used in the
 working directory.  It enables end-of-line conversion without any
-content checks, effectively setting the <code>text</code> attribute.</p>
+content checks, effectively setting the <code>text</code> attribute.  Note that
+setting this attribute on paths which are in the index with CRLF line
+endings may make the paths to be considered dirty.  Adding the path to
+the index again will normalize the line endings in the index.</p>
 </div>
 <div class="dlist">
 <dl>
@@ -701,11 +707,9 @@ containing CRLFs should be normalized.
 <div class="listingblock">
 <div class="content">
 <pre>$ echo "* text=auto" &gt;.gitattributes
-$ rm .git/index     # Remove the index to force Git to
-$ git reset         # re-scan the working directory
+$ git read-tree --empty   # Clean index, force re-scan of working directory
+$ git add .
 $ git status        # Show files that will be normalized
-$ git add -u
-$ git add .gitattributes
 $ git commit -m "Introduce end-of-line normalization"</pre>
 </div>
 </div>
@@ -934,8 +938,8 @@ packet:          git&lt; 0000</pre>
 </div>
 </div>
 <div class="paragraph">
-<p>Supported filter capabilities in version 2 are "clean" and
-"smudge".</p>
+<p>Supported filter capabilities in version 2 are "clean", "smudge",
+and "delay".</p>
 </div>
 <div class="paragraph">
 <p>Afterwards Git sends a list of "key=value" pairs terminated with
@@ -945,7 +949,9 @@ to filter relative to the repository root. Right after the flush packet
 Git sends the content split in zero or more pkt-line packets and a
 flush packet to terminate content. Please note, that the filter
 must not send any response before it received the content and the
-final flush packet.</p>
+final flush packet. Also note that the "value" of a "key=value" pair
+can contain the "=" character whereas the key would never contain
+that character.</p>
 </div>
 <div class="listingblock">
 <div class="content">
@@ -1039,12 +1045,81 @@ with the next file that needs to be processed. Depending on the
 <code>filter.&lt;driver&gt;.required</code> flag Git will interpret that as error.</p>
 </div>
 <div class="paragraph">
-<p>After the filter has processed a blob it is expected to wait for
-the next "key=value" list containing a command. Git will close
+<p>After the filter has processed a command it is expected to wait for
+a "key=value" list containing the next command. Git will close
 the command pipe on exit. The filter is expected to detect EOF
 and exit gracefully on its own. Git will wait until the filter
 process has stopped.</p>
 </div>
+</div>
+<div class="sect3">
+<h4 id="_delay">Delay</h4>
+<div class="paragraph">
+<p>If the filter supports the "delay" capability, then Git can send the
+flag "can-delay" after the filter command and pathname. This flag
+denotes that the filter can delay filtering the current blob (e.g. to
+compensate network latencies) by responding with no content but with
+the status "delayed" and a flush packet.</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>packet:          git&gt; command=smudge
+packet:          git&gt; pathname=path/testfile.dat
+packet:          git&gt; can-delay=1
+packet:          git&gt; 0000
+packet:          git&gt; CONTENT
+packet:          git&gt; 0000
+packet:          git&lt; status=delayed
+packet:          git&lt; 0000</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>If the filter supports the "delay" capability then it must support the
+"list_available_blobs" command. If Git sends this command, then the
+filter is expected to return a list of pathnames representing blobs
+that have been delayed earlier and are now available.
+The list must be terminated with a flush packet followed
+by a "success" status that is also terminated with a flush packet. If
+no blobs for the delayed paths are available, yet, then the filter is
+expected to block the response until at least one blob becomes
+available. The filter can tell Git that it has no more delayed blobs
+by sending an empty list. As soon as the filter responds with an empty
+list, Git stops asking. All blobs that Git has not received at this
+point are considered missing and will result in an error.</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>packet:          git&gt; command=list_available_blobs
+packet:          git&gt; 0000
+packet:          git&lt; pathname=path/testfile.dat
+packet:          git&lt; pathname=path/otherfile.dat
+packet:          git&lt; 0000
+packet:          git&lt; status=success
+packet:          git&lt; 0000</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>After Git received the pathnames, it will request the corresponding
+blobs again. These requests contain a pathname and an empty content
+section. The filter is expected to respond with the smudged content
+in the usual way as explained above.</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>packet:          git&gt; command=smudge
+packet:          git&gt; pathname=path/testfile.dat
+packet:          git&gt; 0000
+packet:          git&gt; 0000  # empty content!
+packet:          git&lt; status=success
+packet:          git&lt; 0000
+packet:          git&lt; SMUDGED_CONTENT
+packet:          git&lt; 0000
+packet:          git&lt; 0000  # empty list, keep "status=success" unchanged!</pre>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_example">Example</h4>
 <div class="paragraph">
 <p>A long running filter demo implementation can be found in
 <code>contrib/long-running-filter/example.pl</code> located in the Git
@@ -1744,7 +1819,7 @@ to:</p>
 </div>
 </div>
 <div class="sect1">
-<h2 id="_example">EXAMPLE</h2>
+<h2 id="_example_2">EXAMPLE</h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>If you have these three <code>gitattributes</code> file:</p>
@@ -1824,7 +1899,7 @@ frotz	unspecified</pre>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2016-12-01 11:44:08 W. Europe Standard Time
+Last updated 2017-10-30 09:58:44 Coordinated Universal Time
 </div>
 </div>
 </body>

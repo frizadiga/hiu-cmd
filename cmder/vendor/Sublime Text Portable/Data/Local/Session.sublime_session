@@ -1,14 +1,15 @@
 {
 	"folder_history":
 	[
+		"/D/hiuSoft/Application/PROGRAMMING/cmder",
 		"/A/hiuData/hiuWEB/AppJS/playground"
 	],
 	"last_version": 3143,
-	"last_window_id": 95,
+	"last_window_id": 97,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 804.0,
+		"new_window_height": 795.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -612,7 +613,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 430.0
+				"width": 462.0
 			},
 			"console":
 			{
@@ -632,7 +633,13 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-project",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cma.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/gt.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bt.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/fbs.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/Backup.postman_dump.json",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pscd.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pcd.vbs",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/n.cmd",
@@ -674,12 +681,10 @@
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-hiuproperty.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-aliases.cmd",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/index.js",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-vue.cmd",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/routes.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hs.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bde.cmd",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/router.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/mainPage.vue",
@@ -755,11 +760,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/floating-search-card.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/navbar-search.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-booking.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Listings.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs"
 			],
 			"find":
 			{
@@ -987,6 +988,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"ndm",
+						"cmder\\bin\\ndm.cmd"
+					],
 					[
 						"routes",
 						"hiu-land-api\\config\\routes.js"
@@ -1494,10 +1499,6 @@
 					[
 						"user-f",
 						"views\\dashboards\\user-form.ejs"
-					],
-					[
-						"listing-fr",
-						"views\\dashboards\\listing-form.ejs"
 					]
 				],
 				"width": 0.0
@@ -1510,7 +1511,7 @@
 				[
 					[
 						"",
-						"D:\\hiuSoft\\Application\\hiuEnvironment\\cmder\\vendor\\Sublime Text Portable\\hiuEnvironment.sublime-project"
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiu-land.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -1534,7 +1535,7 @@
 			{
 			}
 		},
-		"new_window_width": 973.0
+		"new_window_width": 957.0
 	},
 	"windows":
 	[
@@ -2141,7 +2142,7 @@
 						"Preferences: Package Control Settings – Default"
 					]
 				],
-				"width": 430.0
+				"width": 462.0
 			},
 			"console":
 			{
@@ -2161,7 +2162,13 @@
 			},
 			"file_history":
 			[
-				"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-project",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cma.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/gt.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bt.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/fbs.cmd",
+				"/D/hiuSoft/Application/hiuEnvironment/Backup.postman_dump.json",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pscd.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pcd.vbs",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/n.cmd",
@@ -2203,12 +2210,10 @@
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cd-hiuproperty.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/config/user-aliases.cmd",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuProperty/hiuProperty-vue/config/index.js",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/sd.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/f7-vue.cmd",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/routes.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/f7-vue/src/main.js",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/hs.cmd",
-				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/ndm.cmd",
 				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin/bde.cmd",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/router.js",
 				"/A/hiuData/hiuWEB/AppJS/vue/q-pwa/src/components/mainPage.vue",
@@ -2284,11 +2289,7 @@
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/floating-search-card.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/filter-options-listings.ejs",
 				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/navbar-search.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-booking.ejs",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/api/models/Listings.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/connections.js",
-				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/config/models.js"
+				"/A/hiuData/hiuWEB/AppJS/-hiuApps/hiuSIG/hiuSIG-sails/views/partials/modal-agent-message.ejs"
 			],
 			"find":
 			{
@@ -2508,6 +2509,12 @@
 						0,
 						1,
 						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
 					]
 				],
 				"cols":
@@ -2518,6 +2525,7 @@
 				"rows":
 				[
 					0.0,
+					0.5,
 					1.0
 				]
 			},
@@ -2527,7 +2535,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,847,1612,-16,2601",
+			"position": "0,0,1,-1,-1,-1,-1,843,1612,-11,2585",
 			"replace":
 			{
 				"height": 102.0
@@ -2539,6 +2547,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"ndm",
+						"cmder\\bin\\ndm.cmd"
+					],
 					[
 						"routes",
 						"hiu-land-api\\config\\routes.js"
@@ -3046,10 +3058,6 @@
 					[
 						"user-f",
 						"views\\dashboards\\user-form.ejs"
-					],
-					[
-						"listing-fr",
-						"views\\dashboards\\listing-form.ejs"
 					]
 				],
 				"width": 0.0
@@ -3062,7 +3070,7 @@
 				[
 					[
 						"",
-						"D:\\hiuSoft\\Application\\hiuEnvironment\\cmder\\vendor\\Sublime Text Portable\\hiuEnvironment.sublime-project"
+						"A:\\hiuData\\hiuWEB\\AppJS\\hiu-land.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -3095,9 +3103,9 @@
 	{
 		"recent_workspaces":
 		[
+			"/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/hiuEnvironment.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/hiu-land.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/playground.sublime-workspace",
-			"/D/hiuSoft/Application/hiuEnvironment/cmder/vendor/Sublime Text Portable/hiuEnvironment.sublime-workspace",
 			"/A/hiuData/hiuWEB/AppJS/1.sublime-workspace"
 		]
 	}

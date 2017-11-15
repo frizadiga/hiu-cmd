@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 1.5.4">
+<meta name="generator" content="Asciidoctor 1.5.5">
 <title>git-rev-parse(1)</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
@@ -17,7 +17,6 @@ audio:not([controls]){display:none;height:0}
 [hidden],template{display:none}
 script{display:none!important}
 html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
-body{margin:0}
 a{background:transparent}
 a:focus{outline:thin dotted}
 a:active,a:hover{outline:0}
@@ -52,7 +51,7 @@ textarea{overflow:auto;vertical-align:top}
 table{border-collapse:collapse;border-spacing:0}
 *,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
 html,body{font-size:100%}
-body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto}
+body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto;tab-size:4;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}
 a:hover{cursor:pointer}
 img,object,embed{max-width:100%;height:auto}
 object,embed{height:100%}
@@ -64,7 +63,6 @@ img{-ms-interpolation-mode:bicubic}
 .text-center{text-align:center!important}
 .text-justify{text-align:justify!important}
 .hide{display:none}
-body{-webkit-font-smoothing:antialiased}
 img,object,svg{display:inline-block;vertical-align:middle}
 textarea{height:auto;min-height:50px}
 select{width:100%}
@@ -119,13 +117,16 @@ table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:
 table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
 table tr.even,table tr.alt,table tr:nth-of-type(even){background:#f8f8f7}
 table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{display:table-cell;line-height:1.6}
-body{tab-size:4}
 h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
 h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
 .clearfix:before,.clearfix:after,.float-group:before,.float-group:after{content:" ";display:table}
 .clearfix:after,.float-group:after{clear:both}
-*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
+*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed;word-wrap:break-word}
+*:not(pre)>code.nobreak{word-wrap:normal}
+*:not(pre)>code.nowrap{white-space:nowrap}
 pre,pre>code{line-height:1.45;color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;text-rendering:optimizeSpeed}
+em em{font-style:normal}
+strong strong{font-weight:400}
 .keyseq{color:rgba(51,51,51,.8)}
 kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background-color:#f7f7f7;border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em white inset;box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em #fff inset;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
 .keyseq kbd:first-child{margin-left:0}
@@ -542,7 +543,8 @@ repository.  For example:</p>
 <div class="content">
 <pre>prefix=$(git rev-parse --show-prefix)
 cd "$(git rev-parse --show-toplevel)"
-eval "set -- $(git rev-parse --sq --prefix "$prefix" "$@")"</pre>
+# rev-parse provides the -- needed for 'set'
+eval "set $(git rev-parse --sq --prefix "$prefix" -- "$@")"</pre>
 </div>
 </div>
 </dd>
@@ -581,6 +583,13 @@ newlines (e.g. when using pickaxe <code>-S</code> with
 <em>git diff-*</em>). In contrast to the <code>--sq-quote</code> option,
 the command input is still interpreted as usual.</p>
 </dd>
+<dt class="hdlist1">--short[=length]</dt>
+<dd>
+<p>Same as <code>--verify</code> but shortens the object name to a unique
+prefix with at least <code>length</code> characters. The minimum length
+is 4, the default is the effective value of the <code>core.abbrev</code>
+configuration variable (see <a href="git-config.html">git-config</a>(1)).</p>
+</dd>
 <dt class="hdlist1">--not</dt>
 <dd>
 <p>When showing object names, prefix them with <em>^</em> and
@@ -592,13 +601,6 @@ one.</p>
 <p>A non-ambiguous short name of the objects name.
 The option core.warnAmbiguousRefs is used to select the strict
 abbreviation mode.</p>
-</dd>
-<dt class="hdlist1">--short</dt>
-<dt class="hdlist1">--short=number</dt>
-<dd>
-<p>Instead of outputting the full SHA-1 values of object names try to
-abbreviate them to a shorter unique name. When no length is specified
-7 is used. The minimum length is 4.</p>
 </dd>
 <dt class="hdlist1">--symbolic</dt>
 <dd>
@@ -695,6 +697,11 @@ is not detected to lie in a Git repository or work tree
 print a message to stderr and exit with nonzero status.</p>
 </div>
 </dd>
+<dt class="hdlist1">--absolute-git-dir</dt>
+<dd>
+<p>Like <code>--git-dir</code>, but its output is always the canonicalized
+absolute path.</p>
+</dd>
 <dt class="hdlist1">--git-common-dir</dt>
 <dd>
 <p>Show <code>$GIT_COMMON_DIR</code> if defined, else <code>$GIT_DIR</code>.</p>
@@ -712,6 +719,10 @@ repository print "true", otherwise "false".</p>
 <dt class="hdlist1">--is-bare-repository</dt>
 <dd>
 <p>When the repository is bare print "true", otherwise "false".</p>
+</dd>
+<dt class="hdlist1">--is-shallow-repository</dt>
+<dd>
+<p>When the repository is shallow print "true", otherwise "false".</p>
 </dd>
 <dt class="hdlist1">--resolve-git-dir &lt;path&gt;</dt>
 <dd>
@@ -743,6 +754,13 @@ directory.</p>
 <dt class="hdlist1">--show-toplevel</dt>
 <dd>
 <p>Show the absolute path of the top-level directory.</p>
+</dd>
+<dt class="hdlist1">--show-superproject-working-tree</dt>
+<dd>
+<p>Show the absolute path of the root of the superproject&#8217;s
+working tree (if exists) that uses the current repository as
+its submodule.  Outputs nothing if the current repository is
+not used as a submodule by any project.</p>
 </dd>
 <dt class="hdlist1">--shared-index-path</dt>
 <dd>
@@ -899,7 +917,8 @@ before the current one.</p>
 refers to the branch that the branch specified by branchname is set to build on
 top of (configured with <code>branch.&lt;name&gt;.remote</code> and
 <code>branch.&lt;name&gt;.merge</code>).  A missing branchname defaults to the
-current one.</p>
+current one. These suffixes are also accepted when spelled in uppercase, and
+they mean the same thing no matter the case.</p>
 </dd>
 <dt class="hdlist1"><em>&lt;branchname&gt;@{push}</em>, e.g. <em>master@{push}</em>, <em>@{push}</em></dt>
 <dd>
@@ -928,6 +947,10 @@ refs/remotes/myfork/mybranch</pre>
 <p>Note in the example that we set up a triangular workflow, where we pull
 from one location and push to another. In a non-triangular workflow,
 <em>@{push}</em> is the same as <em>@{upstream}</em>, and there is no need for it.</p>
+</div>
+<div class="paragraph">
+<p>This suffix is also accepted when spelled in uppercase, and means the same
+thing no matter the case.</p>
 </div>
 </dd>
 <dt class="hdlist1"><em>&lt;rev&gt;^</em>, e.g. <em>HEAD^, v1.5.1^0</em></dt>
@@ -1134,7 +1157,7 @@ for naming a set that is formed by a commit and its parent commits.</p>
 By itself, this notation denotes the single commit <em>r1</em>.</p>
 </div>
 <div class="paragraph">
-<p>The <em>&lt;rev&gt;^-{&lt;n&gt;}</em> notation includes <em>&lt;rev&gt;</em> but excludes the &lt;n&gt;th
+<p>The <em>&lt;rev&gt;^-&lt;n&gt;</em> notation includes <em>&lt;rev&gt;</em> but excludes the &lt;n&gt;th
 parent (i.e. a shorthand for <em>&lt;rev&gt;^&lt;n&gt;..&lt;rev&gt;</em>), with <em>&lt;n&gt;</em> = 1 if
 not given. This is typically useful for merge commits where you
 can just pass <em>&lt;commit&gt;^-</em> to get all the commits in the branch
@@ -1188,7 +1211,7 @@ its parents, but not the commit itself).</p>
 as giving commit <em>&lt;rev&gt;</em> and then all its parents prefixed with
 <em>^</em> to exclude them (and their ancestors).</p>
 </dd>
-<dt class="hdlist1"><em>&lt;rev&gt;^-{&lt;n&gt;}</em>, e.g. <em>HEAD^-, HEAD^-2</em></dt>
+<dt class="hdlist1"><em>&lt;rev&gt;^-&lt;n&gt;</em>, e.g. <em>HEAD^-, HEAD^-2</em></dt>
 <dd>
 <p>Equivalent to <em>&lt;rev&gt;^&lt;n&gt;..&lt;rev&gt;</em>, with <em>&lt;n&gt;</em> = 1 if not
 given.</p>
@@ -1444,7 +1467,7 @@ $ sh your-git-script.sh "a b'c"</pre>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2016-12-01 11:44:08 W. Europe Standard Time
+Last updated 2017-10-30 09:58:44 Coordinated Universal Time
 </div>
 </div>
 </body>
