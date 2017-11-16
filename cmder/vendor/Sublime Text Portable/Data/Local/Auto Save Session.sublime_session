@@ -2070,6 +2070,15 @@
 					}
 				},
 				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/README.md",
+					"settings":
+					{
+						"buffer_size": 137,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
 					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/her.cmd",
 					"settings":
 					{
@@ -2077,14 +2086,6 @@
 						"encoding": "UTF-8",
 						"line_ending": "Windows",
 						"name": "cd/ d \"../%CMDER_ROOT%\""
-					}
-				},
-				{
-					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
-					"settings":
-					{
-						"buffer_size": 151,
-						"line_ending": "Windows"
 					}
 				},
 				{
@@ -2541,7 +2542,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -2569,11 +2570,39 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 137,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										137,
+										137
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
 							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/her.cmd",
 							"semi_transient": false,
 							"settings":
@@ -2602,34 +2631,6 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 151,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										151,
-										151
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
 							"buffer": 3,
 							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pma.cmd",
 							"semi_transient": false,
@@ -2655,7 +2656,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
