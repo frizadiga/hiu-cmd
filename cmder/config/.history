@@ -4896,3 +4896,204 @@ cd/
 chrome --headless --disable-gpu --screenshot https://www.chromestatus.com/
 ls
 chrome --headless --disable-gpu --repl https://www.chromestatus.com/
+title hiu-land-api
+netsh wlan show driver
+dxdiag
+sd -h
+rsx
+git status
+git add .
+npm run dev
+ccd & npm run dev
+cd-appjs
+cd -hiuapps/hiuland/hiu-land-api
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+git add . 
+git commit -m "update"
+ssh
+ping nuxtjs.org
+bt
+n
+npm i vuex axios
+npm up
+npm status
+git commit -m "add & upgrade package"
+vue -v
+vue-cli
+npm i -g vue-cli
+cd ..
+git commit -m "add store"
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+cd..
+cd-playground
+cd playground
+cd f7-v2
+git reset 
+git reset --hard
+git pull
+hs -p 1800
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+pcd & cd.. & cd hiu-land-pwa
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+ cd.. & cd hiu-land-pwa
+ccd & npm run dev
+git commit -m "add controller and model"
+start-xampp
+ccd & start-xampp
+cd-appjs/-hiuapps/hiuland/hiu-land-api
+ndm
+ccd & ndm
+sl
+pcd
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-pwa
+git commit -m "import store"
+cma http://hiupc:1700
+gt
+readme.portable
+lisense.txt
+LISENSE.txt
+notepad LISENSE.txt
+vim lisense.txt
+e.
+npm outdated -g
+sails -v
+npm i -g sails vue-cli nodemon firebase-tools http-server
+npm i -g sails@beta
+nvm ls
+npm uninstall 9.1.0
+nvm uninstall 9.1.0
+e C:\Users\frizadiga\AppData\Roaming\nvm\v9.1.0.
+cmderr
+cls
+e.  cmder/vendor/git-for-windows/
+del  cmder/vendor/git-for-windows/package-lock.json
+del "cmder/vendor/git-for-windows/package-lock.json"
+del "/cmder/vendor/git-for-windows/package-lock.json"
+rm "/cmder/vendor/git-for-windows/package-lock.json"
+cd "/cmder/vendor/git-for-windows/package-lock.json"
+cd "/cmder/vendor/git-for-windows/"
+cd cmder/vendor/git-for-windows/"
+ls
+rm package-lock.json
+git commit -m "add new command"
+appchr http://hiupc:8888 1000 800
+appchr http://localhost:8888/phpmyadmin 1000 800
+appchr http://localhost:8888/phpmyadmin 1300 800
+appchr http://localhost:8888/phpmyadmin 1200 800
+appchr http://localhost:8888/phpmyadmin 1200 850
+appchr http://localhost:8888/phpmyadmin 1200 80%
+appchr http://localhost:8888/phpmyadmin 1100 800
+pma
+d:
+git commit -m "add & rename commands"
+git add .
+git commit -m "add screenshot"
+git add . & git commit -m "add pics readme"
+her
+git status
+git diff
+git status -v
+git commit -a -m "update"
+git push
+a:
+title hiu-land-pwa
+telegram
+xampp-control
+ping gitlab.com
+git
+cd-appjs/-hiuapps/hiuland/hiu-land-api
+ndm
+ccd & ndm
+cd f7-v2
+git reset 
+git reset --hard
+hs -p 1800
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+pcd & cd.. & cd hiu-land-pwa
+ cd.. & cd hiu-land-pwa
+ccd & npm run dev
+git commit -m "add controller and model"
+start-xampp
+ccd & start-xampp
+cd-appjs/-hiuapps/hiuland/hiu-land-api
+ndm
+ccd & ndm
+cd ..
+git commit -m "upgrade cmder -> v 1.3.4"
+git commit -m "update"
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+git pull
+$http.get
+HTTP.get
+_http
+telegram
+chrome --headless --disable-gpu --print-to-pdf https://www.chromestatus.com/
+start C:\Program Files (x86)\Google\Chrome\Application\
+pcd
+cd /d C:\Program Files (x86)\Google\Chrome\Application\
+start .
+a:/
+cd/
+chrome --headless --disable-gpu --screenshot https://www.chromestatus.com/
+chrome --headless --disable-gpu --repl https://www.chromestatus.com/
+cd-appjs
+cd -hiuapps
+cd hiuland/hiu-land-api
+sd -h
+nvm
+nvm install latest
+nvm use 9.2.0
+npm
+explorer C:\Users\frizadiga\AppData\Roaming\nvm\v9.2.0\node_modules\npm\
+e C:\Users\frizadiga\AppData\Roaming\nvm\v9.2.0\node_modules\npm\
+npm i -g npm@latest
+mv npm.cmd "c:\Program Files\nodejs\node_modules\npm\"
+npm -v
+nvm ls
+node -v
+n
+d:
+git commit -m "add new command"
+git blame
+git history
+git log
+a:
+her
+git remote -v
+git remote --help
+git -v
+git --version
+git 
+npm i sails-mysql
+npm i sails-mysql@beta
+git commit -m "add sails-mysql package & setting datastore"
+ping gitlab.com
+sails generate api files
+git add .
+cd api
+cd model
+cd models
+git..
+cd config
+git status models.js
+git diff models.js
+git status -v models.js
+cd..
+git status
+git commit -m "config & add attributes models"
+git push
+xampp-start
+pma
+xampp-control
+ls
+dir
+ssh
+git
