@@ -2064,17 +2064,9 @@
 					"file": "/D/hiuSoft/Application/hiuEnvironment/.gitignore",
 					"settings":
 					{
-						"buffer_size": 1198,
+						"buffer_size": 1278,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cmderr.cmd",
-					"settings":
-					{
-						"buffer_size": 20,
-						"line_ending": "Windows"
 					}
 				},
 				{
@@ -2085,6 +2077,24 @@
 						"encoding": "UTF-8",
 						"line_ending": "Windows",
 						"name": "cd/ d \"../%CMDER_ROOT%\""
+					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
+					"settings":
+					{
+						"buffer_size": 151,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pma.cmd",
+					"settings":
+					{
+						"buffer_size": 83,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": "appchr http://localhost:8888/phpmyadmin 1100 800"
 					}
 				}
 			],
@@ -2531,7 +2541,7 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -2540,15 +2550,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1198,
+								"buffer_size": 1278,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										920,
-										920
+										239,
+										239
 									]
 								],
 								"settings":
@@ -2559,39 +2569,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cmderr.cmd",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 20,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										20,
-										20
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
 							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/her.cmd",
 							"semi_transient": false,
 							"settings":
@@ -2616,7 +2598,64 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/appchr.cmd",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 151,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										151,
+										151
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/pma.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 83,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										83,
+										83
+									]
+								],
+								"settings":
+								{
+									"auto_name": "appchr http://localhost:8888/phpmyadmin 1100 800",
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -2671,6 +2710,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"hiuEnvironment\\.gitignore"
+					],
 					[
 						"ndm",
 						"cmder\\bin\\ndm.cmd"
@@ -2762,10 +2805,6 @@
 					[
 						"indexvue",
 						"hiu-me-vue\\src\\renderer\\components\\index.vue"
-					],
-					[
-						"",
-						"cmder\\-cur_console"
 					],
 					[
 						"land",
