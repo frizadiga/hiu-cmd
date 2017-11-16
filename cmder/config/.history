@@ -4855,3 +4855,44 @@ ccd & start-xampp
 cd-appjs/-hiuapps/hiuland/hiu-land-api
 ndm
 ccd & ndm
+cd f7-v2
+git reset 
+git reset --hard
+hs -p 1800
+git commit -m "add controller and model"
+ndm
+ccd & ndm
+pcd & cd.. & cd hiu-land-pwa
+ cd.. & cd hiu-land-pwa
+ccd & npm run dev
+git commit -m "add controller and model"
+start-xampp
+ccd & start-xampp
+cd-appjs/-hiuapps/hiuland/hiu-land-api
+ndm
+ccd & ndm
+cd ..
+git commit -m "upgrade cmder -> v 1.3.4"
+git add .
+git commit -m "update"
+git push
+cd /d A:\hiuData\hiuWEB\AppJS\-hiuApps\hiuLand\hiu-land-api
+sd -h
+git status
+d:
+git pull
+$http.get
+HTTP.get
+_http
+telegram
+chrome --headless --disable-gpu --print-to-pdf https://www.chromestatus.com/
+start C:\Program Files (x86)\Google\Chrome\Application\
+pcd
+cd /d C:\Program Files (x86)\Google\Chrome\Application\
+start .
+a:
+a:/
+cd/
+chrome --headless --disable-gpu --screenshot https://www.chromestatus.com/
+ls
+chrome --headless --disable-gpu --repl https://www.chromestatus.com/

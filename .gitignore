@@ -1,5 +1,6 @@
 *.swp
 *.swo
+*.history
 cmder/config/.history
 cmder/vendor/Sublime Text Portable/Data/Index
 cmder/vendor/Sublime Text Portable/Data/Local/Session.sublime_session
