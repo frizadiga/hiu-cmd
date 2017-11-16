@@ -2068,6 +2068,24 @@
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cmderr.cmd",
+					"settings":
+					{
+						"buffer_size": 20,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/her.cmd",
+					"settings":
+					{
+						"buffer_size": 60,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": "cd/ d \"../%CMDER_ROOT%\""
+					}
 				}
 			],
 			"build_system": "",
@@ -2174,7 +2192,9 @@
 			},
 			"expanded_folders":
 			[
-				"/D/hiuSoft/Application/hiuEnvironment"
+				"/D/hiuSoft/Application/hiuEnvironment",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder",
+				"/D/hiuSoft/Application/hiuEnvironment/cmder/bin"
 			],
 			"file_history":
 			[
@@ -2332,6 +2352,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"path",
 					"19px",
 					";*/\n",
 					"300ms",
@@ -2458,8 +2479,7 @@
 					"||",
 					"% ||",
 					"</td>",
-					"Proof",
-					"proof"
+					"Proof"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2511,7 +2531,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
@@ -2527,13 +2547,70 @@
 								"selection":
 								[
 									[
-										21,
-										21
+										920,
+										920
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/cmderr.cmd",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 20,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										20,
+										20
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/hiuSoft/Application/hiuEnvironment/cmder/bin/her.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 60,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										60,
+										60
+									]
+								],
+								"settings":
+								{
+									"auto_name": "cd/ d \"../%CMDER_ROOT%\"",
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
