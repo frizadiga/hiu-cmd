@@ -5255,3 +5255,46 @@ her
 git status
 her
 e.
+ssh
+git
+f7-v2-ks
+cd-appjs/playground/nuxt
+ccd & npm run dev
+npm run dev
+git commit -m "add new command & fix commands"
+xampp-control
+xampp-start
+git add.
+git status
+git commit -m "rename commands"
+f7-v2-ks
+cmder
+"%XAMPP%/xampp_start.exe""%XAMPP%/xampp_start.exe""%XAMPP%/xampp_start.exe"
+sl
+cd /d A:\hiuData\hiuWEB\hiuText
+her
+her
+e.
+git@github.com:frizadiga/hiu-cmd.git
+cd /d D:\hiuSoft\Application\hiu-cmd
+git remote -set-url origin git@github.com:frizadiga/hiu-cmd.git
+git remote set-url origin git@github.com:frizadiga/hiu-cmd.git
+git commit -m "pivot to hiu-cmd"
+git status -v
+git status
+git commit -m "update"
+git push
+cd ../hiu-text
+git init
+git commit -m "init hiu-text"
+git remote add origin git@github.com:frizadiga/hiu-text.git
+git push origin master
+git add .
+git commit -m " init hiu-text"
+git remote -v
+git push -u origin master
+cd-appjs
+cd playground
+ls
+cd nuxt
+npm run dev
