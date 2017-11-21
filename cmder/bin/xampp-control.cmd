@@ -1,1 +1,1 @@
-"A:\hiuData\hiuWEB\XAMPP\xampp-control.exe"
+"%XAMPP%/xampp-control.exe"

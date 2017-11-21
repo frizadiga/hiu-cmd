@@ -1,1 +1,1 @@
-%hiucmd%\hiuxampp\start.bat
+"%XAMPP%/xampp_start.exe"
