@@ -1,4 +1,4 @@
-# hiuEnvironment
-Apps Developing Environment
+# hiu-cmd
+Hackable Terminal Environment
 
-![hiuEnvironment](https://raw.githubusercontent.com/frizadiga/hiuEnvironment/master/SS.PNG)
+![hiu-cmd](https://raw.githubusercontent.com/frizadiga/hiu-cmd/master/SS.PNG)
