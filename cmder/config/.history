@@ -5137,3 +5137,19 @@ xampp-start
 xampp-control
 refreshenv
 xampp-start
+%XAMPP%/xampp-control
+xampp-control
+refreshenv
+e %xampp%
+e %XAMPP%
+her
+git add .
+git status
+git commit -m "add new command & fix commands"
+git push
+xampp-start
+git commit -m "add new command & fix commands"
+git push
+git status
+xampp-control
+xampp-start
