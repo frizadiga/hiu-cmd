@@ -1,1 +1,1 @@
-"%hiu-text%/hiu-text.exe"
+@echo "Opening hiu-text | Hackable Text Editor" & cd /d "%hiu-text%" & hiu-text.exe
