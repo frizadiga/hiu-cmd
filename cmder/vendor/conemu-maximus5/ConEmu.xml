@@ -642,20 +642,20 @@
 					<value name="Cmd5" type="string" data="* -cur_console:d:D:\hiuSoft\Application\hiuEnvirontment\cmder &quot;C:\Program Files (x86)\Microsoft VS Code\code.exe&quot;"/>
 					<value name="Cmd6" type="string" data="-cur_console:bns2T50H -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvirontment\cmder\icons\cmder.ico &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot; /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 6"/>
 				</key>
-				<key name="Task17" modified="2017-12-02 13:42:06" build="171117">
+				<key name="Task17" modified="2017-12-02 13:50:52" build="171117">
 					<value name="Name" type="string" data="{2-Rows}"/>
 					<value name="Flags" type="dword" data="00000001"/>
 					<value name="Hotkey" type="dword" data="0010114d"/>
 					<value name="GuiArgs" type="string" data=" /icon &quot;%CMDER_ROOT%\icons\cmder.ico&quot;"/>
 					<value name="Cmd1" type="string" data="-cur_console:bn -cur_console:d:C:\Users\frizadiga -cur_console:P:^&lt;Monokai^&gt; &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot;  /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
-					<value name="Cmd2" type="string" data="&gt;* -cur_console:fs1T49V -cur_console:d:D:\ -cur_console:P:^&lt;Monokai^&gt; &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot; /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
+					<value name="Cmd2" type="string" data="&gt;* -cur_console:fs1T60V -cur_console:d:D:\ -cur_console:P:^&lt;Monokai^&gt; &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot; /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
 					<value name="Cmd3" type="string" data="-cur_console:ns1T50H -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvirontment\cmder\icons\cmder.ico &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot;  /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 3"/>
 					<value name="Active" type="long" data="2"/>
 					<value name="Count" type="long" data="2"/>
 					<value name="Cmd4" type="string" data="-cur_console:ns1T85V -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvirontment\cmder\icons\cmder.ico &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot;  /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 4"/>
 					<value name="Cmd5" type="string" data="-cur_console:ns2T50H -cur_console:d:C:\Users\frizadiga -cur_console:C:D:\hiuSoft\Application\hiuEnvirontment\cmder\icons\cmder.ico &quot;C:\WINDOWS\SYSTEM32\cmd.exe&quot; /k &quot;%ConEmuDir%\..\init.bat&quot; &amp; echo 5"/>
 				</key>
-				<key name="Task18" modified="2017-12-02 13:42:06" build="171117">
+				<key name="Task18" modified="2017-12-02 13:50:52" build="171117">
 					<value name="Name" type="string" data="{3-Rows}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -691,11 +691,11 @@
 				</key>
 			</key>
 
-			<key name="Apps" modified="2017-12-02 13:42:06" build="171117">
+			<key name="Apps" modified="2017-12-02 13:50:52" build="171117">
 				<value name="Count" type="long" data="0"/>
 			</key>
-			<key name="Colors" modified="2017-12-02 13:42:06" build="171117">
-				<key name="Palette1" modified="2017-12-02 13:42:06" build="171117">
+			<key name="Colors" modified="2017-12-02 13:50:52" build="171117">
+				<key name="Palette1" modified="2017-12-02 13:50:52" build="171117">
 					<value name="Name" type="string" data="Monokai"/>
 					<value name="ExtendColors" type="hex" data="00"/>
 					<value name="ExtendColorIdx" type="hex" data="0e"/>
