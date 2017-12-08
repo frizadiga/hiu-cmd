@@ -1,1 +1,1 @@
-%windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariables
+@echo Opening Environment... & %windir%\System32\rundll32.exe sysdm.cpl,EditEnvironmentVariables

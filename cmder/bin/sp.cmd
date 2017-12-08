@@ -1,1 +1,1 @@
-sysdm.cpl %*
+@echo Opening System Properties... & sysdm.cpl %*

@@ -1,1 +1,1 @@
-chrome --profile-directory="Default" --app="data:text/html,<html><body><script>resizeTo(550,750);location='https://quran.com/%1/%2';;</script></body></html>"
+appchr https://quran.com/%1/%2 750 750

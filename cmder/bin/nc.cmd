@@ -1,1 +1,1 @@
-@echo Network Connections & ncpa.cpl
+@echo Opening Network Connections... & ncpa.cpl

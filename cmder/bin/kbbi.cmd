@@ -1,1 +1,1 @@
-chrome --profile-directory="Default" --app="data:text/html,<html><body><script>resizeTo(797,297);location='https://kbbi.web.id/';</script></body></html>"
+appchr https://kbbi.web.id 797 297

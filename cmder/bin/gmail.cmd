@@ -1,1 +1,1 @@
-chrome --profile-directory="Default" --app="data:text/html,<html><body><script>resizeTo(1200,900);location='https://mail.google.com';</script></body></html>"
+appchr https://mail.google.com 1200 900

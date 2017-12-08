@@ -1,1 +1,0 @@
-"%hiu-text%\vendor\Sublime Text Portable\sublime_text.exe" %1 -new_console:t:hiu-text
