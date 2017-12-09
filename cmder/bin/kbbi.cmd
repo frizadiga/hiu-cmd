@@ -1,1 +1,1 @@
-appchr https://kbbi.web.id 797 297
+appchr https://kbbi.web.id 797 597
