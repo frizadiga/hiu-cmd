@@ -1,0 +1,1 @@
+@echo npm install -g all my common deps... & npm i -g sails@beta http-server nodemon pm2 webpack firebase-tools live-server
