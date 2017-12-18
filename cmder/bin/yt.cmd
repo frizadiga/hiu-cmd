@@ -1,0 +1,3 @@
+appchr "https://www.youtube.com/embed/%1" 862 533
+
+REM chrome --profile-directory="Default" --app="data:text/html,<html><style>body{margin:0;padding:0;background:black;}</style><body><iframe style='width:100%;height:100%' width='100%' height='100%' src='https://www.youtube.com/embed/%1' frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe><script>window.resizeTo('850','550');</script></body></html>"
