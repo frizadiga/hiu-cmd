@@ -1,6 +1,6 @@
 @echo off
 
-if [%1]==[] echo (root path) hiu-env
+if "%1"=="" echo (root path) hiu-env
 
 cd /d "%CMDER_ROOT%" & cd../..
 
