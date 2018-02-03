@@ -1,0 +1,1 @@
+appchr "https://my.xl.co.id/pre/index1.html#/home/dashboard" 500 700
