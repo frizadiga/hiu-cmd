@@ -1,1 +1,1 @@
-"%XAMPP%/xampp-control.exe"
+"%XAMPP%/xampp_control.exe"
