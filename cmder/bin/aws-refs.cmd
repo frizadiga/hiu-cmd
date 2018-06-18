@@ -1,0 +1,1 @@
+chrome -new-window https://aws.amazon.com/ec2/instance-types/ https://aws.amazon.com/ec2/pricing/on-demand/ https://cloudonaut.io/ec2-network-performance-cheat-sheet/ https://www.digitalocean.com/pricing/
