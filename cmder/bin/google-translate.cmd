@@ -1,1 +1,1 @@
-appchr https://translate.google.com 810 500
+appchr https://translate.google.com 550 650
